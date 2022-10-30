@@ -1,0 +1,4 @@
+python GTFS_to_CSV_ROUTES.py
+python GTFS_TO_IMPORTABLE_STOP_CSV.py
+python GTFS_TO_JSON_STOP_ROUTES.py
+pause

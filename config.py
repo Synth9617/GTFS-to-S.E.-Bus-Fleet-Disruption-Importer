@@ -1,0 +1,7 @@
+import json
+class Config:
+    def __init__(self) -> None:
+        with open("config.json",'r') as f:
+            data = json.load(f)
+            self.GTFS_FILES = list(data['GTFS_FILES'])
+            self.OPERATOR_ALIAS = dict(data['OPERATOR_ALIAS'])

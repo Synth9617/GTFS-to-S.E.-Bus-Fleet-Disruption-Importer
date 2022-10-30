@@ -1,0 +1,1568 @@
+name,direction,latitude,longitude,atco,locality,indicator
+"Amersham, Railway Station (Stop A)",N,51.674965,-0.607715,040000002153,Amersham,Stop A
+"Amersham, Oakfield Corner (Stop B)",N,51.676386,-0.6077,040000002155,Amersham,Stop B
+"Amersham, Hervines Road (adj)",N,51.679796,-0.608651,040000002161,Amersham,adj
+"Amersham, Copperkins Lane (adj)",NW,51.681816,-0.60992,040000002163,Amersham,adj
+"Chesham Bois, Amersham Road (NW-bound)",NW,51.683596,-0.612108,040000002651,Chesham Bois,NW-bound
+"Chesham Bois, Bois Avenue (adj)",NW,51.685478,-0.614669,040000002165,Chesham Bois,adj
+"Chesham Bois, The Beacon School (o/s)",N,51.689399,-0.61397,040000002167,Chesham Bois,o/s
+"Chesham, The Wild Rover PH (Opp)",N,51.701236,-0.611163,040000002169,Chesham,Opp
+"Chesham, Red Lion Street (Northbound)",NW,51.702851,-0.612416,040000002171,Chesham,Northbound
+"Chesham, Broadway (Stop B)",E,51.70635,-0.612512,040000002173,Chesham,Stop B
+"Chesham, Police Station (Opp)",N,51.708825,-0.610453,040000002701,Chesham,Opp
+"Chesham, The Jolly Sportsman PH (Opp)",N,51.710737,-0.609352,040000002703,Chesham,Opp
+"Chesham, Berkhampstead Road (o/s 320)",N,51.713806,-0.608086,040000002705,Chesham,o/s 320
+"Chesham, The Nash Arms PH (o/s)",N,51.716405,-0.60734,040000002707,Chesham,o/s
+"Chesham, Preston Hill (Opp)",NE,51.717529,-0.603542,040000002709,Chesham,Opp
+"Chesham, Culverhouse Way (adj)",E,51.720906,-0.597183,040000002801,Chesham,adj
+"Lye Green, Deer Park Walk (opp)",E,51.720532,-0.592273,040000002803,Lye Green,opp
+"Lye Green, The Green (adj)",SE,51.720705,-0.584189,040000002727,Lye Green,adj
+"Orchard Leigh, Rushmere Lane (Eastbound)",E,51.719663,-0.569412,040000002596,Orchard Leigh,Eastbound
+"High Wycombe, High Wycombe BusStn (Bay 3)",,51.631174,-0.756764,040000002953,High Wycombe,Bay 3
+"High Wycombe, Oxford Street (Stop J)",E,51.630941,-0.753404,040000003058,High Wycombe,Stop J
+"High Wycombe, Castle Street (Stop V)",E,51.629732,-0.74799,040000003052,High Wycombe,Stop V
+"High Wycombe, Maybrook Gardens (Opp)",NE,51.634909,-0.742732,040000003101,High Wycombe,Opp
+"High Wycombe, Amersham Hill Drive (Opp)",NE,51.637563,-0.740289,040000003103,High Wycombe,Opp
+"High Wycombe, Royal Grammar School (o/s)",NE,51.641012,-0.73739,040000003105,High Wycombe,o/s
+"Terriers, Crossroads (o/s 169)",NE,51.644273,-0.732169,040000003109,Terriers,o/s 169
+"Terriers, De Havilland Drive (Opp)",E,51.646765,-0.724786,040000003113,Terriers,Opp
+"Hazlemere, St John's Road (Opp)",NE,51.647874,-0.720881,040000003115,Hazlemere,Opp
+"Hazlemere, Holy Trinity Church (Opp)",NE,51.649953,-0.716139,040000003117,Hazlemere,Opp
+"Hazlemere, Holmer Green Road (o/s 5)",N,51.652255,-0.712894,040000003119,Hazlemere,o/s 5
+"Hazlemere, Park Lane (Opp)",NE,51.655084,-0.711744,040000003087,Hazlemere,Opp
+"Hazlemere, Park Parade (adj)",N,51.657019,-0.709405,040000003121,Hazlemere,adj
+"Hazlemere, Sawpit Hill (o/s 49)",N,51.661191,-0.706149,040000003123,Hazlemere,o/s 49
+"Holmer Green, Copners Drive (opp)",NE,51.662509,-0.700906,040000002103,Holmer Green,opp
+"Holmer Green, Browns Road (NE-bound)",NE,51.664087,-0.696466,040000002105,Holmer Green,NE-bound
+"Holmer Green, The Pond (opp)",NE,51.665256,-0.693974,040000002107,Holmer Green,opp
+"Holmer Green, The Bat & Ball PH (Opp)",N,51.667631,-0.690913,040000002109,Holmer Green,Opp
+"Holmer Green, Winters Way (adj)",SE,51.667122,-0.687934,040000002111,Holmer Green,adj
+"Beamond End, Sheepcote Dell Road (Eastbound)",SE,51.662604,-0.679621,040000002113,Beamond End,Eastbound
+"Penn Street, Penn Wood (opp)",SE,51.66091,-0.664937,040000002115,Penn Street,opp
+"Winchmore Hill, New Road (Opp)",NE,51.657511,-0.633636,040000002135,Winchmore Hill,Opp
+"Old Amersham, Crematorium (o/s)",NE,51.659536,-0.626896,040000002137,Old Amersham,o/s
+"Old Amersham, Amersham Hospital (adj)",NE,51.661243,-0.622189,040000002097,Old Amersham,adj
+"Old Amersham, Gilbert Scott Court (adj)",NE,51.663639,-0.619427,040000002139,Old Amersham,adj
+"Old Amersham, Whielden Street (Stop C)",NE,51.665593,-0.616634,040000002141,Old Amersham,Stop C
+"Old Amersham, Broadway (Stop A)",E,51.665649,-0.612989,040000002143,Old Amersham,Stop A
+"Amersham, The Chequers PH (adj)",E,51.664351,-0.606609,040000002499,Amersham,adj
+"Amersham, Stanley Hill Schools (Stop S1)",N,51.668079,-0.594998,040000002600,Amersham,Stop S1
+"Amersham, Blackhorse Bridge (adj)",E,51.672749,-0.592294,040000002607,Amersham,adj
+"Amersham, Plantation Road (Opp)",NW,51.673961,-0.594324,040000002606,Amersham,Opp
+"Amersham, Green Lane (Opp)",NW,51.67617,-0.599405,040000002604,Amersham,Opp
+"Amersham, Leisure Centre (adj)",SW,51.676677,-0.602658,040000002602,Amersham,adj
+"Chesham, Eskdale Avenue (eastbound)",E,51.710595,-0.603437,040000002836,Chesham,eastbound
+"Chesham, Codmore Cross (Opp 129)",SE,51.709805,-0.599843,040000002743,Chesham,Opp 129
+"Orchard Leigh, Rushmere Lane (Westbound)",W,51.719523,-0.569749,040000002597,Orchard Leigh,Westbound
+"Chesham, Codmore Cross (adj 129)",NW,51.709651,-0.599732,040000002744,Chesham,adj 129
+"Chesham, Eskdale Avenue (Westbound)",W,51.710506,-0.60357,040000002825,Chesham,Westbound
+"Chesham, The Jolly Sportsman PH (o/s)",S,51.710715,-0.609035,040000002704,Chesham,o/s
+"Chesham, Police Station (adj)",S,51.708761,-0.61031,040000002702,Chesham,adj
+"Chesham, Broadway (Stop A)",W,51.706309,-0.612875,040000002174,Chesham,Stop A
+"Chesham, Red Lion Street (Southbound)",SE,51.702328,-0.611535,040000002172,Chesham,Southbound
+"Chesham, The Wild Rover PH (o/s)",S,51.700991,-0.610982,040000002170,Chesham,o/s
+"Chesham Bois, The Beacon School (Opp)",S,51.688869,-0.614001,040000002168,Chesham Bois,Opp
+"Chesham Bois, Bois Avenue (Opp)",SE,51.685639,-0.614577,040000002166,Chesham Bois,Opp
+"Chesham Bois, Amersham Road (SE-bound)",SE,51.683603,-0.611934,040000002652,Chesham Bois,SE-bound
+"Amersham, Copperkins Lane (opp)",SE,51.682371,-0.610438,040000002164,Amersham,opp
+"Amersham, Hervines Road (Opp)",S,51.679307,-0.608305,040000002162,Amersham,Opp
+"Amersham, Oakfield Corner (Stop C)",S,51.676303,-0.607515,040000002156,Amersham,Stop C
+"Amersham, Railway Station (Stop J)",S,51.67455,-0.607568,040000002213,Amersham,Stop J
+"Amersham, Leisure Centre (Opp)",NE,51.676581,-0.602907,040000002601,Amersham,Opp
+"Amersham, Green Lane (adj)",SE,51.675837,-0.598576,040000002603,Amersham,adj
+"Amersham, Plantation Road (adj)",SE,51.673658,-0.59309,040000002605,Amersham,adj
+"Amersham, The Chequers PH (Opp)",W,51.664131,-0.606239,040000002498,Amersham,Opp
+"Old Amersham, Broadway (Stop D)",W,51.665396,-0.612866,040000002142,Old Amersham,Stop D
+"Old Amersham, Whielden Street (Stop G)",SW,51.66584,-0.616193,040000002140,Old Amersham,Stop G
+"Old Amersham, Gilbert Scott Court (opp)",SW,51.663476,-0.619374,040000002138,Old Amersham,opp
+"Old Amersham, Amersham Hospital (Opp)",SW,51.661206,-0.622031,040000002096,Old Amersham,Opp
+"Old Amersham, Crematorium (Opp)",SW,51.659175,-0.627557,040000002136,Old Amersham,Opp
+"Winchmore Hill, New Road (adj)",SW,51.65677,-0.634858,040000002134,Winchmore Hill,adj
+"Winchmore Hill, Whielden Gate (Opp)",W,51.6531,-0.644119,040000002133,Winchmore Hill,Opp
+"Penn Street, Penn Wood (adj)",NW,51.661009,-0.665729,040000002116,Penn Street,adj
+"Beamond End, Sheepcote Dell Road (Westbound)",N,51.661632,-0.678738,040000002114,Beamond End,Westbound
+"Holmer Green, Winters Way (Opp)",NW,51.666221,-0.685415,040000002112,Holmer Green,Opp
+"Holmer Green, The Bat & Ball PH (adj)",S,51.667603,-0.690783,040000002110,Holmer Green,adj
+"Holmer Green, The Pond (adj)",SW,51.665271,-0.693713,040000002108,Holmer Green,adj
+"Holmer Green, Browns Road (SW-bound)",SW,51.663657,-0.697375,040000002106,Holmer Green,SW-bound
+"Holmer Green, Copners Drive (adj)",SW,51.662776,-0.699887,040000002104,Holmer Green,adj
+"Hazlemere, Sawpit Hill (o/s 70)",S,51.661171,-0.705962,040000003122,Hazlemere,o/s 70
+"Hazlemere, Park Parade (opp)",S,51.657829,-0.708674,040000003120,Hazlemere,opp
+"Hazlemere, Park Lane (adj)",SW,51.654762,-0.711883,040000003118,Hazlemere,adj
+"Hazlemere, Crossroads (Opp 323)",SW,51.650784,-0.714005,040000003116,Hazlemere,Opp 323
+"Hazlemere, Holy Trinity Church (o/s)",SW,51.649067,-0.718173,040000003114,Hazlemere,o/s
+"Hazlemere, St John's Road (adj)",SW,51.647527,-0.721295,040000003112,Hazlemere,adj
+"Terriers, De Havilland Drive (adj)",W,51.646769,-0.724309,040000003110,Terriers,adj
+"Terriers, Crossroads (o/s 160)",SW,51.644139,-0.732259,040000003108,Terriers,o/s 160
+"High Wycombe, Royal Grammar School (Opp)",SW,51.640956,-0.737218,040000003106,High Wycombe,Opp
+"High Wycombe, Amersham Hill Drive (adj)",SW,51.637712,-0.739967,040000003104,High Wycombe,adj
+"High Wycombe, Maybrook Gardens (adj)",SW,51.634409,-0.743006,040000003102,High Wycombe,adj
+"High Wycombe, Station Interchange (Stop X2)",,51.629748,-0.746054,040000002972,High Wycombe,Stop X2
+"High Wycombe, Castle Street (Stop W)",W,51.629596,-0.747849,040000003053,High Wycombe,Stop W
+"High Wycombe, Oxford Street (Stop K)",W,51.63076,-0.753308,040000003061,High Wycombe,Stop K
+"Lye Green, The Green (opp)",NW,51.720653,-0.584393,040000002728,Lye Green,opp
+"Lye Green, Deer Park Walk (Adj)",W,51.720479,-0.592318,040000002804,Lye Green,Adj
+"Chesham, Culverhouse Way (Opp)",W,51.720768,-0.597709,040000002802,Chesham,Opp
+"Chesham, Lycrome Road (adj)",S,51.72001,-0.598963,040000002712,Chesham,adj
+"Chesham, Preston Hill (adj)",SW,51.717656,-0.602944,040000002710,Chesham,adj
+"Chesham, The Nash Arms PH (Opp)",S,51.716349,-0.607211,040000002708,Chesham,Opp
+"Chesham, Berkhampstead Road (o/s 273)",S,51.713454,-0.607952,040000002706,Chesham,o/s 273
+"Amersham, Station Road (Stop H)",N,51.665902,-0.60779,040000002147,Amersham,Stop H
+"Amersham, Beech Grove (Opp)",N,51.669264,-0.606877,040000002149,Amersham,Opp
+"Amersham, The Rise (Opp)",N,51.671517,-0.607314,040000002151,Amersham,Opp
+"Chesham, Townsend Road (Opp)",N,51.710126,-0.613236,040000002175,Chesham,Opp
+"Chesham, Fire Station (adj)",NW,51.713434,-0.615421,040000002177,Chesham,adj
+"Chesham, Valley View (adj)",NW,51.716322,-0.617823,040000002813,Chesham,adj
+"Chesham, Hivings Hill (Opp 117)",NW,51.716861,-0.618603,040000002179,Chesham,Opp 117
+"Chesham, Hope Church (Opp)",SE,51.721291,-0.617599,040000002181,Chesham,Opp
+"Chesham, Windsor Road (adj)",S,51.71936,-0.616181,040000002183,Chesham,adj
+"Chesham, Lyndhurst Road (o/s 47)",S,51.71738,-0.613752,040000002185,Chesham,o/s 47
+"Chesham, Lansdowne Road (o/s 7)",S,51.715245,-0.611183,040000002099,Chesham,o/s 7
+"Chesham, Addison Road (Eastbound)",E,51.714685,-0.609448,040000002698,Chesham,Eastbound
+"Amersham, The Rise (adj)",S,51.671651,-0.607238,040000002150,Amersham,adj
+"Amersham, Beech Grove (adj)",S,51.669352,-0.60673,040000002148,Amersham,adj
+"Amersham, Station Road (Stop I)",S,51.665383,-0.607994,040000002146,Amersham,Stop I
+"High Wycombe, High Wycombe BusStn (Bay 13)",,51.631412,-0.75631,040000002963,High Wycombe,Bay 13
+"High Wycombe, St John's Church (adj)",W,51.63121,-0.760144,040000003347,High Wycombe,adj
+"High Wycombe, Baker Street (Opp)",N,51.633196,-0.761766,040000003288,High Wycombe,Opp
+"High Wycombe, The White Horse PH (adj)",NW,51.634853,-0.764539,040000003329,High Wycombe,adj
+"High Wycombe, Desborough Park Road (adj)",NW,51.637172,-0.772134,040000003331,High Wycombe,adj
+"High Wycombe, Mill End Road (adj)",NW,51.639127,-0.778584,040000003333,High Wycombe,adj
+"High Wycombe, Pheasant Drive (adj)",NE,51.64043,-0.78024,040000003309,High Wycombe,adj
+"High Wycombe, Falcon Rise (adj)",NW,51.64192,-0.782541,040000003305,High Wycombe,adj
+"High Wycombe, Curlew Close (opp)",NE,51.644475,-0.782733,040000003307,High Wycombe,opp
+"High Wycombe, Plomer Green Avenue (Eastbound)",E,51.644871,-0.775814,040000003308,High Wycombe,Eastbound
+"Downley, Hillfield Close (adj)",SE,51.64357,-0.77345,040000003296,Downley,adj
+"Downley, Downs Park (adj)",SE,51.642281,-0.771505,040000003084,Downley,adj
+"High Wycombe, Pastures Church (o/s)",E,51.640086,-0.76798,040000003276,High Wycombe,o/s
+"High Wycombe, The Pastures (o/s 241)",SE,51.638788,-0.765067,040000003274,High Wycombe,o/s 241
+"High Wycombe, Brindley Avenue (adj)",E,51.638004,-0.7623,040000003272,High Wycombe,adj
+"High Wycombe, Hughenden Avenue (adj)",E,51.639115,-0.75344,040000003264,High Wycombe,adj
+"High Wycombe, The Beaconsfield Arms PH (adj)",S,51.637533,-0.750954,040000003254,High Wycombe,adj
+"Hazlemere, Crossroads (Opp 15)",E,51.651515,-0.711802,040000003135,Hazlemere,Opp 15
+"Hazlemere, Rose Avenue (o/s 16)",S,51.650442,-0.708262,040000003137,Hazlemere,o/s 16
+"Hazlemere, Sir William Ramsay School (Inside)",N,51.647702,-0.710286,040000005015,Hazlemere,Inside
+"Tylers Green, William Ramsay School (o/s)",N,51.648436,-0.71066,040000003136,Tylers Green,o/s
+"Hazlemere, Rose Avenue (opp 1)",N,51.650249,-0.708672,040000003134,Hazlemere,opp 1
+"High Wycombe, The Beaconsfield Arms PH (Opp)",N,51.638169,-0.750778,040000003267,High Wycombe,Opp
+"High Wycombe, Hughenden Avenue (opp)",W,51.638726,-0.751586,040000003277,High Wycombe,opp
+"High Wycombe, Brindley Avenue (Opp)",W,51.637867,-0.762101,040000003285,High Wycombe,Opp
+"High Wycombe, The Pastures (o/s 240)",NW,51.638802,-0.765515,040000003287,High Wycombe,o/s 240
+"High Wycombe, Pastures Church (Opp)",W,51.640318,-0.768653,040000003289,High Wycombe,Opp
+"Downley, Downs Park (Opp)",NW,51.641791,-0.771056,040000003085,Downley,Opp
+"Downley, Hillfield Close (Opp)",NW,51.643462,-0.773453,040000003291,Downley,Opp
+"High Wycombe, Plomer Green Avenue (o/s 3)",NW,51.644452,-0.774452,040000003297,High Wycombe,o/s 3
+"Downley, Cross Court Shops (Opp)",W,51.644914,-0.777388,040000003299,Downley,Opp
+"Downley, South View (adj)",W,51.645076,-0.779089,040000003290,Downley,adj
+"High Wycombe, Curlew Close (adj)",W,51.644392,-0.782446,040000003292,High Wycombe,adj
+"High Wycombe, Falcon Rise (Opp)",SE,51.642037,-0.782553,040000003294,High Wycombe,Opp
+"High Wycombe, Pheasant Drive (Opp)",SW,51.640574,-0.779369,040000003298,High Wycombe,Opp
+"High Wycombe, Mill End Road (Opp)",E,51.639215,-0.778409,040000003324,High Wycombe,Opp
+"High Wycombe, Mill End Road East (opp)",SE,51.638815,-0.777133,040000002933,High Wycombe,opp
+"High Wycombe, Desborough Park Road (Opp)",SE,51.636868,-0.770654,040000003322,High Wycombe,Opp
+"High Wycombe, The White Horse PH (Opp)",SE,51.635426,-0.765997,040000003320,High Wycombe,Opp
+"High Wycombe, Baker Street (adj)",S,51.633248,-0.761548,040000003279,High Wycombe,adj
+"High Wycombe, St John's Church (opp)",E,51.631412,-0.760572,040000003336,High Wycombe,opp
+"High Wycombe, Coachway (Stand C)",,51.614271,-0.763725,040000000903,High Wycombe,Stand C
+"Cressex, Next ()",W,51.613346,-0.774722,040000005030,Cressex,
+"Cressex, Cressex Link Road (adjacent)",N,51.615187,-0.778689,040000002939,Cressex,adjacent
+"Cressex, Coronation Road (Opp 2)",N,51.617032,-0.778369,040000003440,Cressex,Opp 2
+"Cressex, Halifax Road (adj)",N,51.620159,-0.778169,040000003400,Cressex,adj
+"Cressex, Lincoln Road (adj)",SE,51.621281,-0.773661,040000003402,Cressex,adj
+"Cressex, Lancaster Road (Opp 19)",SE,51.61942,-0.769349,040000003406,Cressex,Opp 19
+"High Wycombe, Carver Hill Road (opp)",N,51.623215,-0.766054,040000003408,High Wycombe,opp
+"High Wycombe, The Wendover Arms PH (o/s)",N,51.626855,-0.764944,040000003410,High Wycombe,o/s
+"High Wycombe, Plumer Road (adj)",N,51.629048,-0.764046,040000003412,High Wycombe,adj
+"High Wycombe, Wycombe General Hospital (Stop U)",E,51.627105,-0.75219,040000003418,High Wycombe,Stop U
+"High Wycombe, Town Hall (Stop T)",N,51.627952,-0.748863,040000003095,High Wycombe,Stop T
+"High Wycombe, Crendon Street (o/s 25)",NE,51.629109,-0.747747,040000003063,High Wycombe,o/s 25
+"High Wycombe, Station Interchange (Stop X3)",,51.629655,-0.745767,040000002973,High Wycombe,Stop X3
+"High Wycombe, High Wycombe BusStn (Bay 2)",,51.631157,-0.756808,040000002952,High Wycombe,Bay 2
+"High Wycombe, West End Road (adj)",S,51.630539,-0.762994,040000003429,High Wycombe,adj
+"High Wycombe, Plumer Road (Opp)",S,51.628992,-0.763845,040000003427,High Wycombe,Opp
+"High Wycombe, The Wendover Arms PH (Opp)",S,51.626171,-0.764933,040000003425,High Wycombe,Opp
+"High Wycombe, Carver Hill Road (adj)",S,51.622754,-0.765763,040000003423,High Wycombe,adj
+"Cressex, Lancaster Road (o/s 1)",NW,51.619432,-0.769666,040000003411,Cressex,o/s 1
+"Cressex, Lincoln Road (Opp)",NW,51.62143,-0.774177,040000003413,Cressex,Opp
+"Cressex, Halifax Road (Opp)",S,51.620077,-0.778027,040000003415,Cressex,Opp
+"Cressex, Coronation Road (Southbound)",S,51.617085,-0.778237,040000003971,Cressex,Southbound
+"Cressex, Cressex Link Road (opp)",S,51.615833,-0.77833,040000002940,Cressex,opp
+"Cressex, John Hall Way (Eastbound)",E,51.613428,-0.775071,040000003383,Cressex,Eastbound
+"Booker, YMCA (adj)",S,51.613002,-0.779127,040000002906,Booker,adj
+"High Wycombe, Southfield Road (o/s 11)",E,51.640105,-0.776636,040000003311,High Wycombe,o/s 11
+"High Wycombe, White Close (adj)",E,51.640072,-0.773501,040000003313,High Wycombe,adj
+"High Wycombe, Middlebrook Road (o/s 51)",E,51.639743,-0.770374,040000003315,High Wycombe,o/s 51
+"High Wycombe, Cotswold Way (o/s 25)",SE,51.637881,-0.768575,040000003306,High Wycombe,o/s 25
+"High Wycombe, Brecon Way (o/s 87)",SE,51.636534,-0.766198,040000003086,High Wycombe,o/s 87
+"High Wycombe, Cumbrian Way (o/s 73)",SE,51.635813,-0.76431,040000003088,High Wycombe,o/s 73
+"High Wycombe, Mendip Way (o/s 100)",SE,51.635228,-0.762592,040000003090,High Wycombe,o/s 100
+"High Wycombe, Riverside (opp)",SE,51.633555,-0.759964,040000003316,High Wycombe,opp
+"High Wycombe, High Wycombe BusStn (Bay 1)",,51.63113,-0.756852,040000002951,High Wycombe,Bay 1
+"High Wycombe, Railway Station (opp)",E,51.630262,-0.746213,040000003165,High Wycombe,opp
+"High Wycombe, Duke Street (Opp)",E,51.62973,-0.741908,040000003167,High Wycombe,Opp
+"High Wycombe, Lucas Road (Adj)",E,51.629514,-0.738475,040000003169,High Wycombe,Adj
+"High Wycombe, Bowerdean Crossroads (o/s 137)",S,51.630483,-0.734966,040000003188,High Wycombe,o/s 137
+"High Wycombe, Chichester Close (adj)",S,51.627778,-0.734304,040000003190,High Wycombe,adj
+"High Wycombe, Cricket Ground (Opp)",E,51.624975,-0.734483,040000003245,High Wycombe,Opp
+"High Wycombe, Chestnut Avenue (opp)",E,51.623657,-0.731559,040000003247,High Wycombe,opp
+"High Wycombe, London Road Lidl (Opp)",E,51.622801,-0.727234,040000003249,High Wycombe,Opp
+"Wycombe Marsh, Post Office (Opp)",E,51.620546,-0.719916,040000003251,Wycombe Marsh,Opp
+"High Wycombe, Cock Lane (o/s 55)",NE,51.623214,-0.713109,040000003949,High Wycombe,o/s 55
+"High Wycombe, Olympic Way (o/s 86)",S,51.624497,-0.711378,040000003442,High Wycombe,o/s 86
+"High Wycombe, Cock Lane (opp 49)",SW,51.622849,-0.713452,040000003950,High Wycombe,opp 49
+"High Wycombe, Bank Street (o/s 3)",SE,51.620032,-0.71655,040000003951,High Wycombe,o/s 3
+"High Wycombe, Orchard Road (o/s 2)",SE,51.618377,-0.713188,040000003952,High Wycombe,o/s 2
+"Wycombe Marsh, The King George V PH (Opp)",E,51.61644,-0.712882,040000003257,Wycombe Marsh,Opp
+"High Wycombe, Hammersley Lane (adj)",SE,51.615641,-0.709669,040000003259,High Wycombe,adj
+"High Wycombe, The Rise (adj)",SE,51.615697,-0.703312,040000003131,High Wycombe,adj
+"High Wycombe, Magpie Wood (adj)",SE,51.614291,-0.701446,040000003133,High Wycombe,adj
+"High Wycombe, Hammersley Lane (Opp)",NW,51.615018,-0.708603,040000003236,High Wycombe,Opp
+"Wycombe Marsh, The King George V PH (adj)",W,51.616099,-0.712082,040000003234,Wycombe Marsh,adj
+"Wycombe Marsh, Ford Street (adj)",NW,51.618369,-0.716583,040000003232,Wycombe Marsh,adj
+"Wycombe Marsh, Post Office (o/s)",NW,51.620823,-0.721425,040000003230,Wycombe Marsh,o/s
+"High Wycombe, London Road Lidl (Adj)",W,51.622764,-0.727864,040000003250,High Wycombe,Adj
+"High Wycombe, Chestnut Avenue (adj)",W,51.623292,-0.73102,040000003248,High Wycombe,adj
+"High Wycombe, Gordon Road (o/s 86)",N,51.626143,-0.735303,040000003253,High Wycombe,o/s 86
+"High Wycombe, Chichester Close (Opp)",N,51.62762,-0.734598,040000003163,High Wycombe,Opp
+"High Wycombe, Bowerdean Crossroads (o/s 144)",SW,51.630525,-0.735557,040000003172,High Wycombe,o/s 144
+"High Wycombe, Lucas Road (opp)",W,51.629411,-0.73816,040000003174,High Wycombe,opp
+"High Wycombe, Duke Street (adj)",W,51.629736,-0.742456,040000003176,High Wycombe,adj
+"High Wycombe, Brook Street (adj)",W,51.632633,-0.757808,040000003325,High Wycombe,adj
+"High Wycombe, Riverside (adj)",NW,51.633494,-0.760111,040000003327,High Wycombe,adj
+"High Wycombe, High Wycombe BusStn (Bay 4)",,51.631201,-0.75672,040000002954,High Wycombe,Bay 4
+"High Wycombe, High Street (Stop R)",E,51.628654,-0.748916,040000003054,High Wycombe,Stop R
+"High Wycombe, Trinity Church (o/s)",E,51.6269,-0.742925,040000003243,High Wycombe,o/s
+"High Wycombe, Hillary Road (adj)",N,51.626796,-0.723323,040000003231,High Wycombe,adj
+"High Wycombe, Windrush Court (adj)",S,51.627777,-0.721706,040000002942,High Wycombe,adj
+"High Wycombe, Windrush Drive (Southbound)",S,51.626226,-0.72136,040000002949,High Wycombe,Southbound
+"High Wycombe, St Hugh's Avenue (Southbound)",S,51.625408,-0.720516,040000003449,High Wycombe,Southbound
+"High Wycombe, Hennerton Way South (adj)",S,51.624639,-0.720928,040000003451,High Wycombe,adj
+"High Wycombe, Horsenden Road (opp)",N,51.624108,-0.720047,040000003235,High Wycombe,opp
+"High Wycombe, Gynant Road (Opp)",N,51.625384,-0.719159,040000003099,High Wycombe,Opp
+"High Wycombe, Roebuck Avenue (o/s 6)",N,51.626965,-0.717351,040000003237,High Wycombe,o/s 6
+"High Wycombe, Misbourne Avenue (adj)",NW,51.627318,-0.717587,040000003252,High Wycombe,adj
+"High Wycombe, Hicks Farm Rise (Opp 102)",N,51.629845,-0.720102,040000003220,High Wycombe,Opp 102
+"Totteridge, Baring Road (Opp)",N,51.632764,-0.722216,040000003222,Totteridge,Opp
+"Totteridge, Hollis Road (o/s 23)",N,51.634556,-0.722513,040000003192,Totteridge,o/s 23
+"Totteridge, Holywell Gardens (Opp)",S,51.631876,-0.723238,040000003194,Totteridge,Opp
+"High Wycombe, The Quadrangle (opp)",W,51.630934,-0.725995,040000003196,High Wycombe,opp
+"High Wycombe, Baptist Church (adj)",S,51.630809,-0.728513,040000003198,High Wycombe,adj
+"High Wycombe, Everest Road (opp)",E,51.628806,-0.727861,040000003200,High Wycombe,opp
+"High Wycombe, Hillary Close (adj)",S,51.628024,-0.72456,040000003202,High Wycombe,adj
+"High Wycombe, Hillary Road (opp)",S,51.625991,-0.722912,040000003204,High Wycombe,opp
+"High Wycombe, Cricket Ground (adj)",W,51.625448,-0.736666,040000003246,High Wycombe,adj
+"High Wycombe, Trinity Church (opp)",W,51.626802,-0.743,040000003244,High Wycombe,opp
+"High Wycombe, High Street (Stop S)",W,51.628658,-0.749262,040000003055,High Wycombe,Stop S
+"High Wycombe, High Wycombe BusStn (Bay 5)",,51.631227,-0.756676,040000002955,High Wycombe,Bay 5
+"Wycombe Marsh, Ford Street (Opp)",SE,51.617983,-0.715814,040000003255,Wycombe Marsh,Opp
+"Loudwater, Rayners Avenue (adj)",SE,51.611696,-0.702603,040000003261,Loudwater,adj
+"Loudwater, Loudwater Turn (Opp)",NW,51.6096,-0.699211,040000003263,Loudwater,Opp
+"Loudwater, The Papermill (o/s)",SE,51.607633,-0.696148,040000003265,Loudwater,o/s
+"Loudwater, Tesco (Opp)",SE,51.605311,-0.69116,040000003047,Loudwater,Opp
+"Wooburn Moor, Whitehouse Lane (adj)",E,51.602189,-0.685373,040000003049,Wooburn Moor,adj
+"Holtspur, The King's Head PH (adj)",E,51.59974,-0.66832,040000001207,Holtspur,adj
+"Holtspur, North Drive (adj)",E,51.59955,-0.665019,040000001209,Holtspur,adj
+"Holtspur, Burkes Road (adj)",E,51.599372,-0.658108,040000001211,Holtspur,adj
+"Beaconsfield Old Town, Butlers Court Road (adj)",E,51.599453,-0.648706,040000001213,Beaconsfield Old Town,adj
+"Beaconsfield Old Town, The Saracen's Head PH (Stop J)",E,51.601991,-0.635664,040000001215,Beaconsfield Old Town,Stop J
+"Beaconsfield Old Town, Cricket Ground (adj)",E,51.601941,-0.629847,040000001233,Beaconsfield Old Town,adj
+"Bulstrode Park, Potkiln Lane (adj)",E,51.598019,-0.60682,040000001347,Bulstrode Park,adj
+"Bulstrode Park, Crowne Plaza (Opp)",SE,51.595208,-0.595761,040000001345,Bulstrode Park,Opp
+"Bulstrode Park, Mumfords Lane (adj)",E,51.591867,-0.582597,040000001343,Bulstrode Park,adj
+"Gerrards Cross, Bulstrode Park (opp)",E,51.59149,-0.575982,040000001341,Gerrards Cross,opp
+"Gerrards Cross, The Bull Hotel (Opp)",SE,51.587806,-0.563669,040000001339,Gerrards Cross,Opp
+"Gerrards Cross, Bulstrode Court (Opp)",SE,51.584652,-0.560189,040000001337,Gerrards Cross,Opp
+"Gerrards Cross, Windsor Road (opp)",SE,51.582551,-0.557498,040000001335,Gerrards Cross,opp
+"Gerrards Cross, East Common (adj)",SE,51.579771,-0.553718,040000001333,Gerrards Cross,adj
+"Tatling End, Heusden Way (Opp)",SE,51.575968,-0.541428,040000001329,Tatling End,Opp
+"Tatling End, Fulmer Lane (Opp)",SE,51.574954,-0.53729,040000001327,Tatling End,Opp
+"Tatling End, Pinstone Way (Opp)",SE,51.573979,-0.531188,040000001325,Tatling End,Opp
+"Tatling End, Toby Carvery (Opp)",SE,51.573231,-0.526768,040000001323,Tatling End,Opp
+"Tatling End, Mount Lane (Opp)",SE,51.571657,-0.519604,040000001321,Tatling End,Opp
+"Denham, Denham Avenue (adj)",SE,51.568239,-0.503886,040000001307,Denham,adj
+"Denham, Springbridge Nurseries (opp)",SE,51.566068,-0.500754,040000001305,Denham,opp
+"New Denham, Knighton Way Lane (Opp)",SE,51.556175,-0.490867,040000001303,New Denham,Opp
+"New Denham, Oakside (adj)",SE,51.552806,-0.487589,040000001301,New Denham,adj
+"New Denham, Oakside (Opp)",NW,51.553419,-0.488434,040000001302,New Denham,Opp
+"New Denham, Knighton Way Lane (adj)",NW,51.555741,-0.490679,040000001304,New Denham,adj
+"Denham, Springbridge Nurseries (adj)",NW,51.565948,-0.501249,040000001306,Denham,adj
+"Tatling End, Mount Lane (adj)",NW,51.571498,-0.520532,040000001322,Tatling End,adj
+"Tatling End, Toby Carvery (adj)",NW,51.572934,-0.526734,040000001324,Tatling End,adj
+"Tatling End, Pinstone Way (o/s)",NW,51.573988,-0.532631,040000001326,Tatling End,o/s
+"Tatling End, Fulmer Lane (adj)",NW,51.574848,-0.537452,040000001300,Tatling End,adj
+"Tatling End, Heusden Way (adj)",NW,51.576039,-0.542061,040000001328,Tatling End,adj
+"Gerrards Cross, Gaviots Close (adj)",W,51.577351,-0.548585,040000001330,Gerrards Cross,adj
+"Gerrards Cross, East Common (opp)",NW,51.579876,-0.554206,040000001332,Gerrards Cross,opp
+"Gerrards Cross, Windsor Road (adj)",NW,51.582244,-0.557407,040000001334,Gerrards Cross,adj
+"Gerrards Cross, Bulstrode Court (adj)",NW,51.583697,-0.559309,040000001336,Gerrards Cross,adj
+"Gerrards Cross, The Bull Hotel (adj)",NW,51.586761,-0.562778,040000001338,Gerrards Cross,adj
+"Gerrards Cross, Bulstrode Park (adj)",W,51.591327,-0.575944,040000001340,Gerrards Cross,adj
+"Bulstrode Park, Mumfords Lane (Opp)",W,51.591676,-0.583166,040000001342,Bulstrode Park,Opp
+"Bulstrode Park, Crowne Plaza (adj)",NW,51.5947,-0.595358,040000001344,Bulstrode Park,adj
+"Bulstrode Park, Potkiln Lane (Opp)",W,51.598006,-0.607947,040000001346,Bulstrode Park,Opp
+"Beaconsfield Old Town, Cricket Ground (Opp)",W,51.601971,-0.630842,040000001234,Beaconsfield Old Town,Opp
+"Beaconsfield Old Town, The Saracen's Head PH (Stop K)",W,51.601601,-0.637726,040000001216,Beaconsfield Old Town,Stop K
+"Beaconsfield Old Town, Butlers Court Road (Opp)",W,51.599096,-0.649727,040000001214,Beaconsfield Old Town,Opp
+"Holtspur, Burkes Road (opp)",W,51.599267,-0.659901,040000001212,Holtspur,opp
+"Holtspur, North Drive (Opp)",W,51.599389,-0.664359,040000001210,Holtspur,Opp
+"Holtspur, The King's Head PH (opp)",W,51.59943,-0.670321,040000001208,Holtspur,opp
+"Wooburn Moor, Whitehouse Lane (Opp)",W,51.602308,-0.686352,040000003050,Wooburn Moor,Opp
+"Loudwater, Tesco (o/s)",NW,51.605112,-0.691065,040000003048,Loudwater,o/s
+"Loudwater, The Papermill (opp)",NW,51.607469,-0.696023,040000003242,Loudwater,opp
+"Loudwater, Loudwater Turn (adj)",NW,51.610499,-0.700803,040000003240,Loudwater,adj
+"Loudwater, Rayners Avenue (opp)",NW,51.611692,-0.703007,040000003238,Loudwater,opp
+"Beaconsfield, Ronald Road (adj)",N,51.606745,-0.633153,040000001232,Beaconsfield,adj
+"Beaconsfield, Waller Road (adj)",W,51.610779,-0.633581,040000001230,Beaconsfield,adj
+"Beaconsfield, St Mary's School (o/s)",W,51.610514,-0.638644,040000001228,Beaconsfield,o/s
+"Beaconsfield, Maxwell Road (Stop D)",W,51.610144,-0.643998,040000001226,Beaconsfield,Stop D
+"Beaconsfield Old Town, Aylesbury End (Stop G)",N,51.602891,-0.638077,040000001217,Beaconsfield Old Town,Stop G
+"Beaconsfield, Candlemas Lane (Opp)",NW,51.606291,-0.64046,040000001219,Beaconsfield,Opp
+"Beaconsfield, Maxwell Road (Stop B)",E,51.610308,-0.643387,040000001225,Beaconsfield,Stop B
+"Beaconsfield, St Mary's School (Opp)",E,51.610606,-0.638858,040000001227,Beaconsfield,Opp
+"Beaconsfield, Waller Road (Opp)",E,51.610879,-0.633737,040000001229,Beaconsfield,Opp
+"Beaconsfield Wilton Park, Wilton Park ()",S,51.603891,-0.623608,040000000331,Beaconsfield Wilton Park,
+"Gerrards Cross, Gaviots Close (opp)",E,51.577628,-0.549139,040000001331,Gerrards Cross,opp
+"Beaconsfield Wilton Park, Wilton Park ()",N,51.603619,-0.624164,040000000347,Beaconsfield Wilton Park,
+"Beaconsfield, Candlemas Lane (adj)",SE,51.607099,-0.641143,040000001220,Beaconsfield,adj
+"Beaconsfield Old Town, Aylesbury End (Stop H)",S,51.602852,-0.637819,040000001218,Beaconsfield Old Town,Stop H
+"Beaconsfield, Ronald Road (Opp)",S,51.60625,-0.633096,040000001231,Beaconsfield,Opp
+"Beaconsfield Services, Beaconsfield Services (Adj)",S,51.589492,-0.629543,040000001235,Beaconsfield Services,Adj
+"Beaconsfield, Bower Wood (adj)",S,51.582786,-0.628907,040000001237,Beaconsfield,adj
+"Farnham Common, Harehatch Lane (Opp)",S,51.575143,-0.623509,040000001239,Farnham Common,Opp
+"Farnham Common, The Yew Tree PH (adj)",SE,51.572337,-0.621242,040000001241,Farnham Common,adj
+"Hedgerley, Clare Drive (Opp)",SE,51.566086,-0.617247,040000001243,Hedgerley,Opp
+"Farnham Common, Hedgerley Corner (adj)",S,51.56285,-0.615109,040000001253,Farnham Common,adj
+"Farnham Common, The Royal Oak PH (opp)",S,51.560378,-0.615169,040000001255,Farnham Common,opp
+"Farnham Common, Templewood Lane (adj)",S,51.557458,-0.61533,040000001257,Farnham Common,adj
+"Farnham Common, The Forester's Arms (adj)",S,51.553968,-0.615292,040000001259,Farnham Common,adj
+"Farnham Common, Kennedy Close (Opp)",S,51.550134,-0.615004,040000001261,Farnham Common,Opp
+"Farnham Royal, Farnham Park Lane (adj)",S,51.546621,-0.615241,040000001263,Farnham Royal,adj
+"Farnham Royal, Fairfield Lane (Opp)",S,51.541445,-0.616234,040000001265,Farnham Royal,Opp
+"Farnham Royal, The Farnham Pump PH (adj)",S,51.538484,-0.616814,040000001267,Farnham Royal,adj
+"Britwell, St Anthonys RC Church (nr)",S,51.534462,-0.617641,03700374,Britwell,nr
+"Britwell, Crofthill Road (opp)",S,51.531646,-0.61751,03700373,Britwell,opp
+"Britwell, Lidl (S-bound)",S,51.526979,-0.615993,03700376,Britwell,S-bound
+"Slough Trading Estate, Farnham Road PO (o/s)",S,51.523399,-0.615179,03700377,Slough Trading Estate,o/s
+"Slough Trading Estate, Buckingham Avenue Centre (o/s)",S,51.519557,-0.614979,03700379,Slough Trading Estate,o/s
+"Slough Trading Estate, Salt Hill Three Tuns (S-bound)",S,51.513411,-0.612355,03700380,Slough Trading Estate,S-bound
+"Baylis, Windmill Road (adj)",SE,51.51187,-0.608986,03700381,Baylis,adj
+"Chalvey, Salt Hill Park (adj)",E,51.511662,-0.604133,03700382,Chalvey,adj
+"Slough Town Centre, Library (Stop W)",E,51.51066,-0.59664,03700337,Slough Town Centre,Stop W
+"Slough Town Centre, Slough Bus Station (Bay 7)",,51.511434,-0.592844,03700527,Slough Town Centre,Bay 7
+"Slough Town Centre, Library (Stop F)",W,51.510398,-0.596626,03700336,Slough Town Centre,Stop F
+"Elliman, Gala Bingo Hall (o/s)",NW,51.510861,-0.601307,03700429,Elliman,o/s
+"Chalvey, Salt Hill Park (opp)",W,51.51128,-0.604724,03700430,Chalvey,opp
+"Baylis, Windmill Road (opp)",W,51.511778,-0.60958,03700431,Baylis,opp
+"Slough Trading Estate, Salt Hill Three Tuns (N-bound)",N,51.513469,-0.612699,03700256,Slough Trading Estate,N-bound
+"Slough Trading Estate, Buckingham Avenue Centre (opp)",N,51.520533,-0.615353,03700369,Slough Trading Estate,opp
+"Slough Trading Estate, Farnham Road PO (opp)",N,51.524717,-0.6156,03700370,Slough Trading Estate,opp
+"Britwell, Lidl (N-bound)",N,51.526424,-0.616197,03700371,Britwell,N-bound
+"Britwell, Crofthill Road (adj)",N,51.53127,-0.617651,03700372,Britwell,adj
+"Britwell, St Anthonys RC Church (opp)",N,51.534745,-0.617992,03700375,Britwell,opp
+"Farnham Royal, The Farnham Pump PH (Opp)",N,51.538513,-0.616958,040000001268,Farnham Royal,Opp
+"Farnham Royal, Fairfield Lane (adj)",N,51.542533,-0.61623,040000001266,Farnham Royal,adj
+"Farnham Royal, Farnham Park Lane (Opp)",N,51.546686,-0.615398,040000001264,Farnham Royal,Opp
+"Farnham Common, Kennedy Close (adj)",N,51.550806,-0.615489,040000001262,Farnham Common,adj
+"Farnham Common, The Forester's Arms (opp)",N,51.553718,-0.615429,040000001260,Farnham Common,opp
+"Farnham Common, Templewood Lane (opp)",N,51.558367,-0.615375,040000001258,Farnham Common,opp
+"Farnham Common, The Royal Oak PH (adj)",N,51.56118,-0.615304,040000001256,Farnham Common,adj
+"Farnham Common, Hedgerley Corner (opp)",N,51.563258,-0.615313,040000001254,Farnham Common,opp
+"Hedgerley, Clare Drive (adj)",NW,51.566803,-0.617788,040000001244,Hedgerley,adj
+"Farnham Common, The Yew Tree PH (Opp)",NW,51.572321,-0.621401,040000001242,Farnham Common,Opp
+"Farnham Common, Harehatch Lane (adj)",N,51.574891,-0.623517,040000001240,Farnham Common,adj
+"Beaconsfield, Bower Wood (Opp)",N,51.582788,-0.62908,040000001238,Beaconsfield,Opp
+"Beaconsfield Services, Beaconsfield Services (Opp)",N,51.5915,-0.629771,040000001236,Beaconsfield Services,Opp
+"Beaconsfield, Hinton House (adj)",SE,51.614688,-0.62565,040000001201,Beaconsfield,adj
+"Seer Green, Bottom Lane (adj)",E,51.613662,-0.615628,040000002222,Seer Green,adj
+"Seer Green, Railway Station (Opp)",SE,51.611358,-0.608665,040000002520,Seer Green,Opp
+"Seer Green, Stable Lane (adj)",N,51.615677,-0.606626,040000002518,Seer Green,adj
+"Seer Green, Orchard Road (adj)",N,51.61786,-0.605693,040000002516,Seer Green,adj
+"Seer Green, Manor Road (Opp)",NE,51.620584,-0.603356,040000002514,Seer Green,Opp
+"Seer Green, Chalfont Road (opp 112)",NE,51.623662,-0.600545,040000002512,Seer Green,opp 112
+"Seer Green, Newbarn Lane (Eastbound)",E,51.624983,-0.594466,040000002220,Seer Green,Eastbound
+"Butlers Cross, Twitchell's Lane (Opp)",NE,51.625461,-0.589323,040000002510,Butlers Cross,Opp
+"Chalfont St Giles, Three Households (Eastbound)",NE,51.626877,-0.586707,040000002508,Chalfont St Giles,Eastbound
+"Chalfont St Giles, Narcot Lane (Opp)",NE,51.629114,-0.582809,040000002506,Chalfont St Giles,Opp
+"Chalfont St Giles, Dean Way (o/s 72)",E,51.629697,-0.578918,040000002504,Chalfont St Giles,o/s 72
+"Chalfont St Giles, Milton Hill (adj)",E,51.630369,-0.573595,040000002502,Chalfont St Giles,adj
+"Chalfont St Giles, High Street (NE-bound)",N,51.632019,-0.570263,040000002500,Chalfont St Giles,NE-bound
+"Chalfont St Giles, London Road (Southbound)",S,51.633662,-0.566353,040000002483,Chalfont St Giles,Southbound
+"Chalfont St Giles, King's Road (adj)",S,51.631437,-0.564531,040000002481,Chalfont St Giles,adj
+"Chalfont St Giles, Green Meadows (o/s)",S,51.626835,-0.56248,040000002479,Chalfont St Giles,o/s
+"Chalfont Common, Cherry Acre (adj)",S,51.623302,-0.55963,040000002477,Chalfont Common,adj
+"Chalfont Common, Misbourne Avenue (adj)",S,51.619672,-0.557679,040000002475,Chalfont Common,adj
+"Chalfont Common, Deanacre Close (adj)",S,51.615132,-0.557014,040000002473,Chalfont Common,adj
+"Chalfont Common, The Waggon & Horses PH (adj)",S,51.611596,-0.556058,040000002457,Chalfont Common,adj
+"Chalfont St Peter, Market Place (o/s 2)",SW,51.606879,-0.557912,040000002455,Chalfont St Peter,o/s 2
+"Chalfont St Peter, Lansdown Road (Opp)",W,51.60603,-0.562675,040000002453,Chalfont St Peter,Opp
+"Chalfont St Peter, Glebe Road (Opp)",W,51.607223,-0.56837,040000002451,Chalfont St Peter,Opp
+"Chalfont St Peter, Leachcroft (Opp)",S,51.606723,-0.570134,040000002441,Chalfont St Peter,Opp
+"Chalfont St Peter, Gold Hill West (opp 7)",SE,51.605172,-0.567554,040000002449,Chalfont St Peter,opp 7
+"Chalfont St Peter, The Jolly Farmer (Opp)",SE,51.602967,-0.565198,040000002447,Chalfont St Peter,Opp
+"Chalfont St Peter, St Joseph's Church (Opp)",SE,51.600193,-0.561834,040000002445,Chalfont St Peter,Opp
+"Chalfont St Peter, Austenwood Common (Opp)",SE,51.597092,-0.556864,040000002443,Chalfont St Peter,Opp
+"Gerrards Cross, St Mary's School (o/s)",S,51.59329,-0.554025,040000001441,Gerrards Cross,o/s
+"Gerrards Cross, South Park Crescent (adj)",SE,51.591015,-0.552596,040000001443,Gerrards Cross,adj
+"Gerrards Cross, Railway Station (Stop A)",SW,51.588208,-0.553191,040000001439,Gerrards Cross,Stop A
+"Gerrards Cross, The Packhorse PH (Stop C)",SW,51.586593,-0.554931,040000001437,Gerrards Cross,Stop C
+"Gerrards Cross, The Packhorse PH (Stop D)",NE,51.586844,-0.554865,040000001438,Gerrards Cross,Stop D
+"Gerrards Cross, Railway Station (Stop B)",NE,51.589034,-0.552333,040000001440,Gerrards Cross,Stop B
+"Gerrards Cross, South Park Crescent (opp)",NW,51.590844,-0.552587,040000001444,Gerrards Cross,opp
+"Gerrards Cross, St Mary's School (Opp)",N,51.593997,-0.554551,040000001442,Gerrards Cross,Opp
+"Chalfont St Peter, Austenwood Common (Adj)",NW,51.597343,-0.557492,040000002444,Chalfont St Peter,Adj
+"Chalfont St Peter, St Joseph's Church (adj)",NW,51.60015,-0.562009,040000002446,Chalfont St Peter,adj
+"Chalfont St Peter, The Jolly Farmer (o/s)",NW,51.602941,-0.565285,040000002448,Chalfont St Peter,o/s
+"Chalfont St Peter, Gold Hill West (o/s 9)",NW,51.605276,-0.567926,040000002450,Chalfont St Peter,o/s 9
+"Chalfont St Peter, Leachcroft (adj)",N,51.606725,-0.570249,040000002440,Chalfont St Peter,adj
+"Chalfont St Peter, Glebe Road (adj)",E,51.607495,-0.569286,040000002452,Chalfont St Peter,adj
+"Chalfont St Peter, Lansdown Road (adj)",E,51.606126,-0.561026,040000002454,Chalfont St Peter,adj
+"Chalfont St Peter, Market Place (Opp 1)",NE,51.607151,-0.557354,040000002456,Chalfont St Peter,Opp 1
+"Chalfont Common, The Waggon & Horses PH (Opp)",N,51.611904,-0.556279,040000002458,Chalfont Common,Opp
+"Chalfont Common, Deanacre Close (Opp)",N,51.615523,-0.557363,040000002472,Chalfont Common,Opp
+"Chalfont Common, Misbourne Avenue (Opp)",N,51.619017,-0.557744,040000002474,Chalfont Common,Opp
+"Chalfont Common, Cherry Acre (Opp)",N,51.623956,-0.560144,040000002476,Chalfont Common,Opp
+"Chalfont St Giles, Green Meadows (Opp)",N,51.626937,-0.562737,040000002478,Chalfont St Giles,Opp
+"Chalfont St Giles, King's Road (Opp)",N,51.630616,-0.564282,040000002480,Chalfont St Giles,Opp
+"Chalfont St Giles, London Road (Northbound)",N,51.633022,-0.5662,040000002482,Chalfont St Giles,Northbound
+"Chalfont St Giles, High Street (SW-bound)",S,51.631705,-0.570287,040000002501,Chalfont St Giles,SW-bound
+"Chalfont St Giles, Milton Hill (opp)",W,51.630366,-0.573306,040000002503,Chalfont St Giles,opp
+"Chalfont St Giles, Dean Way (o/s 61)",W,51.629567,-0.579327,040000002505,Chalfont St Giles,o/s 61
+"Chalfont St Giles, Narcot Lane (adj)",SW,51.628434,-0.583812,040000002507,Chalfont St Giles,adj
+"Chalfont St Giles, Three Households (Westbound)",W,51.626674,-0.586973,040000002218,Chalfont St Giles,Westbound
+"Butlers Cross, Twitchell's Lane (adj)",SW,51.625176,-0.589577,040000002509,Butlers Cross,adj
+"Seer Green, Newbarn Lane (Westbound)",W,51.624887,-0.5947,040000002219,Seer Green,Westbound
+"Seer Green, Chalfont Road (o/s 112)",SW,51.623322,-0.600671,040000002511,Seer Green,o/s 112
+"Seer Green, Manor Road (adj)",SW,51.620326,-0.60358,040000002513,Seer Green,adj
+"Seer Green, Orchard Road (Opp)",S,51.617167,-0.605613,040000002515,Seer Green,Opp
+"Seer Green, Stable Lane (Opp)",S,51.615067,-0.60676,040000002517,Seer Green,Opp
+"Seer Green, Railway Station (adj)",NW,51.611374,-0.609242,040000002519,Seer Green,adj
+"Seer Green, Bottom Lane (Opp)",W,51.613837,-0.616764,040000002221,Seer Green,Opp
+"Beaconsfield, Hinton House (Opp)",NW,51.614956,-0.626277,040000001200,Beaconsfield,Opp
+"Amersham, Village Hall (adj)",E,51.671801,-0.585975,040000002609,Amersham,adj
+"Amersham, The Pineapple PH (Opp)",E,51.671133,-0.582713,040000002611,Amersham,Opp
+"Amersham, Chiltern Heights (adj)",E,51.670444,-0.579321,040000002613,Amersham,adj
+"Amersham, The White Lion PH (opp)",E,51.669538,-0.57504,040000002615,Amersham,opp
+"Little Chalfont, Cokes Lane (Opp)",SE,51.667552,-0.567005,040000002617,Little Chalfont,Opp
+"Little Chalfont, Nightingales Lane (adj)",S,51.661826,-0.569354,040000002595,Little Chalfont,adj
+"Chalfont St Giles, Vache Lane (Westbound)",SW,51.63462,-0.565283,040000002228,Chalfont St Giles,Westbound
+"Chalfont Common, Copthall Lane (Eastbound)",E,51.611839,-0.551717,040000002460,Chalfont Common,Eastbound
+"Chalfont Common, Ninnings Road (Opp)",E,51.611814,-0.546822,040000002462,Chalfont Common,Opp
+"Chalfont Common, Denham Walk (adj)",N,51.615402,-0.547516,040000002464,Chalfont Common,adj
+"Chalfont Common, Chesham Lane (adj)",SW,51.61809,-0.549641,040000002466,Chalfont Common,adj
+"Chalfont Common, The Pyghtle (adj)",SW,51.616325,-0.552383,040000002468,Chalfont Common,adj
+"Chalfont Common, Hillside Close (adj)",S,51.614499,-0.55377,040000002470,Chalfont Common,adj
+"Gerrards Cross, Camp Road (Opp)",SW,51.582381,-0.559091,040000001435,Gerrards Cross,Opp
+"Gerrards Cross, Manor Lane (adj)",SW,51.579015,-0.562474,040000001433,Gerrards Cross,adj
+"Gerrards Cross, Hedgerley Lane (Opp)",SW,51.577291,-0.564145,040000001431,Gerrards Cross,Opp
+"Gerrards Cross, Dukes Kiln Drive (adj)",SW,51.575039,-0.568949,040000001429,Gerrards Cross,adj
+"Stoke Poges, Mount Hill Farm (Opp)",SW,51.571853,-0.576884,040000001427,Stoke Poges,Opp
+"Stoke Poges, Parkside Cemetery (Opp)",S,51.566858,-0.581758,040000001425,Stoke Poges,Opp
+"Stoke Poges, The Fox & Pheasant PH (Opp)",S,51.560976,-0.583889,040000001423,Stoke Poges,Opp
+"Stoke Poges, Larchmoor Park (Opp)",S,51.559135,-0.584033,040000001421,Stoke Poges,Opp
+"Stoke Poges, Vine Road (opp)",S,51.554454,-0.584366,040000001419,Stoke Poges,opp
+"Stoke Poges, Pennylets Green (Opp)",S,51.550347,-0.584623,040000001417,Stoke Poges,Opp
+"Stoke Poges, Khalsa Secondary Academy (Opp)",E,51.5482611,-0.5774510,040000000326,Stoke Poges,Opp
+"Wexham Street, The Stag PH (Opp)",S,51.544675,-0.571401,040000001277,Wexham Street,Opp
+"Wexham Street, Plough Lane (Opp)",S,51.542075,-0.573516,040000001275,Wexham Street,Opp
+"Wexham Street, Berry Farm (Opp)",S,51.537251,-0.575412,040000001273,Wexham Street,Opp
+"Wexham Court, Wexham Park Hospital (main entrance)",SE,51.532404,-0.575704,03700051,Wexham Court,main entrance
+"Wexham Court, Wexham Post Office (adj)",S,51.529616,-0.578617,03700048,Wexham Court,adj
+"Wexham Court, Extra Care Centre (nr)",S,51.526204,-0.580554,03700046,Wexham Court,nr
+"Wexham Court, Knolton Way North (S-bound)",S,51.522322,-0.579219,03700053,Wexham Court,S-bound
+"Wexham Court, Prestwood (nr)",SE,51.520983,-0.57854,03700055,Wexham Court,nr
+"Wexham Court, Sheehy Way (opp)",E,51.519282,-0.57473,03700057,Wexham Court,opp
+"Wexham Court, Knolton Way (adj)",E,51.518946,-0.57154,03700466,Wexham Court,adj
+"Wexham Court, Dornels (nr)",NE,51.520247,-0.569799,03700036,Wexham Court,nr
+"Wexham Court, Berryfield Veterinary Centre (nr)",NW,51.522276,-0.571004,03700038,Wexham Court,nr
+"Wexham Court, Knolton Way Shops (o/s)",W,51.522984,-0.574484,03700040,Wexham Court,o/s
+"Wexham Court, The Normans (adj)",W,51.52316,-0.577881,03700042,Wexham Court,adj
+"Wexham Court, The Frithe (nr)",W,51.523014,-0.579947,03700044,Wexham Court,nr
+"Wexham Court, Borderside (opp)",SE,51.520685,-0.579947,03700069,Wexham Court,opp
+"Wexham Court, Mirador Crescent Roundabout (S-bound)",S,51.517705,-0.578209,03700067,Wexham Court,S-bound
+"Upton Lea, Carlton Road (adj)",E,51.515768,-0.578455,03700061,Upton Lea,adj
+"Upton Lea, Beresford Avenue (nr)",E,51.514622,-0.574558,03700468,Upton Lea,nr
+"Upton Lea, Goodman Park (adj)",SW,51.51191,-0.574888,03700032,Upton Lea,adj
+"Slough Town Centre, Diamond Road Mosque (opp)",SW,51.509129,-0.579182,03700456,Slough Town Centre,opp
+"Slough Town Centre, Sorting Office (Stop K)",W,51.509059,-0.585325,03700310,Slough Town Centre,Stop K
+"Slough Town Centre, Queensmere Car Park (Stop H)",W,51.509804,-0.590358,03700340,Slough Town Centre,Stop H
+"Slough Town Centre, Sorting Office (Stop J)",E,51.509291,-0.585821,03700311,Slough Town Centre,Stop J
+"Slough Town Centre, Diamond Road Mosque (o/s)",NE,51.50961,-0.578764,03700457,Slough Town Centre,o/s
+"Upton Lea, Goodman Park (opp)",NE,51.512057,-0.575128,03700031,Upton Lea,opp
+"Upton Lea, Beresford Avenue (opp)",W,51.514353,-0.573889,03700060,Upton Lea,opp
+"Upton Lea, Carlton Road (opp)",W,51.515305,-0.577491,03700494,Upton Lea,opp
+"Upton Lea, Lea School (o/s)",N,51.516606,-0.578784,03700065,Upton Lea,o/s
+"Wexham Court, Mirador Crescent Roundabout (N-bound)",NW,51.518283,-0.578407,03700066,Wexham Court,N-bound
+"Wexham Court, Borderside (adj)",NW,51.52036,-0.579871,03700068,Wexham Court,adj
+"Wexham Court, Norway Drive (opp)",N,51.525007,-0.581139,03700045,Wexham Court,opp
+"Wexham Court, Extra Care Centre (opp)",N,51.526946,-0.580185,03700506,Wexham Court,opp
+"Wexham Court, Wexham Post Office (opp)",N,51.530094,-0.578703,03700047,Wexham Court,opp
+"Wexham Street, Berry Farm (adj)",N,51.537874,-0.575594,040000001274,Wexham Street,adj
+"Wexham Street, Plough Lane (adj)",N,51.542371,-0.573464,040000001276,Wexham Street,adj
+"Wexham Street, The Stag PH (adj)",N,51.545381,-0.571076,040000001278,Wexham Street,adj
+"Wexham Street, Hollybush Hill (adj)",N,51.54772,-0.569633,040000001280,Wexham Street,adj
+"Stoke Poges, Khalsa Secondary Academy (Adj)",W,51.5482161,-0.5774653,040000000325,Stoke Poges,Adj
+"Stoke Poges, Pennylets Green (adj)",N,51.550431,-0.584808,040000001416,Stoke Poges,adj
+"Stoke Poges, Vine Road (adj)",N,51.554455,-0.58451,040000001418,Stoke Poges,adj
+"Stoke Poges, Larchmoor Park (adj)",N,51.559406,-0.584154,040000001420,Stoke Poges,adj
+"Stoke Poges, The Fox & Pheasant PH (adj)",N,51.561436,-0.584019,040000001422,Stoke Poges,adj
+"Stoke Poges, Parkside Cemetery (o/s)",N,51.566137,-0.582372,040000001424,Stoke Poges,o/s
+"Stoke Poges, Mount Hill Farm (adj)",NE,51.571585,-0.577802,040000001426,Stoke Poges,adj
+"Gerrards Cross, Dukes Kiln Drive (Opp)",NE,51.575051,-0.569266,040000001428,Gerrards Cross,Opp
+"Gerrards Cross, Hedgerley Lane (adj)",NE,51.577631,-0.56399,040000001430,Gerrards Cross,adj
+"Gerrards Cross, Manor Lane (Opp)",NE,51.578777,-0.562871,040000001432,Gerrards Cross,Opp
+"Gerrards Cross, Camp Road (adj)",NE,51.581744,-0.559905,040000001434,Gerrards Cross,adj
+"Chalfont St Giles, Vache Lane (Eastbound)",NE,51.635013,-0.565054,040000002227,Chalfont St Giles,Eastbound
+"Little Chalfont, Nightingales Lane (Opp)",N,51.661899,-0.569424,040000002594,Little Chalfont,Opp
+"Little Chalfont, Cokes Lane (adj)",NW,51.667315,-0.566723,040000002618,Little Chalfont,adj
+"Amersham, The White Lion PH (adj)",W,51.669919,-0.577559,040000002616,Amersham,adj
+"Amersham, Chiltern Heights (opp)",W,51.670404,-0.579727,040000002614,Amersham,opp
+"Amersham, The Pineapple PH (o/s)",W,51.671208,-0.583708,040000002612,Amersham,o/s
+"Amersham, Village Hall (opp)",W,51.671894,-0.586969,040000002610,Amersham,opp
+"Amersham, Blackhorse Bridge (Opp)",W,51.672548,-0.591259,040000002608,Amersham,Opp
+"Gerrards Cross, Gaviots Green (adj)",S,51.576339,-0.551042,040000001299,Gerrards Cross,adj
+"Gerrards Cross, St Hubert's Close (opp)",S,51.573117,-0.550134,040000001297,Gerrards Cross,opp
+"Gerrards Cross, Fulmer Drive (Opp)",SW,51.568595,-0.550206,040000001295,Gerrards Cross,Opp
+"Gerrards Cross, Oldhouse Farm (adj)",SW,51.5661,-0.552089,040000001293,Gerrards Cross,adj
+"Fulmer, Old Post Office (adj)",SW,51.562391,-0.556838,040000001291,Fulmer,adj
+"Fulmer, The Black Horse PH (adj)",SW,51.56098,-0.561297,040000001289,Fulmer,adj
+"Fulmer, Windmill Road (Southbound)",S,51.558281,-0.564844,040000001287,Fulmer,Southbound
+"Fulmer, Fulmer Common Road (adj)",S,51.556597,-0.566066,040000001285,Fulmer,adj
+"Fulmer, Mill House Farm (Opp)",S,51.552081,-0.567448,040000001283,Fulmer,Opp
+"Wexham Street, Fulmer Grange (adj)",S,51.55036,-0.567906,040000001281,Wexham Street,adj
+"Wexham Street, Hollybush Hill (Opp)",S,51.548291,-0.569283,040000001279,Wexham Street,Opp
+"Stoke Poges, Sefton Park (adj)",S,51.548221,-0.585049,040000001415,Stoke Poges,adj
+"Stoke Poges, Decies Way (Opp)",S,51.54449,-0.58655,040000001413,Stoke Poges,Opp
+"Stoke Poges, Rogers Lane South (Opp)",S,51.5425,-0.587808,040000001411,Stoke Poges,Opp
+"Stoke Poges, Church Lane (Opp)",S,51.538568,-0.586156,040000001409,Stoke Poges,Opp
+"Stoke Poges, Park Road (Opp)",S,51.535908,-0.585561,040000001407,Stoke Poges,Opp
+"Stoke Poges, Stoke House (adj)",S,51.532814,-0.585441,040000001405,Stoke Poges,adj
+"Stoke Poges, Wexham Roundabout (adj)",E,51.53087,-0.579374,040000001450,Stoke Poges,adj
+"Stoke Poges, Sefton Park (opp)",N,51.54737,-0.585292,040000001414,Stoke Poges,opp
+"Fulmer, The Black Horse PH (opp)",NE,51.561289,-0.560811,040000001290,Fulmer,opp
+"Stoke Poges, Stoke House (opp)",N,51.532331,-0.585657,040000001404,Stoke Poges,opp
+"Stoke Poges, Park Road (adj)",N,51.535408,-0.585822,040000001406,Stoke Poges,adj
+"Stoke Poges, Church Lane (adj)",N,51.538252,-0.586036,040000001408,Stoke Poges,adj
+"Stoke Poges, Rogers Lane South (adj)",N,51.543084,-0.587761,040000001410,Stoke Poges,adj
+"Stoke Poges, Decies Way (adj)",N,51.545401,-0.586074,040000001412,Stoke Poges,adj
+"Wexham Street, Fulmer Grange (Opp)",N,51.54949,-0.568813,040000001282,Wexham Street,Opp
+"Fulmer, Mill House Farm (adj)",N,51.552441,-0.567466,040000001284,Fulmer,adj
+"Fulmer, Fulmer Common Road (Opp)",N,51.556652,-0.566194,040000001286,Fulmer,Opp
+"Fulmer, Windmill Road (Northbound)",N,51.558531,-0.564721,040000001288,Fulmer,Northbound
+"Fulmer, Old Post Office (Opp)",NE,51.562299,-0.557403,040000001292,Fulmer,Opp
+"Gerrards Cross, Oldhouse Farm (Opp)",NE,51.56612,-0.552247,040000001294,Gerrards Cross,Opp
+"Gerrards Cross, Fulmer Drive (adj)",N,51.569041,-0.549903,040000001360,Gerrards Cross,adj
+"Gerrards Cross, St Hubert's Close (adj)",N,51.573137,-0.550292,040000001296,Gerrards Cross,adj
+"Gerrards Cross, Gaviots Green (opp)",N,51.577031,-0.551756,040000001298,Gerrards Cross,opp
+"Hazlemere, The Warren (opp)",NW,51.658966,-0.714771,040000002898,Hazlemere,opp
+"Hazlemere, Cedar Avenue (adj)",N,51.659404,-0.717867,040000003076,Hazlemere,adj
+"Hazlemere, Roberts Ride (opp)",N,51.660456,-0.717838,040000002899,Hazlemere,opp
+"Widmer End, Western Dene (o/s 52)",SE,51.661125,-0.712368,040000003722,Widmer End,o/s 52
+"Tylers Green, William Ramsay School (Opp)",S,51.647739,-0.710174,040000003139,Tylers Green,Opp
+"Tylers Green, Pine Walk (adj)",SE,51.646586,-0.707562,040000003141,Tylers Green,adj
+"Tylers Green, Rose Avenue Shops (opp)",SE,51.64433,-0.703565,040000003143,Tylers Green,opp
+"Tylers Green, Curzon Avenue (opp 32)",E,51.646234,-0.698481,040000003145,Tylers Green,opp 32
+"Tylers Green, Hazlemere Road (Southbound)",S,51.645881,-0.696641,040000003147,Tylers Green,Southbound
+"Tylers Green, Coppice Farm Road (Opp)",S,51.643255,-0.695054,040000003149,Tylers Green,Opp
+"Tylers Green, Potters Cross (Westbound)",W,51.639315,-0.694055,040000003151,Tylers Green,Westbound
+"Penn, Hillcroft Road (Opp)",SW,51.638109,-0.698005,040000003153,Penn,Opp
+"Penn, Church Road (o/s 8)",E,51.636477,-0.700884,040000003155,Penn,o/s 8
+"Penn, School Road (o/s 1)",E,51.635505,-0.694323,040000003157,Penn,o/s 1
+"Penn, The Pond (adj)",E,51.634913,-0.691219,040000003961,Penn,adj
+"Knotty Green, The Red Lion PH (opp)",S,51.622522,-0.654551,040000002206,Knotty Green,opp
+"Beaconsfield, Waitrose (Stop F)",SE,51.611977,-0.646977,040000001224,Beaconsfield,Stop F
+"Beaconsfield, Post Office (Stop C)",SE,51.610803,-0.645784,040000001222,Beaconsfield,Stop C
+"Beaconsfield, High School (Opp)",SW,51.603585,-0.642894,040000001198,Beaconsfield,Opp
+"Beaconsfield, High School (o/s)",NE,51.60365,-0.643022,040000001199,Beaconsfield,o/s
+"Beaconsfield, Post Office (Stop E)",NW,51.610679,-0.645918,040000001221,Beaconsfield,Stop E
+"Beaconsfield, Waitrose (Stop A)",NW,51.611871,-0.647182,040000001223,Beaconsfield,Stop A
+"Knotty Green, The Red Lion PH (Opp)",N,51.621816,-0.654152,040000002205,Knotty Green,Opp
+"Penn, The Pond (Opp)",NW,51.634806,-0.691323,040000003159,Penn,Opp
+"Penn, School Road (o/s 10)",W,51.635416,-0.694369,040000003154,Penn,o/s 10
+"Penn, New Road (o/s 84)",NE,51.636897,-0.701407,040000003152,Penn,o/s 84
+"Penn, Hillcroft Road (adj)",NE,51.638059,-0.698383,040000003150,Penn,adj
+"Tylers Green, Potters Cross (Eastbound)",E,51.639517,-0.69363,040000003148,Tylers Green,Eastbound
+"Tylers Green, Coppice Farm Road (adj)",N,51.643963,-0.695612,040000003146,Tylers Green,adj
+"Tylers Green, Hazlemere Road (Northbound)",N,51.645547,-0.696549,040000003144,Tylers Green,Northbound
+"Tylers Green, Curzon Avenue (o/s 42)",W,51.646255,-0.697974,040000003142,Tylers Green,o/s 42
+"Tylers Green, Rose Avenue Shops (o/s)",SW,51.64401,-0.701522,040000003140,Tylers Green,o/s
+"Tylers Green, Pine Walk (Opp)",NW,51.646114,-0.707185,040000003138,Tylers Green,Opp
+"Higher Denham, Community Centre (o/s)",E,51.57859,-0.515844,040000001350,Higher Denham,o/s
+"Denham, Old Rectory Lane (adj)",N,51.575298,-0.503929,040000001312,Denham,adj
+"Denham Green, Tilehouse Lane (NW-bound)",NW,51.578129,-0.505885,040000001352,Denham Green,NW-bound
+"Denham Green, Alex Korda House (adj)",NE,51.582274,-0.505908,040000001355,Denham Green,adj
+"Denham Green, Tilehouse Combined School (adj)",NE,51.583279,-0.505038,040000001354,Denham Green,adj
+"Denham Green, Wyatts Covert (adj)",S,51.593466,-0.508847,040000001351,Denham Green,adj
+"Denham Green, Garden Village (o/s)",N,51.585118,-0.501697,040000001356,Denham Green,o/s
+"Denham Green, Penn Drive (Opp 11)",S,51.581569,-0.502799,040000001317,Denham Green,Opp 11
+"Denham, Station Parade (adj)",SW,51.579593,-0.500165,040000001313,Denham,adj
+"Denham, Old Rectory Lane (Opp)",S,51.575206,-0.503787,040000001311,Denham,Opp
+"Denham, Village Road (adj)",S,51.5713,-0.504882,040000001309,Denham,adj
+"Denham, Cheapside Lane (Northbound)",N,51.568798,-0.501934,040000001363,Denham,Northbound
+"Denham, Ashmead Lane (northbound)",NW,51.571128,-0.501309,040000001364,Denham,northbound
+"Denham, Memorial Hall (Opp)",NW,51.57188,-0.501795,040000001357,Denham,Opp
+"Denham, St Mary's Church (adj)",SE,51.572197,-0.496988,040000001361,Denham,adj
+"Denham, Priory Close (adj)",S,51.565112,-0.497785,040000001359,Denham,adj
+"Denham, Priory Close (Opp)",N,51.56506,-0.497931,040000001349,Denham,Opp
+"Denham, St Mary's Church (Opp)",NW,51.5723,-0.497317,040000001362,Denham,Opp
+"Denham, Memorial Hall (adj)",SW,51.571902,-0.502049,040000001358,Denham,adj
+"Denham, Village Road (Opp)",N,51.571725,-0.505085,040000001310,Denham,Opp
+"Richings Park, Thorney Lane South (Adj somerset way)",N,51.504997,-0.502553,040000005037,Richings Park,Adj somerset way
+"Richings Park, Bathurst Walk (Northbound)",N,51.507773,-0.504355,040000001843,Richings Park,Northbound
+"Iver, The Fox & Pheasant PH (adj)",N,51.516663,-0.503458,040000001847,Iver,adj
+"Iver, Tower House (o/s)",NE,51.519765,-0.510505,040000001846,Iver,o/s
+"Iver, Croft House (adj)",E,51.522332,-0.514371,040000001850,Iver,adj
+"Iver, Junior School (adj)",E,51.520928,-0.513566,040000001813,Iver,adj
+"Iver, King's Church (Opp)",E,51.520735,-0.508283,040000001815,Iver,Opp
+"Iver, Chequers Orchard (Opp)",E,51.520621,-0.507119,040000001845,Iver,Opp
+"Iver, Iver Lane (Northbound)",NE,51.527007,-0.492494,040000001849,Iver,Northbound
+"Iver Heath, The Black Horse PH (adj)",NW,51.537817,-0.515857,040000001838,Iver Heath,adj
+"Iver Heath, Trewarden Avenue (adj)",NW,51.540925,-0.518424,040000001836,Iver Heath,adj
+"Iver Heath, St David's Close (adj)",NW,51.542723,-0.519807,040000001834,Iver Heath,adj
+"Iver Heath, The Parkway (opp)",SW,51.539431,-0.524573,040000001832,Iver Heath,opp
+"Iver Heath, British Legion (adj)",SW,51.536879,-0.527725,040000001830,Iver Heath,adj
+"Iver, Langley Park Road (Eastbound)",E,51.519358,-0.521732,040000001809,Iver,Eastbound
+"Iver, Post Office (adj)",NE,51.520114,-0.516764,040000001811,Iver,adj
+"Iver, Iver Lane (Opp 30)",SW,51.526906,-0.492296,040000001800,Iver,Opp 30
+"Iver, King's Church (adj)",W,51.520605,-0.508676,040000001816,Iver,adj
+"Iver, The Fox & Pheasant PH (opp)",S,51.517281,-0.503322,040000001848,Iver,opp
+"Richings Park, Richings Park (Southbound)",S,51.507782,-0.50402,040000001844,Richings Park,Southbound
+"Richings Park, Thorney Lane South ()",S,51.5049263,-0.5024098,040000005040,Richings Park,
+"Iver, Post Office (Opp)",W,51.519953,-0.516827,040000001812,Iver,Opp
+"Iver, Langley Park Road (Westbound)",W,51.519235,-0.521938,040000001810,Iver,Westbound
+"Iver Heath, The Parkway (adj)",NE,51.540479,-0.523701,040000001831,Iver Heath,adj
+"Iver Heath, St David's Close (Opp)",SE,51.541759,-0.518988,040000001833,Iver Heath,Opp
+"Iver Heath, The Black Horse PH (Opp)",SE,51.537317,-0.515412,040000001837,Iver Heath,Opp
+"Beaconsfield, Whipass Hill (Westbound)",W,51.616324,-0.632591,040000001196,Beaconsfield,Westbound
+"Beaconsfield, Wilton Road (adj)",W,51.615647,-0.64005,040000001194,Beaconsfield,adj
+"Beaconsfield, Sandelswood End (Opp)",W,51.615012,-0.644315,040000001192,Beaconsfield,Opp
+"Beaconsfield, Penn Road (o/s 2)",W,51.613861,-0.647397,040000001190,Beaconsfield,o/s 2
+"Loudwater, Station Road (Opp 32)",SW,51.606721,-0.700752,040000003833,Loudwater,Opp 32
+"Flackwell Heath, Swains Lane (o/s 28a)",SW,51.602673,-0.707871,040000003887,Flackwell Heath,o/s 28a
+"Flackwell Heath, The Stag PH (o/s)",NW,51.604725,-0.717083,040000003866,Flackwell Heath,o/s
+"Flackwell Heath, Rugwood Road (Opp)",NW,51.605426,-0.718709,040000003893,Flackwell Heath,Opp
+"Flackwell Heath, Bucks College Group (Westbound)",NW,51.606326,-0.722049,040000003868,Flackwell Heath,Westbound
+"High Wycombe, St Michael's School (adj)",W,51.618478,-0.753413,040000003424,High Wycombe,adj
+"High Wycombe, Marlow Hill Schools (Stop 4)",NE,51.619166,-0.760646,040000003939,High Wycombe,Stop 4
+"High Wycombe, Marlow Hill Schools (Stop 3)",NE,51.618497,-0.761964,040000003420,High Wycombe,Stop 3
+"High Wycombe, St Michael's School (Opp)",E,51.618539,-0.753209,040000003435,High Wycombe,Opp
+"High Wycombe, Pine Trees ()",SE,51.616355,-0.7483,040000005024,High Wycombe,
+"Flackwell Heath, Bucks College Group (Eastbound)",SE,51.606331,-0.721731,040000003872,Flackwell Heath,Eastbound
+"Flackwell Heath, Rugwood Road (adj)",SE,51.605699,-0.719005,040000003892,Flackwell Heath,adj
+"Flackwell Heath, The Stag PH (Opp)",SE,51.604686,-0.716795,040000003878,Flackwell Heath,Opp
+"Flackwell Heath, Swains Lane (o/s 41)",NE,51.602997,-0.707067,040000003884,Flackwell Heath,o/s 41
+"Loudwater, Station Road (o/s 36)",NE,51.606697,-0.700998,040000003812,Loudwater,o/s 36
+"Beaconsfield, Penn Road (o/s 3)",E,51.614013,-0.647292,040000001189,Beaconsfield,o/s 3
+"Beaconsfield, Sandelswood End (adj)",E,51.61499,-0.644735,040000001191,Beaconsfield,adj
+"Beaconsfield, Wilton Road (Opp)",E,51.615724,-0.64051,040000001193,Beaconsfield,Opp
+"Beaconsfield, Wilton Place (adj)",E,51.615947,-0.635708,040000001195,Beaconsfield,adj
+"Booker, Westwood (adj)",W,51.612974,-0.789367,040000003380,Booker,adj
+"Booker, Westwood (Opp)",E,51.613032,-0.788933,040000003393,Booker,Opp
+"Twyford, Twyford Station (Adj)",E,51.4752,-0.863,035091120002,Twyford,Adj
+"Wokingham, Wokingham Station Interchange (Stop 2)",NW,51.41233,-0.84312,035059890002,Wokingham,Stop 2
+"Bigshotte Park, Johnson & Johnson (opp)",W,51.38425,-0.79579,035059740002,Bigshotte Park,opp
+"Bigshotte Park, Johnson & Johnson (adj)",E,51.38393,-0.79946,035059740001,Bigshotte Park,adj
+"Wokingham Town Centre, Broad Street (Stop B)",W,51.41108,-0.83539,035075400003,Wokingham Town Centre,Stop B
+"Oxford City Centre, Gloucester Green Bus Station (Bay 5)",,51.75394,-1.26251,34000000005,Oxford City Centre,Bay 5
+"Oxford City Centre, Westgate (Stop S4)",E,51.74871,-1.26193,340001989S4,Oxford City Centre,Stop S4
+"Oxford City Centre, Speedwell Street (Stop S2)",E,51.74847,-1.25802,340001989S2,Oxford City Centre,Stop S2
+"Oxford City Centre, Queens Lane (Stop K5)",E,51.75272,-1.2507,340001992K5,Oxford City Centre,Stop K5
+"St Clements, St Clements Street (Stop B)",E,51.75061,-1.23995,340001317OUT,St Clements,Stop B
+"Headington, Brookes University (Stop B3)",NE,51.75605,-1.22461,340001313EAS,Headington,Stop B3
+"Headington, Headington Shops (Stop HS5)",NE,51.76064,-1.20944,340001309COO,Headington,Stop HS5
+"Headington, Green Road Roundabout (E-bound)",E,51.76263,-1.19906,340001310NRC,Headington,E-bound
+"Thornhill Park & Ride, Thornhill Park and Ride (Stop D)",N,51.76198,-1.18114,340000009PR4,Thornhill Park & Ride,Stop D
+"Lewknor, Lewknor Turn M40 J6 (Stop B)",NE,51.67327,-0.95874,340001811CHN,Lewknor,Stop B
+"High Wycombe, Coachway (Stand B)",,51.614148,-0.764003,040000000902,High Wycombe,Stand B
+"Gatwick Airport, South Terminal Coach Station (Stand 2)",N,51.1568810,-0.1595530,4400CY0361,Gatwick Airport,Stand 2
+"Gatwick Airport, North Terminal Bus Station (Stop 4)",N,51.160485,-0.176657,4400CY0375,Gatwick Airport,Stop 4
+"Lewknor, Lewknor Turn M40 J6 (Stop A)",NE,51.67149,-0.96348,340001811WAT,Lewknor,Stop A
+"Thornhill Park & Ride, Thornhill Park and Ride (Stop C)",N,51.76166,-1.18103,340000009PR3,Thornhill Park & Ride,Stop C
+"Headington, Gladstone Road (adj)",W,51.76197,-1.20325,340001308CNR,Headington,adj
+"Headington, Headington Shops (Stop HS4)",SW,51.76027,-1.21039,340001309COI,Headington,Stop HS4
+"Headington, Brookes University (Stop B4)",SW,51.75531,-1.22715,340001313WES,Headington,Stop B4
+"St Clements, St Clements Street (Stop C)",W,51.75018,-1.24205,340001126DAW,St Clements,Stop C
+"Oxford City Centre, Queens Lane (Stop J1)",W,51.75259,-1.25087,340001992J1,Oxford City Centre,Stop J1
+"Oxford City Centre, St Aldates (Stop H5)",S,51.75027,-1.25676,340000004H5,Oxford City Centre,Stop H5
+"Slough Town Centre, Slough Bus Station (Bay 6)",,51.511399,-0.59286,03700526,Slough Town Centre,Bay 6
+"High Wycombe, High Wycombe BusStn (Bay 18)",,51.631527,-0.75609,040000002968,High Wycombe,Bay 18
+"Slough Town Centre, Slough Bus Station (Bay 8)",,51.511479,-0.592843,03700528,Slough Town Centre,Bay 8
+"Studley Green, Dashwood Hill (Westbound)",W,51.648476,-0.856934,040000002904,Studley Green,Westbound
+"High Wycombe, High Wycombe BusStn (Bay 15)",,51.631456,-0.756222,040000002965,High Wycombe,Bay 15
+"High Wycombe, Downley Turn (adj)",SE,51.640128,-0.781477,040000003326,High Wycombe,adj
+"High Wycombe, Railway Bridge (adj)",SE,51.641282,-0.785247,040000003328,High Wycombe,adj
+"West Wycombe, Park Farm Road (Opp)",SE,51.64226,-0.788516,040000003330,West Wycombe,Opp
+"West Wycombe, Beechwood Road (adj)",SE,51.643972,-0.794121,040000003332,West Wycombe,adj
+"High Wycombe, Railway Bridge (Opp)",NW,51.641119,-0.785106,040000003337,High Wycombe,Opp
+"West Wycombe, Park Farm Road (adj)",NW,51.642068,-0.788217,040000003339,West Wycombe,adj
+"West Wycombe, Beechwood Road (Opp)",NW,51.643911,-0.79431,040000003341,West Wycombe,Opp
+"West Wycombe, Village Hall (Opp)",E,51.64472,-0.801313,040000003444,West Wycombe,Opp
+"Piddington, Piddington Turn (Eastbound)",E,51.639965,-0.822754,040000003446,Piddington,Eastbound
+"Piddington, King Street (Opp)",E,51.64031,-0.829436,040000003448,Piddington,Opp
+"Piddington, The Dashwood Arms PH (Opp)",E,51.641468,-0.833756,040000003452,Piddington,Opp
+"Studley Green, Dashwood Hill (Eastbound)",E,51.648907,-0.85779,040000003454,Studley Green,Eastbound
+"Piddington, Piddington Turn (Westbound)",W,51.63985,-0.822974,040000003455,Piddington,Westbound
+"Studley Green, The Studley Arms (o/s)",E,51.649944,-0.860843,040000003456,Studley Green,o/s
+"Piddington, King Street (adj)",W,51.640091,-0.829124,040000003457,Piddington,adj
+"Studley Green, St Francis Road (Adj)",E,51.650906,-0.864577,040000003458,Studley Green,Adj
+"Stokenchurch, Bates Industrial Estate (opp)",SE,51.658962,-0.898582,040000003460,Stokenchurch,opp
+"Piddington, The Dashwood Arms PH (o/s)",W,51.641406,-0.833873,040000003461,Piddington,o/s
+"Stokenchurch, Medical Centre (Opp)",E,51.661535,-0.909319,040000003462,Stokenchurch,Opp
+"Stokenchurch, Wycombe Road (Eastbound)",E,51.65711,-0.888088,040000003464,Stokenchurch,Eastbound
+"Studley Green, St Francis Road (Opp)",W,51.65065,-0.864179,040000003465,Studley Green,Opp
+"Stokenchurch, Wycombe Road (Westbound)",W,51.657015,-0.887512,040000003467,Stokenchurch,Westbound
+"Stokenchurch, The King's Arms Hotel (o/s)",E,51.660168,-0.901487,040000003468,Stokenchurch,o/s
+"Stokenchurch, Bates Industrial Estate (adj)",NW,51.65891,-0.898742,040000003471,Stokenchurch,adj
+"Stokenchurch, The King's Arms Hotel (Opp)",W,51.660232,-0.902628,040000003473,Stokenchurch,Opp
+"Stokenchurch, Medical Centre (o/s)",W,51.661248,-0.908386,040000003475,Stokenchurch,o/s
+"Stokenchurch, Marlow Road (Southbound)",SE,51.657091,-0.896487,040000003486,Stokenchurch,Southbound
+"Stokenchurch, Marcourt Road (Opp)",SE,51.653711,-0.893751,040000003488,Stokenchurch,Opp
+"Stokenchurch, Jubilee Road (Opp)",NE,51.652968,-0.892236,040000003490,Stokenchurch,Opp
+"Stokenchurch, Marlow Road (Northbound)",NW,51.657328,-0.896843,040000003493,Stokenchurch,Northbound
+"Stokenchurch, Marcourt Road (adj)",NW,51.653042,-0.893391,040000003495,Stokenchurch,adj
+"Stokenchurch, Jubilee Road (adj)",SW,51.652985,-0.892091,040000003512,Stokenchurch,adj
+"Stokenchurch, New Road (o/s 35)",SW,51.655419,-0.889907,040000003514,Stokenchurch,o/s 35
+"Stokenchurch, New Road (o/s 14)",NE,51.655875,-0.889621,040000003517,Stokenchurch,o/s 14
+"West Wycombe, The Swan Inn (adj)",W,51.644544,-0.80337,040000003753,West Wycombe,adj
+"Stokenchurch, Tower Farm (adj)",SE,51.662057,-0.915148,040000003916,Stokenchurch,adj
+"Stokenchurch, Aston Hill (Eastbound)",SE,51.667037,-0.922881,040000003918,Stokenchurch,Eastbound
+"Chinnor, Springfield Gardens (opp)",SW,51.70557,-0.91003,340000041OSP,Chinnor,opp
+"Chinnor, Springfield Gardens (adj)",NE,51.70539,-0.91094,340000041SPG,Chinnor,adj
+"Thame, Sycamore Drive (opp)",E,51.74833,-0.98818,340000115OUS,Thame,opp
+"Thame, Lord Williams Upper School (inside)",W,51.74706,-0.99439,340000115WLS,Thame,inside
+"Thame, Sycamore Drive (adj)",W,51.748,-0.98908,340000115WUS,Thame,adj
+"Kingston Blount, The Cherry Tree (o/s)",SW,51.68844,-0.9326,340000436CHT,Kingston Blount,o/s
+"Kingston Blount, The Cherry Tree (opp)",NE,51.68855,-0.93261,340000436OCH,Kingston Blount,opp
+"Crowell, St Marys Church (o/s)",SW,51.69096,-0.92593,340000437CHU,Crowell,o/s
+"Kingston Blount, Pleck Lane (adj)",E,51.68927,-0.93166,340000437HST,Kingston Blount,adj
+"Crowell, St Marys Church (opp)",NE,51.691,-0.9261,340000437OPP,Crowell,opp
+"Sydenham, The Inn at Emmington (o/s)",NW,51.71439,-0.93373,340000518INN,Sydenham,o/s
+"Sydenham, The Inn at Emmington (opp)",SE,51.71444,-0.93357,340000518OIN,Sydenham,opp
+"Thame, Town Hall (opp)",NW,51.74771,-0.97891,340000749OPP,Thame,opp
+"Thame, Town Hall (o/s)",SE,51.7475,-0.97837,340000749TH,Thame,o/s
+"Thame, Police Station (o/s)",NW,51.74975,-0.9777,340001616OUT,Thame,o/s
+"Thame, Health Centre (opp)",E,51.74549,-0.96717,340001619OPP,Thame,opp
+"Thame, Health Centre (o/s)",W,51.74516,-0.96939,340001619OUT,Thame,o/s
+"Thame, Upper High Street (NW-bound)",NW,51.74596,-0.97582,340001621NEL,Thame,NW-bound
+"Chinnor, Chiltern Hill Garage (opp)",SW,51.69902,-0.91369,340001625OPP,Chinnor,opp
+"Chinnor, Chiltern Hill Garage (o/s)",NE,51.69905,-0.91383,340001625OUT,Chinnor,o/s
+"Chinnor, Village Hall (opp)",NE,51.70143,-0.90816,340001626OPP,Chinnor,opp
+"Chinnor, Village Hall (o/s)",SW,51.70132,-0.90819,340001626OUT,Chinnor,o/s
+"Chinnor, The Village Centre (opp)",S,51.70277,-0.90519,340001627OPP,Chinnor,opp
+"Chinnor, The Village Centre (o/s)",N,51.70282,-0.90538,340001627OUT,Chinnor,o/s
+"Chinnor, Glimbers Green (opp)",NE,51.69823,-0.91562,340001642OPP,Chinnor,opp
+"Chinnor, Glimbers Green (o/s)",SW,51.6982,-0.91549,340001642OUT,Chinnor,o/s
+"Chinnor, The Red Lion (o/s)",SE,51.70591,-0.90808,340001643DCL,Chinnor,o/s
+"Chinnor, Glynswood (adj)",SW,51.70001,-0.91119,340001643GLY,Chinnor,adj
+"Chinnor, The Red Lion (opp)",NW,51.70569,-0.90798,340001643OPD,Chinnor,opp
+"Chinnor, Glynswood (opp)",NE,51.69995,-0.91162,340001643OPP,Chinnor,opp
+"Thame, Museum (opp)",NW,51.74928,-0.98181,340001656OPP,Thame,opp
+"Thame, Museum (o/s)",SE,51.7491,-0.98099,340001656OUT,Thame,o/s
+"Thame, Cuttle Brook (SW-bound)",SW,51.7494,-0.98527,340001657OPP,Thame,SW-bound
+"Thame, Cuttle Brook (NE-bound)",NE,51.74941,-0.98549,340001657OUT,Thame,NE-bound
+"Emmington, Waterlands Farm (entrance)",SE,51.7234,-0.94086,340001660WFM,Emmington,entrance
+"Emmington, Waterlands Farm (opp)",NW,51.72329,-0.94087,340001660WFO,Emmington,opp
+"Chinnor, Thame Road Shops (opp)",NW,51.70488,-0.91366,340001662NOR,Chinnor,opp
+"Chinnor, Thame Road Shops (o/s)",SE,51.705,-0.91376,340001662SOU,Chinnor,o/s
+"Aston Rowant, Village Turn (adj)",NE,51.68095,-0.94974,340003259CNR,Aston Rowant,adj
+"Aston Rowant, Village Turn (opp)",SW,51.68106,-0.94924,340003259OPP,Aston Rowant,opp
+"Aston Rowant, Aston Hill Bottom (SE-bound)",SE,51.67601,-0.95206,340003260SE,Aston Rowant,SE-bound
+"West Wycombe, Village Hall (adj)",W,51.644637,-0.800231,040000002897,West Wycombe,adj
+"Thame, Howland Road (N-bound)",N,51.74027,-0.95815,340001255HRN,Thame,N-bound
+"Thame, Howland Road (S-bound)",S,51.7402,-0.958,340001255HRS,Thame,S-bound
+"Thame, Churchill Crescent (adj)",E,51.74629,-0.96334,340001704CHU,Thame,adj
+"Thame, Churchill Crescent (opp)",W,51.74617,-0.9635,340001704OPP,Thame,opp
+"High Wycombe, High Wycombe BusStn (Bay 10)",,51.631342,-0.756442,040000002960,High Wycombe,Bay 10
+"Princes Risborough, Summerleys Road (Northbound)",NW,51.719777,-0.842789,040000002993,Princes Risborough,Northbound
+"Princes Risborough, Summerleys Road (Southbound)",S,51.719767,-0.842673,040000002994,Princes Risborough,Southbound
+"Princes Risborough, Park Mill (opp)",NW,51.72373,-0.847002,040000002995,Princes Risborough,opp
+"Princes Risborough, Park Mill (adj)",SE,51.723836,-0.846898,040000002996,Princes Risborough,adj
+"Downley, Littleworth Road (o/s 44)",SW,51.646217,-0.770401,040000003282,Downley,o/s 44
+"Downley, Commonside (adj)",E,51.649098,-0.770714,040000003284,Downley,adj
+"Downley, Memorial Hall (adj)",E,51.649093,-0.774515,040000003286,Downley,adj
+"Downley, Grays Lane (adj)",NE,51.645919,-0.778012,040000003301,Downley,adj
+"Downley, Taylors Turn (adj)",NE,51.64792,-0.776758,040000003303,Downley,adj
+"Bledlow Ridge, Old Post Office (Opp)",SE,51.671163,-0.846876,040000003576,Bledlow Ridge,Opp
+"Bledlow Ridge, Old Post Office (adj)",NW,51.671019,-0.846866,040000003577,Bledlow Ridge,adj
+"Bledlow Ridge, Ford's Close (adj)",SE,51.673696,-0.849343,040000003578,Bledlow Ridge,adj
+"Bledlow Ridge, Ford's Close (Opp)",NW,51.67387,-0.849743,040000003579,Bledlow Ridge,Opp
+"Bledlow Ridge, The Boot (o/s)",SE,51.676359,-0.853224,040000003580,Bledlow Ridge,o/s
+"Bledlow Ridge, The Boot (Opp)",NW,51.676269,-0.853241,040000003581,Bledlow Ridge,Opp
+"Bledlow Ridge, Chapel Lane (adj)",SE,51.679137,-0.857825,040000003582,Bledlow Ridge,adj
+"Bledlow Ridge, Chapel Lane (Opp)",NW,51.679148,-0.858013,040000003583,Bledlow Ridge,Opp
+"Bledlow Ridge, Rout's Green (adj)",SE,51.681816,-0.862329,040000003584,Bledlow Ridge,adj
+"Bledlow Ridge, Rout's Green (Opp)",NW,51.681991,-0.862802,040000003585,Bledlow Ridge,Opp
+"Bledlow Ridge, Wigan's Lane (adj)",SE,51.684728,-0.86687,040000003586,Bledlow Ridge,adj
+"Bledlow Ridge, Wigan's Lane (Opp)",NW,51.684656,-0.866916,040000003587,Bledlow Ridge,Opp
+"Bradenham, Railway Bridge (Southbound)",S,51.652346,-0.799637,040000003590,Bradenham,Southbound
+"West Wycombe, Pedestal (Northbound)",N,51.645166,-0.796532,040000003591,West Wycombe,Northbound
+"Bradenham, Bradenham Road (Opp 37)",S,51.656502,-0.801537,040000003592,Bradenham,Opp 37
+"Bradenham, Railway Bridge (Northbound)",N,51.652122,-0.799701,040000003593,Bradenham,Northbound
+"Bradenham, The Red Lion PH (adj)",S,51.664913,-0.809904,040000003594,Bradenham,adj
+"Bradenham, Bradenham Road (o/s 49)",N,51.656649,-0.801808,040000003595,Bradenham,o/s 49
+"Saunderton, The Golden Cross PH (Opp)",S,51.674861,-0.822674,040000003596,Saunderton,Opp
+"Bradenham, The Red Lion PH (Opp)",N,51.666259,-0.811358,040000003597,Bradenham,Opp
+"Saunderton, Ministry Wharf (Opp)",S,51.679372,-0.826838,040000003598,Saunderton,Opp
+"Saunderton, The Golden Cross PH (o/s)",N,51.675046,-0.823175,040000003599,Saunderton,o/s
+"Saunderton, Haw Lane (Opp)",S,51.682528,-0.828651,040000003600,Saunderton,Opp
+"Saunderton, Ministry Wharf (o/s)",N,51.679637,-0.827309,040000003601,Saunderton,o/s
+"Saunderton Lee, Little Lane (adj)",S,51.688817,-0.831759,040000003602,Saunderton Lee,adj
+"Saunderton, Haw Lane (adj)",N,51.68323,-0.828735,040000003603,Saunderton,adj
+"Loosley Row, Foundry Lane (adj)",S,51.698182,-0.831344,040000003604,Loosley Row,adj
+"Saunderton Lee, Little Lane (opp)",N,51.689433,-0.83222,040000003605,Saunderton Lee,opp
+"Princes Risborough, Woodway (adj)",S,51.710257,-0.833956,040000003606,Princes Risborough,adj
+"Loosley Row, Foundry Lane (Opp)",N,51.698802,-0.831313,040000003607,Loosley Row,Opp
+"Princes Risborough, Poppy Road (opp)",S,51.717099,-0.836632,040000003608,Princes Risborough,opp
+"Princes Risborough, Woodway (Opp)",N,51.71034,-0.834186,040000003609,Princes Risborough,Opp
+"Princes Risborough, Bell Street (o/s 50)",SW,51.721515,-0.833117,040000003610,Princes Risborough,o/s 50
+"Princes Risborough, Poppy Road (adj)",N,51.717669,-0.836994,040000003611,Princes Risborough,adj
+"Princes Risborough, Market Square (o/s 74)",SE,51.724138,-0.83192,040000003612,Princes Risborough,o/s 74
+"Princes Risborough, Bell Street (o/s 9)",NE,51.721685,-0.832982,040000003613,Princes Risborough,o/s 9
+"Princes Risborough, The Avenue (adj)",SW,51.727984,-0.828042,040000003614,Princes Risborough,adj
+"Monks Risborough, Peters Lane (adj)",S,51.731037,-0.82317,040000003616,Monks Risborough,adj
+"Princes Risborough, The Avenue (Opp)",NE,51.7281,-0.827995,040000003617,Princes Risborough,Opp
+"Monks Risborough, The Holloway (adj)",SW,51.734142,-0.81986,040000003618,Monks Risborough,adj
+"Monks Risborough, Peters Lane (opp)",NE,51.731225,-0.823078,040000003619,Monks Risborough,opp
+"Askett, Roundabout (Southbound)",SW,51.738298,-0.81645,040000003620,Askett,Southbound
+"Monks Risborough, The Holloway (Opp)",NE,51.734688,-0.819585,040000003621,Monks Risborough,Opp
+"Great Kimble, St Nicholas Church (Opp)",S,51.746108,-0.805353,040000003622,Great Kimble,Opp
+"Askett, Roundabout (Northbound)",NE,51.739361,-0.814829,040000003623,Askett,Northbound
+"Little Kimble, All Saints' Church (Adj)",S,51.749398,-0.804397,040000003624,Little Kimble,Adj
+"Great Kimble, St Nicholas Church (adj)",N,51.74577,-0.805782,040000003625,Great Kimble,adj
+"Little Kimble, Railway Station (Opp)",S,51.753015,-0.808184,040000003626,Little Kimble,Opp
+"Little Kimble, All Saints' Church (Opp)",N,51.748689,-0.804517,040000003627,Little Kimble,Opp
+"Little Kimble, Brookside Lane (adj)",SW,51.756491,-0.806948,040000003628,Little Kimble,adj
+"Little Kimble, Railway Station (adj)",N,51.753025,-0.808314,040000003629,Little Kimble,adj
+"Little Kimble, Brookside Lane (opp)",NE,51.756413,-0.807254,040000003631,Little Kimble,opp
+"Little Kimble, Mill Turn (opp)",NE,51.759573,-0.798781,040000003633,Little Kimble,opp
+"Little Kimble, Mill Turn (adj)",SW,51.759544,-0.798623,040000003686,Little Kimble,adj
+"Ellesborough, The Retreat (opp)",W,51.751343,-0.800275,040000003688,Ellesborough,opp
+"Ellesborough, The Retreat (Adj)",E,51.751413,-0.800128,040000003690,Ellesborough,Adj
+"Ellesborough, The Church (Opp)",W,51.752623,-0.790013,040000003692,Ellesborough,Opp
+"Ellesborough, The Church (adj)",E,51.75263,-0.790693,040000003694,Ellesborough,adj
+"Ellesborough, Beacon's View (Westbound)",W,51.755156,-0.78457,040000003696,Ellesborough,Westbound
+"Ellesborough, Beacon's View (o/s 4)",E,51.755244,-0.784408,040000003698,Ellesborough,o/s 4
+"Chalkshire, Chalkshire Cottages (adj)",S,51.761184,-0.782278,040000003700,Chalkshire,adj
+"Chalkshire, Chalkshire Cottages (opp)",N,51.761176,-0.782394,040000003702,Chalkshire,opp
+"Butler's Cross, The Russell Arms PH (adj)",S,51.756024,-0.780664,040000003704,Butler's Cross,adj
+"Butler's Cross, The Russell Arms PH (Opp)",N,51.756079,-0.780793,040000003705,Butler's Cross,Opp
+"Terrick, North Lee Lane (adj)",N,51.770046,-0.788938,040000003719,Terrick,adj
+"Terrick, North Lee Lane (Opp)",S,51.770314,-0.788772,040000003721,Terrick,Opp
+"Terrick, Crossroads (Northbound)",NW,51.766589,-0.785857,040000003723,Terrick,Northbound
+"Terrick, Crossroads (Southbound)",SE,51.766377,-0.78537,040000003725,Terrick,Southbound
+"Terrick, Royal Mead (Opp)",N,51.764054,-0.783331,040000003727,Terrick,Opp
+"Terrick, Royal Mead (Adj)",S,51.763962,-0.783174,040000003729,Terrick,Adj
+"Terrick, Grove Farm (adj)",NE,51.762749,-0.790162,040000003731,Terrick,adj
+"Terrick, Grove Farm (Opp)",SW,51.762388,-0.790925,040000003733,Terrick,Opp
+"Princes Risborough, Princes Risborough School (in)",NE,51.719511,-0.827725,040000003932,Princes Risborough,in
+"Aylesbury, Ambulance Station (Adj)",SE,51.795482,-0.803744,040000004601,Aylesbury,Adj
+"Aylesbury, Ambulance Station (Opp)",NW,51.79601,-0.804368,040000004602,Aylesbury,Opp
+"Stoke Mandeville, Ranch House (adj)",NW,51.791434,-0.800052,040000004603,Stoke Mandeville,adj
+"Stoke Mandeville, Ranch House (opp)",SE,51.793241,-0.80173,040000004604,Stoke Mandeville,opp
+"Stoke Mandeville, The Bell PH (adj)",NW,51.788435,-0.796884,040000004605,Stoke Mandeville,adj
+"Stoke Mandeville, The Bell PH (Opp)",SE,51.788731,-0.796833,040000004606,Stoke Mandeville,Opp
+"Stoke Mandeville, The Bull PH (Opp)",N,51.785625,-0.791203,040000004607,Stoke Mandeville,Opp
+"Stoke Mandeville, The Bull PH (adj)",S,51.78527,-0.790734,040000004608,Stoke Mandeville,adj
+"Stoke Mandeville, Stoke House (adj)",S,51.780555,-0.790469,040000004609,Stoke Mandeville,adj
+"Stoke Mandeville, Stoke House (opp)",N,51.780854,-0.790635,040000004610,Stoke Mandeville,opp
+"Aylesbury, Aylesbury Bus Stn (Bay 6)",,51.814702,-0.8131,040000004656,Aylesbury,Bay 6
+"Aylesbury, Aylesbury College (adj)",SW,51.813479,-0.824564,040000004910,Aylesbury,adj
+"Aylesbury, Railway Station (opp)",NE,51.814256,-0.815259,040000004912,Aylesbury,opp
+"Aylesbury, Aylesbury College (Opp)",NE,51.814751,-0.823355,040000004917,Aylesbury,Opp
+"Aylesbury, Stadium Approach (Adj)",SE,51.798932,-0.806089,040000004941,Aylesbury,Adj
+"Aylesbury, Walton Street (SE-bound)",SE,51.812785,-0.80845,040000004971,Aylesbury,SE-bound
+"Aylesbury, Walton Street (NW-bound)",NW,51.81217,-0.808104,040000004972,Aylesbury,NW-bound
+"Aylesbury, Magistrates Court (o/s)",N,51.810485,-0.806915,040000004973,Aylesbury,o/s
+"Aylesbury, Stoke Road (o/s 60)",NE,51.809136,-0.808576,040000004974,Aylesbury,o/s 60
+"Aylesbury, Stoke Road (o/s 83)",SW,51.80893,-0.808726,040000004975,Aylesbury,o/s 83
+"Aylesbury, The Plough & Harrow PH (Opp)",SW,51.810125,-0.805982,040000004976,Aylesbury,Opp
+"Aylesbury, Mandeville Road (Opp 18)",N,51.806875,-0.80997,040000004977,Aylesbury,Opp 18
+"Aylesbury, Mandeville Road (o/s 22)",S,51.80583,-0.809823,040000004978,Aylesbury,o/s 22
+"Aylesbury, Harvey Road (adj)",SE,51.802304,-0.807914,040000004986,Aylesbury,adj
+"Aylesbury, Harvey Road (Opp)",NW,51.802116,-0.808006,040000004987,Aylesbury,Opp
+"Aylesbury, Stadium Approach (Opp)",NW,51.799603,-0.80668,040000004988,Aylesbury,Opp
+"Stoke Mandeville, Fremantle Court (adj)",NW,51.774473,-0.789197,040000002562,Stoke Mandeville,adj
+"Stoke Mandeville, Fremantle Court (opp)",SE,51.77409,-0.7887,040000002561,Stoke Mandeville,opp
+"Aylesbury, Stoke Mandeville Hospital Main Gate (adj)",W,51.798085,-0.805082,040000002588,Aylesbury,adj
+"West Wycombe, Chorley Road (o/s 134)",SE,51.65264,-0.817077,040000003566,West Wycombe,o/s 134
+"West Wycombe, Chorley Road (opp 128)",NW,51.65235,-0.816825,040000003567,West Wycombe,opp 128
+"Bledlow Ridge, Loxboro Hill (Southbound)",SE,51.657304,-0.827581,040000003568,Bledlow Ridge,Southbound
+"Bledlow Ridge, Loxboro Hill (Northbound)",NW,51.657316,-0.827812,040000003569,Bledlow Ridge,Northbound
+"Bledlow Ridge, Loxborough House (Opp)",SE,51.663117,-0.835239,040000003570,Bledlow Ridge,Opp
+"Bledlow Ridge, Loxborough House (adj)",NW,51.663209,-0.835439,040000003571,Bledlow Ridge,adj
+"Bledlow Ridge, Scrubb's Lane (adj)",SE,51.665933,-0.837206,040000003572,Bledlow Ridge,adj
+"Bledlow Ridge, Scrubb's Lane (Opp)",NW,51.665934,-0.837264,040000003573,Bledlow Ridge,Opp
+"Bledlow Ridge, The Old House (adj)",SE,51.667949,-0.840061,040000003574,Bledlow Ridge,adj
+"Bledlow Ridge, The Old House (Opp)",NW,51.668218,-0.84095,040000003575,Bledlow Ridge,Opp
+"Bledlow Ridge, Beechgrove Farm (Opp)",E,51.688341,-0.882664,040000003588,Bledlow Ridge,Opp
+"Bledlow Ridge, Beechgrove Farm (adj)",W,51.68826,-0.882695,040000003589,Bledlow Ridge,adj
+"West Wycombe, Cockshoot Farm (adj)",NW,51.648847,-0.811828,040000003871,West Wycombe,adj
+"West Wycombe, Cockshoot Farm (Opp)",SE,51.649721,-0.812904,040000003879,West Wycombe,Opp
+"Stokenchurch, Tower Farm (opp)",NW,51.661868,-0.915095,040000003915,Stokenchurch,opp
+"Stokenchurch, Aston Hill (Westbound)",NW,51.667266,-0.923323,040000003917,Stokenchurch,Westbound
+"Oxford City Centre, High Street (Stop L2)",W,51.75211,-1.25652,340000002I2,Oxford City Centre,Stop L2
+"Sandhills, Thornhill Park and Ride (Stop E)",E,51.76311,-1.18064,340000009LRE,Sandhills,Stop E
+"Sandhills, Thornhill Park and Ride (Stop F)",W,51.7624,-1.1833,340000009LRW,Sandhills,Stop F
+"Aston Rowant, The Lambert Arms (o/s)",NW,51.67869,-0.95717,340000059OLA,Aston Rowant,o/s
+"Aston Rowant, The Lambert Arms (opp)",SE,51.67736,-0.95457,340000059OPP,Aston Rowant,opp
+"Milton Common, Common Cottage (opp)",E,51.72386,-1.04996,340000543EST,Milton Common,opp
+"Milton Common, Common Cottage (o/s)",W,51.72397,-1.05147,340000543WST,Milton Common,o/s
+"Postcombe, Salt Lane (adj)",NW,51.68992,-0.97391,340000618GC,Postcombe,adj
+"Postcombe, Salt Lane (opp)",SE,51.69018,-0.97443,340000618OSL,Postcombe,opp
+"Tetsworth, The Green (opp)",NW,51.71104,-1.00809,340000747GRN,Tetsworth,opp
+"Tetsworth, The Green (o/s)",SE,51.71105,-1.00774,340000747SWA,Tetsworth,o/s
+"St Clements, St Clements Street (Stop A)",E,51.75048,-1.24071,340001126YOR,St Clements,Stop A
+"Risinghurst, A40 Risinghurst Turn (adj)",W,51.76244,-1.19218,340001293CNR,Risinghurst,adj
+"Risinghurst, A40 Risinghurst Turn (opp)",E,51.76251,-1.19088,340001293OPP,Risinghurst,opp
+"Chinnor, Chinnor Railway Station (E-bound)",E,51.69788,-0.90539,340001299CSE,Chinnor,E-bound
+"Chinnor, Chinnor Railway Station (W-bound)",W,51.69771,-0.90531,340001299CSW,Chinnor,W-bound
+"Chinnor, Red Kite Road (adj)",NE,51.69576,-0.90867,340001299OK2,Chinnor,adj
+"Headington, Gladstone Road (opp)",E,51.76227,-1.20175,340001308OPP,Headington,opp
+"Headington, Headington Shops (Stop HS6)",NE,51.76055,-1.20974,340001309OPP,Headington,Stop HS6
+"Headington, Headington Shops (Stop HS2)",SW,51.75987,-1.21185,340001309OUT,Headington,Stop HS2
+"Headington, Green Road Roundabout (W-bound)",W,51.76253,-1.19905,340001310ONR,Headington,W-bound
+"Headington, Sandfield Road (adj)",NE,51.75862,-1.21616,340001311OPS,Headington,adj
+"Headington, Sandfield Road (opp)",SW,51.75865,-1.21577,340001311OSS,Headington,opp
+"Headington, Wharton Road (adj)",W,51.76135,-1.20646,340001312CNR,Headington,adj
+"Headington, Wharton Road (opp)",E,51.76162,-1.20563,340001312OPP,Headington,opp
+"Headington, Brookes University (Stop B5)",SW,51.75547,-1.2264,340001313ENT,Headington,Stop B5
+"Headington, Brookes University (Stop B2)",NE,51.75593,-1.22501,340001313OPP,Headington,Stop B2
+"St Clements, Glebe Street (adj)",SW,51.7509,-1.23857,340001317OPP,St Clements,adj
+"Headington, Headington School (Stop B9)",SW,51.75663,-1.22235,340001319CNR,Headington,Stop B9
+"Headington, Headington School (Stop B8)",NE,51.75712,-1.22092,340001319OPP,Headington,Stop B8
+"St Clements, South Park (opp)",NE,51.7524,-1.23611,340001321HEA,St Clements,opp
+"Great Milton, Fullers Field (adj)",E,51.72057,-1.08754,340001467FUL,Great Milton,adj
+"Great Milton, Fullers Field (opp)",W,51.72046,-1.08749,340001467OPF,Great Milton,opp
+"Chinnor, Cherry Tree Road (adj)",SW,51.7039,-0.91468,340001622CHT,Chinnor,adj
+"Chinnor, Cherry Tree Road (opp)",NE,51.70393,-0.91497,340001622OCT,Chinnor,opp
+"Chinnor, Hailey Croft (adj)",S,51.70165,-0.91882,340001623HCF,Chinnor,adj
+"Chinnor, Hailey Croft (opp)",N,51.70133,-0.91896,340001623OHC,Chinnor,opp
+"Chinnor, Cowleaze (adj)",NE,51.69877,-0.91779,340001624NTH,Chinnor,adj
+"Chinnor, Cowleaze (opp)",SW,51.699,-0.91726,340001624STH,Chinnor,opp
+"Chinnor, Estover Way (adj)",SW,51.70264,-0.9184,340001629CNR,Chinnor,adj
+"Chinnor, Estover Way (opp)",NE,51.70273,-0.91846,340001629OPP,Chinnor,opp
+"Wheatley, Ambrose Rise (adj)",NW,51.74629,-1.12828,340001686CAR,Wheatley,adj
+"Wheatley, Ambrose Rise (opp)",SE,51.74602,-1.12711,340001686OAR,Wheatley,opp
+"Wheatley, The Avenue (adj)",NW,51.74527,-1.12523,340001687CAV,Wheatley,adj
+"Wheatley, The Avenue (opp)",SE,51.74496,-1.12387,340001687OAV,Wheatley,opp
+"Great Milton, Chilworth Road (adj)",E,51.72063,-1.0858,340001689FF,Great Milton,adj
+"Great Milton, Chilworth Road (opp)",W,51.72056,-1.08573,340001689OFF,Great Milton,opp
+"Great Milton, Thame Road (o/s)",E,51.72067,-1.0827,340001690TRE,Great Milton,o/s
+"Great Milton, Post Office (opp)",N,51.72237,-1.09021,340001691LEN,Great Milton,opp
+"Great Milton, Post Office (o/s)",S,51.72185,-1.08977,340001691LES,Great Milton,o/s
+"Wheatley, ASDA Store (adj)",NW,51.74256,-1.11744,340001693KA,Wheatley,adj
+"Wheatley, The Plough (opp)",SE,51.74333,-1.11937,340001693OKA,Wheatley,opp
+"Wheatley, Ashurst Court (o/s)",NW,51.74119,-1.11143,340001694ASH,Wheatley,o/s
+"Wheatley, Ashurst Court (opp)",SE,51.7412,-1.11092,340001694OAS,Wheatley,opp
+"Great Milton, The Bull (opp)",S,51.72039,-1.0894,340001697OPP,Great Milton,opp
+"Great Milton, The Bull (nr)",N,51.72039,-1.08953,340001697OUT,Great Milton,nr
+"Wheatley, Park Hill Roundabout (NW-bound)",NW,51.75022,-1.13905,340001699WST,Wheatley,NW-bound
+"Wheatley, Holton Turn (just after)",SE,51.75184,-1.13863,340001700WT,Wheatley,just after
+"Forest Hill, Forest Hill Turn (adj)",SE,51.76138,-1.16109,340001701EST,Forest Hill,adj
+"Forest Hill, Forest Hill Turn (opp)",NW,51.76164,-1.16284,340001701WST,Forest Hill,opp
+"Chinnor, Meadow Road (adj)",NW,51.69944,-0.90657,340001705CNB,Chinnor,adj
+"Chinnor, Meadow Road (opp)",SE,51.6992,-0.90601,340001705CSB,Chinnor,opp
+"Waterstock, Five Elms Farm (o/s)",E,51.7385,-1.0889,340001715OPP,Waterstock,o/s
+"Waterstock, Five Elms Farm (opp)",W,51.73848,-1.08964,340001715OUT,Waterstock,opp
+"Waterstock, Waterstock Turn (S-bound)",S,51.73788,-1.08176,340001716LON,Waterstock,S-bound
+"Waterstock, Waterstock Turn (opp)",W,51.73838,-1.0823,340001716OPP,Waterstock,opp
+"Camp Corner, Sandy Lane (adj)",SE,51.72774,-1.06304,340001719EST,Camp Corner,adj
+"Camp Corner, Sandy Lane (opp)",NW,51.72774,-1.06332,340001719WST,Camp Corner,opp
+"Oxford City Centre, Queens Lane (Stop J2)",W,51.75264,-1.25138,340001992J2,Oxford City Centre,Stop J2
+"Chinnor Hill, Chinnor Hill (S-bound)",S,51.6897,-0.90089,340003238CNR,Chinnor Hill,S-bound
+"Chinnor Hill, Chinnor Hill (SW-bound)",SW,51.68937,-0.90091,340003238OPP,Chinnor Hill,SW-bound
+"Chinnor Hill, Red Lane (NW-bound)",NW,51.69009,-0.89368,340003239OPP,Chinnor Hill,NW-bound
+"Chinnor Hill, Red Lane (SE-bound)",SE,51.69004,-0.89356,340003239OUT,Chinnor Hill,SE-bound
+"Chinnor, The Wheatsheaf (opp)",NW,51.69755,-0.91722,340003240OPP,Chinnor,opp
+"Chinnor, The Wheatsheaf (o/s)",SE,51.69764,-0.91721,340003240OUT,Chinnor,o/s
+"Waterstock, Motorway Service Area (entrance)",N,51.73947,-1.09701,340003241TRN,Waterstock,entrance
+"Tetsworth, Oak Farm Close (adj)",NW,51.70737,-1.00317,340003258CNR,Tetsworth,adj
+"Tetsworth, Oak Farm Close (opp)",SE,51.70762,-1.00341,340003258OPP,Tetsworth,opp
+"Aston Rowant, Aston Hill Bottom (NW-bound)",NW,51.67591,-0.95217,340003260NW,Aston Rowant,NW-bound
+"Great Milton, Potts Close (adj)",NW,51.72375,-1.09254,340003282CNR,Great Milton,adj
+"Great Milton, Potts Close (opp)",SE,51.72382,-1.09241,340003282OPP,Great Milton,opp
+"Wheatley, The Glebe (adj)",NW,51.74826,-1.13541,340002013GNW,Wheatley,adj
+"Wheatley, The Glebe (opp)",SE,51.74833,-1.13519,340002013GSE,Wheatley,opp
+"Oxford City Centre, High Street (Stop T1)",E,51.75233,-1.25556,340002074T1,Oxford City Centre,Stop T1
+"High Wycombe, High Wycombe BusStn (Bay 9)",,51.631315,-0.7565,040000002959,High Wycombe,Bay 9
+"High Wycombe, Morrisons (adj)",N,51.634034,-0.752539,040000003025,High Wycombe,adj
+"High Wycombe, Telford Way (Opp 2)",N,51.638473,-0.757316,040000003281,High Wycombe,Opp 2
+"High Wycombe, Brunel Road (o/s 14)",S,51.63833,-0.760022,040000003283,High Wycombe,o/s 14
+"Downley, Hithercroft Road (o/s 9)",E,51.644688,-0.771223,040000003280,Downley,o/s 9
+"Downley, Tinkers Wood Road (o/s 70)",SW,51.642716,-0.769224,040000003278,Downley,o/s 70
+"High Wycombe, Brunel Road (o/s 15)",N,51.638683,-0.760258,040000003270,High Wycombe,o/s 15
+"High Wycombe, Telford Way Spur (Opp)",E,51.639464,-0.759225,040000003268,High Wycombe,Opp
+"High Wycombe, Telford Way (o/s 26)",S,51.638998,-0.756868,040000003266,High Wycombe,o/s 26
+"High Wycombe, Temple End (Southbound)",S,51.63314,-0.752202,040000003026,High Wycombe,Southbound
+"High Wycombe, Frogmoor (Stop M)",S,51.631734,-0.752746,040000003056,High Wycombe,Stop M
+"High Wycombe, Marlow Hill Schools (Stop 2)",W,51.618114,-0.763159,040000003417,High Wycombe,Stop 2
+"High Wycombe, Whincup Close (Opp)",SW,51.617789,-0.765594,040000003419,High Wycombe,Opp
+"High Wycombe, Rupert Avenue (adj)",NW,51.617803,-0.766966,040000003396,High Wycombe,adj
+"High Wycombe, Bowerdean Crossroads (o/s 140)",N,51.631064,-0.735499,040000003171,High Wycombe,o/s 140
+"High Wycombe, Acorn Close (Opp)",N,51.633468,-0.734912,040000003173,High Wycombe,Opp
+"High Wycombe, The Happy Wanderer PH (adj)",N,51.636155,-0.733956,040000003175,High Wycombe,adj
+"High Wycombe, Mayhew Crescent (adj)",N,51.63782,-0.734979,040000003177,High Wycombe,adj
+"High Wycombe, Sheraton Drive (adj)",N,51.639956,-0.735353,040000003179,High Wycombe,adj
+"High Wycombe, Windsor Drive (adj)",N,51.641404,-0.734633,040000003941,High Wycombe,adj
+"High Wycombe, Windsor Drive (Opp)",S,51.641385,-0.734489,040000003942,High Wycombe,Opp
+"High Wycombe, Sheraton Drive (opp)",S,51.64066,-0.734798,040000003178,High Wycombe,opp
+"High Wycombe, Mayhew Crescent (Opp)",S,51.638605,-0.735231,040000003180,High Wycombe,Opp
+"High Wycombe, The Happy Wanderer PH (opp)",S,51.635389,-0.733775,040000003182,High Wycombe,opp
+"High Wycombe, Acorn Close (Adj)",S,51.633866,-0.734352,040000003184,High Wycombe,Adj
+"High Wycombe, Rupert Avenue (opp)",SE,51.617828,-0.766792,040000003421,High Wycombe,opp
+"Booker, Asda (o/s)",W,51.612204,-0.78013,040000003384,Booker,o/s
+"Booker, Alford Road (Opp)",W,51.612806,-0.786209,040000003382,Booker,Opp
+"Booker, Holmers Court (adj)",NW,51.613717,-0.791702,040000003378,Booker,adj
+"Booker, Lansdell Avenue (adj)",NE,51.615371,-0.788119,040000003374,Booker,adj
+"Booker, Turnpike Corner West (o/s 210)",E,51.616465,-0.783497,040000003372,Booker,o/s 210
+"Booker, Turnpike Corner (o/s 246)",N,51.617001,-0.783223,040000003370,Booker,o/s 246
+"High Wycombe, Squirrel Lane (adj)",N,51.620945,-0.784547,040000003368,High Wycombe,adj
+"High Wycombe, Edmunds Close (Opp)",W,51.622879,-0.785536,040000003366,High Wycombe,Opp
+"High Wycombe, Field Road (adj)",N,51.625114,-0.787715,040000003364,High Wycombe,adj
+"High Wycombe, Mentmore Road (adj)",N,51.627416,-0.787011,040000003948,High Wycombe,adj
+"High Wycombe, Roundwood Road (adj)",E,51.628318,-0.785405,040000003362,High Wycombe,adj
+"High Wycombe, New Road (o/s 52)",N,51.62915,-0.784978,040000003360,High Wycombe,o/s 52
+"Sands, The Hour Glass PH (Adj Tesco)",NE,51.633291,-0.783697,040000003350,Sands,Adj Tesco
+"Sands, Dashwood Avenue (o/s 198)",E,51.63449,-0.780559,040000003348,Sands,o/s 198
+"High Wycombe, Prestwood Close (adj)",E,51.634106,-0.776451,040000003346,High Wycombe,adj
+"High Wycombe, The Half Moon PH (Opp)",E,51.633588,-0.771696,040000003344,High Wycombe,Opp
+"High Wycombe, Oakridge Road (Opp 3)",E,51.633263,-0.768122,040000003342,High Wycombe,Opp 3
+"High Wycombe, Green Street (o/s 23)",SE,51.632273,-0.765418,040000003340,High Wycombe,o/s 23
+"High Wycombe, Cedar Terrace (adj)",SE,51.632181,-0.763542,040000003338,High Wycombe,adj
+"High Wycombe, High Wycombe BusStn (Bay 12)",,51.631386,-0.756354,040000002962,High Wycombe,Bay 12
+"Wycombe Marsh, Micklefield Road (o/s 1)",N,51.621209,-0.718901,040000003097,Wycombe Marsh,o/s 1
+"Micklefield Estate, Hawthorne Road (opp)",N,51.624769,-0.717182,040000003241,Micklefield Estate,opp
+"Micklefield Estate, Petrol Station (outside)",W,51.626882,-0.716371,040000002948,Micklefield Estate,outside
+"High Wycombe, Hennerton Way North (adj)",SW,51.628817,-0.719842,040000003445,High Wycombe,adj
+"High Wycombe, Brow Of The Hill (opp 65)",S,51.627392,-0.720258,040000003447,High Wycombe,opp 65
+"Micklefield Estate, Herbert Road South (Opp)",E,51.627695,-0.714268,040000003213,Micklefield Estate,Opp
+"Micklefield Estate, Buckingham Drive (adj)",N,51.630287,-0.711175,040000003215,Micklefield Estate,adj
+"Micklefield Estate, Ash Hill School (Opp)",N,51.632112,-0.710271,040000003233,Micklefield Estate,Opp
+"Micklefield Estate, Ashdown Road (Opp)",W,51.632698,-0.713679,040000003217,Micklefield Estate,Opp
+"Micklefield Estate, Woodside Road (Opp)",N,51.635098,-0.716949,040000003219,Micklefield Estate,Opp
+"Micklefield Estate, Woodside Road (adj)",S,51.63489,-0.716868,040000003206,Micklefield Estate,adj
+"Micklefield Estate, Ashdown Road (adj)",E,51.632907,-0.714742,040000003208,Micklefield Estate,adj
+"Micklefield Estate, Ash Hill School (adj)",S,51.632164,-0.71011,040000003210,Micklefield Estate,adj
+"Micklefield Estate, Buckingham Drive (opp)",S,51.629705,-0.711365,040000003212,Micklefield Estate,opp
+"Micklefield Estate, Herbert Road South (adj)",W,51.627741,-0.713458,040000003214,Micklefield Estate,adj
+"Micklefield Estate, Hawthorne Road (adj)",S,51.624347,-0.717209,040000003216,Micklefield Estate,adj
+"Wycombe Marsh, Micklefield Road (o/s 6)",S,51.620903,-0.718851,040000003096,Wycombe Marsh,o/s 6
+"High Wycombe, High Wycombe BusStn (Bay 7)",,51.631271,-0.756588,040000002957,High Wycombe,Bay 7
+"High Wycombe, Cedar Terrace (opp)",NW,51.631962,-0.76323,040000003349,High Wycombe,opp
+"High Wycombe, Green Street (o/s 84)",NW,51.632884,-0.767121,040000003351,High Wycombe,o/s 84
+"High Wycombe, Oakridge Road (o/s 17)",W,51.633226,-0.768874,040000003353,High Wycombe,o/s 17
+"High Wycombe, The Half Moon PH (adj)",W,51.633499,-0.771728,040000003355,High Wycombe,adj
+"High Wycombe, Prestwood Close (opp)",W,51.633876,-0.776038,040000003357,High Wycombe,opp
+"Sands, Dashwood Avenue (adj)",SW,51.634172,-0.781998,040000003359,Sands,adj
+"Sands, The Hour Glass PH (Opp)",S,51.632667,-0.784292,040000003361,Sands,Opp
+"High Wycombe, New Road (opp 56)",S,51.629328,-0.784858,040000003369,High Wycombe,opp 56
+"High Wycombe, Roundwood Road (Opp)",W,51.628216,-0.785119,040000003371,High Wycombe,Opp
+"High Wycombe, Mentmore Road (Opp)",S,51.626226,-0.787469,040000003947,High Wycombe,Opp
+"High Wycombe, Field Road (Opp)",S,51.624249,-0.787623,040000003373,High Wycombe,Opp
+"High Wycombe, Edmunds Close (adj)",E,51.622969,-0.785562,040000003375,High Wycombe,adj
+"High Wycombe, Squirrel Lane (Opp)",S,51.620708,-0.784308,040000003377,High Wycombe,Opp
+"Booker, Turnpike Corner (o/s 195)",S,51.617216,-0.783145,040000003379,Booker,o/s 195
+"Booker, Nancy Hall Court (adj)",SE,51.614352,-0.78091,040000003381,Booker,adj
+"Cressex, Empire Cinema (o/s)",S,51.613327,-0.772287,040000003385,Cressex,o/s
+"Totteridge, Tyzack Road (adj)",SE,51.641604,-0.723124,040000003160,Totteridge,adj
+"Totteridge, The Dolphin PH (adj)",S,51.639461,-0.722014,040000003162,Totteridge,adj
+"Totteridge, Totteridge Lane (opp 15a)",S,51.637122,-0.722744,040000003164,Totteridge,opp 15a
+"Totteridge, Hollis Road (o/s 4)",S,51.634231,-0.722348,040000003221,Totteridge,o/s 4
+"Totteridge, Turners Drive (opp)",SW,51.63454,-0.725186,040000003166,Totteridge,opp
+"Totteridge, Elora Road (opp)",S,51.632498,-0.728393,040000003168,Totteridge,opp
+"Totteridge, Rowan Avenue (opp)",SW,51.631721,-0.733053,040000003170,Totteridge,opp
+"High Wycombe, High Wycombe BusStn (Bay 6)",,51.631245,-0.756632,040000002956,High Wycombe,Bay 6
+"Desborough Castle, Whitelands Road (o/s 39)",S,51.630816,-0.774025,040000003437,Desborough Castle,o/s 39
+"Desborough Castle, Link Road (opp)",S,51.628372,-0.775016,040000003439,Desborough Castle,opp
+"Desborough Castle, Chairborough Road (o/s 163)",S,51.625725,-0.776474,040000002925,Desborough Castle,o/s 163
+"Desborough Castle, Pettifer Way (opp)",S,51.624019,-0.77756,040000003441,Desborough Castle,opp
+"Desborough Castle, The Jolly Bodger PH (o/s)",W,51.622964,-0.779842,040000003426,Desborough Castle,o/s
+"Desborough Castle, Laburnum Road (o/s 216)",N,51.623773,-0.781597,040000003428,Desborough Castle,o/s 216
+"Desborough Castle, Methodist Church (Opp)",N,51.625947,-0.78047,040000003430,Desborough Castle,Opp
+"Desborough Castle, Cross Road (opp 10)",W,51.628825,-0.780595,040000003432,Desborough Castle,opp 10
+"Desborough Castle, Spearing Road (o/s 84)",NE,51.630709,-0.780992,040000003434,Desborough Castle,o/s 84
+"Desborough Castle, Grenfell Avenue (Opp)",E,51.631472,-0.778284,040000003436,Desborough Castle,Opp
+"Desborough Castle, Copyground Lane (Opp 1)",E,51.632875,-0.774042,040000003438,Desborough Castle,Opp 1
+"High Wycombe, Bowerdean Crossroads (o/s 155)",NE,51.631162,-0.734586,040000003183,High Wycombe,o/s 155
+"Totteridge, Rowan Avenue (adj)",E,51.631956,-0.732353,040000003185,Totteridge,adj
+"Totteridge, Elora Road (adj)",NE,51.632883,-0.728267,040000003187,Totteridge,adj
+"Totteridge, Turners Drive (adj)",NE,51.634823,-0.724673,040000003189,Totteridge,adj
+"Totteridge, Totteridge Lane (o/s 17)",N,51.637509,-0.722791,040000003201,Totteridge,o/s 17
+"Totteridge, The Dolphin PH (Opp)",N,51.63888,-0.722333,040000003203,Totteridge,Opp
+"High Wycombe, High Wycombe BusStn (Bay 11)",,51.631368,-0.756398,040000002961,High Wycombe,Bay 11
+"Wycombe Marsh, Abbey Barn Road (o/s 35)",W,51.617836,-0.718764,040000003819,Wycombe Marsh,o/s 35
+"Wycombe Marsh, Marsh School (Opp)",W,51.617553,-0.720881,040000003821,Wycombe Marsh,Opp
+"Wycombe Marsh, Beech Road (adj)",SE,51.615731,-0.719517,040000003823,Wycombe Marsh,adj
+"Wycombe Marsh, General Havelock (Opp)",SE,51.614871,-0.716566,040000003825,Wycombe Marsh,Opp
+"Wycombe Marsh, Rugby Club (adj)",SE,51.613641,-0.713394,040000003827,Wycombe Marsh,adj
+"Wycombe Marsh, Dolphin Court (Opp)",SE,51.611402,-0.707724,040000003829,Wycombe Marsh,Opp
+"Loudwater, Woodside Close (Opp)",SE,51.608502,-0.704066,040000002983,Loudwater,Opp
+"Loudwater, St Peter's Close (Opp)",SE,51.60661,-0.702084,040000003864,Loudwater,Opp
+"Loudwater, Lammas Way (adj)",SE,51.603958,-0.698044,040000003835,Loudwater,adj
+"Loudwater, Knaves Beech (adj)",SE,51.602072,-0.694993,040000003837,Loudwater,adj
+"Loudwater, Hedge Lea (adj)",SE,51.600814,-0.69269,040000003839,Loudwater,adj
+"Loudwater, Boundary Place (adj)",SE,51.598855,-0.68957,040000003841,Loudwater,adj
+"Wooburn Green, Glory Mill Lane (adj)",SE,51.596055,-0.686027,040000003843,Wooburn Green,adj
+"Wooburn Green, Wycombe Lane (opp 87)",S,51.592398,-0.683895,040000003845,Wooburn Green,opp 87
+"Wooburn Green, The Red Lion PH (opp)",S,51.588106,-0.683629,040000003847,Wooburn Green,opp
+"Wooburn, Town Lane (Southbound)",SW,51.581774,-0.689109,040000003849,Wooburn,Southbound
+"Wooburn, Cemetery (adj)",SW,51.579374,-0.692367,040000003851,Wooburn,adj
+"Cores End, Brookbank (Southbound)",SW,51.577908,-0.696407,040000003853,Cores End,Southbound
+"Bourne End, Cores End (o/s 3)",W,51.578203,-0.701926,040000003855,Bourne End,o/s 3
+"Bourne End, Bourne End Academy (o/s)",SW,51.581321,-0.705806,040000003957,Bourne End,o/s
+"Bourne End, New Road (Opp)",W,51.578235,-0.708116,040000003861,Bourne End,Opp
+"Bourne End, Railway Station (Opp)",S,51.577612,-0.710342,040000003863,Bourne End,Opp
+"Bourne End, Railway Station (o/s)",N,51.577208,-0.710353,040000003838,Bourne End,o/s
+"Bourne End, New Road (adj)",E,51.578328,-0.708345,040000003836,Bourne End,adj
+"Bourne End, Cores End (opp 7)",E,51.578276,-0.701996,040000003834,Bourne End,opp 7
+"Cores End, Brookbank (Northbound)",NE,51.578094,-0.6962,040000003832,Cores End,Northbound
+"Wooburn, Cemetery (Opp)",NE,51.579282,-0.692991,040000003830,Wooburn,Opp
+"Wooburn, Town Lane (Northbound)",NE,51.582152,-0.689083,040000003828,Wooburn,Northbound
+"Wooburn Green, The Red Lion PH (adj)",N,51.588233,-0.683755,040000003826,Wooburn Green,adj
+"Wooburn Green, Wycombe Lane (o/s 105)",N,51.592797,-0.684186,040000003824,Wooburn Green,o/s 105
+"Wooburn Green, Glory Mill Lane (opp)",NW,51.595539,-0.685753,040000003822,Wooburn Green,opp
+"Loudwater, Boundary Place (Opp)",NW,51.599223,-0.69031,040000003820,Loudwater,Opp
+"Loudwater, Hedge Lea (Opp)",NW,51.600918,-0.693092,040000003818,Loudwater,Opp
+"Loudwater, Knaves Beech (Opp)",NW,51.602313,-0.695679,040000003816,Loudwater,Opp
+"Loudwater, Lammas Way (Opp)",NW,51.60418,-0.698629,040000003814,Loudwater,Opp
+"Loudwater, St Peter's Close (adj)",NW,51.606548,-0.702158,040000003810,Loudwater,adj
+"Loudwater, Woodside Close (adj)",NW,51.608386,-0.704112,040000002984,Loudwater,adj
+"Wycombe Marsh, Dolphin Court (adj)",NW,51.611239,-0.707613,040000003808,Wycombe Marsh,adj
+"Wycombe Marsh, Rugby Club (Opp)",NW,51.613449,-0.71314,040000003806,Wycombe Marsh,Opp
+"Wycombe Marsh, General Havelock (adj)",NW,51.614809,-0.716683,040000003804,Wycombe Marsh,adj
+"Wycombe Marsh, Beech Road (Opp)",NW,51.615844,-0.720019,040000003802,Wycombe Marsh,Opp
+"Wycombe Marsh, Marsh School (adj)",E,51.617634,-0.720908,040000003800,Wycombe Marsh,adj
+"Wycombe Marsh, Abbey Barn Road (opp 43)",E,51.617905,-0.719326,040000003798,Wycombe Marsh,opp 43
+"Bourne End, Furlong Road (opp 65)",SW,51.577537,-0.706794,040000003857,Bourne End,opp 65
+"Bourne End, Post Office (o/s)",SW,51.5752,-0.709313,040000003859,Bourne End,o/s
+"High Wycombe, Bridge Street (Stop BS)",NE,51.631245,-0.757435,0400000T9002,High Wycombe,Stop BS
+"High Wycombe, Oxford Road (o/s 107)",SE,51.631763,-0.755433,040000003318,High Wycombe,o/s 107
+"High Wycombe, Abbey School (adj)",W,51.626687,-0.750776,040000003062,High Wycombe,adj
+"Flackwell Heath, Fernlea Close (opp)",NW,51.603951,-0.714607,040000005000,Flackwell Heath,opp
+"Flackwell Heath, Fernlea Close (Adj)",SE,51.604005,-0.714533,040000005001,Flackwell Heath,Adj
+"Flackwell Heath, The Common (adj)",SE,51.601461,-0.70971,040000003124,Flackwell Heath,adj
+"Flackwell Heath, Chapman Lane (Opp)",SE,51.599355,-0.706261,040000002919,Flackwell Heath,Opp
+"Flackwell Heath, Greenlands (Opp)",SE,51.598842,-0.703749,040000005862,Flackwell Heath,Opp
+"Flackwell Heath, Straight Bit (Opp 100)",SE,51.597611,-0.700636,040000005860,Flackwell Heath,Opp 100
+"Flackwell Heath, Northern Woods (Opp 2)",SW,51.595271,-0.697166,040000005838,Flackwell Heath,Opp 2
+"Flackwell Heath, The Green Dragon PH (Adj)",W,51.59468,-0.700605,040000005856,Flackwell Heath,Adj
+"Flackwell Heath, Blind Lane (adj 171)",S,51.591101,-0.703031,040000003875,Flackwell Heath,adj 171
+"Bourne End, Waborne Road (adj)",SW,51.584092,-0.70922,040000003873,Bourne End,adj
+"Bourne End, The Parade (Southbound)",S,51.580706,-0.713704,040000003831,Bourne End,Southbound
+"Bourne End, St Mark's Church (Opp)",N,51.575586,-0.710039,040000003840,Bourne End,Opp
+"High Wycombe, Whincup Close (adj)",NE,51.617835,-0.765708,040000003422,High Wycombe,adj
+"Wooburn Moor, Moorside (Adj)",NE,51.599593,-0.685593,040000005009,Wooburn Moor,Adj
+"Bourne End, The Parade (Northbound)",N,51.579986,-0.713594,040000003846,Bourne End,Northbound
+"Bourne End, Loddon Road (Opp)",NE,51.582489,-0.71146,040000003848,Bourne End,Opp
+"Bourne End, Waborne Road (opp)",NE,51.584192,-0.709304,040000003970,Bourne End,opp
+"Flackwell Heath, Blind Lane (o/s 181)",N,51.591781,-0.702752,040000003850,Flackwell Heath,o/s 181
+"Flackwell Heath, The Green Dragon PH (Opp)",E,51.594748,-0.700285,040000003856,Flackwell Heath,Opp
+"Flackwell Heath, Northern Woods (o/s 2)",E,51.595334,-0.697222,040000003858,Flackwell Heath,o/s 2
+"Flackwell Heath, Straight Bit (o/s 100)",NW,51.597353,-0.700846,040000003860,Flackwell Heath,o/s 100
+"Flackwell Heath, Chapman Lane (adj)",W,51.598701,-0.704013,040000003862,Flackwell Heath,adj
+"Flackwell Heath, The Common (Opp)",NW,51.600764,-0.709282,040000003126,Flackwell Heath,Opp
+"High Wycombe, Oxford Road (Stop OR)",NW,51.631537,-0.755495,0400000T9001,High Wycombe,Stop OR
+"Wooburn Moor, Moorside (Opp)",SW,51.599184,-0.686023,040000005010,Wooburn Moor,Opp
+"High Wycombe, West End Road (Opp)",N,51.631551,-0.762678,040000003414,High Wycombe,Opp
+"High Wycombe, Bridge Street (opp 44)",SW,51.631023,-0.757722,040000002969,High Wycombe,opp 44
+"Bourne End, St Mark's Church (adj)",S,51.575539,-0.709867,040000003865,Bourne End,adj
+"Bourne End, Hedsor Road (Southbound)",S,51.57233,-0.709193,040000003867,Bourne End,Southbound
+"Bourne End, Ferry Lane (Southbound)",S,51.569398,-0.707515,040000003869,Bourne End,Southbound
+"Bourne End, Riversdale South (Opp)",S,51.565101,-0.705978,040000003923,Bourne End,Opp
+"Cookham, Cookham Village Memorial (adj)",W,51.559775,-0.710601,036006195196,Cookham,adj
+"Cookham Rise, Cookham Rise Railway Station (nr)",W,51.557599,-0.722982,036006001026,Cookham Rise,nr
+"Cookham Rise, St Elizabeth's Church (o/s 11)",NW,51.55821,-0.727927,036006193193,Cookham Rise,o/s 11
+"Cookham Rise, High Road (adj)",S,51.556981,-0.732275,036006180181,Cookham Rise,adj
+"Cookham Rise, Broom Hill (adj)",S,51.554853,-0.731786,036006182183,Cookham Rise,adj
+"Cookham Rise, The Shaw (opp)",SE,51.553018,-0.730856,036006184184,Cookham Rise,opp
+"Cookham Rise, Hillcrest Avenue (nr)",E,51.552044,-0.726469,036006186186,Cookham Rise,nr
+"Cookham Rise, Southwood Gardens (adj)",SW,51.550121,-0.727417,036006188188,Cookham Rise,adj
+"Furze Platt, Kinghorn Park (Opp)",S,51.54058,-0.732355,036006111112,Furze Platt,Opp
+"Furze Platt, Switchback Road Shops (nr)",S,51.538096,-0.7313,036006110110,Furze Platt,nr
+"Furze Platt, Well House Road (adj)",SW,51.535907,-0.730149,036006104105,Furze Platt,adj
+"Furze Platt, Kent Way (opp)",S,51.534076,-0.731267,036006106107,Furze Platt,opp
+"Furze Platt, Furze Platt Station (adj)",E,51.532768,-0.72917,036006001014,Furze Platt,adj
+"Maidenhead, Moor Lane (adj)",S,51.532399,-0.725042,036006100101,Maidenhead,adj
+"Maidenhead, Australia Avenue (opp)",SE,51.530337,-0.72311,036006099099,Maidenhead,opp
+"Maidenhead, St Joseph's Church (o/s)",S,51.526434,-0.720596,036006097098,Maidenhead,o/s
+"Maidenhead Town Centre, Frascati Way (Stop S1)",S,51.521136,-0.723786,036006009010,Maidenhead Town Centre,Stop S1
+"Maidenhead Town Centre, Broadway (E-bound)",NE,51.52139,-0.720665,036006008008,Maidenhead Town Centre,E-bound
+"Maidenhead Town Centre, Market Street (E-bound)",E,51.522875,-0.719961,036006007007,Maidenhead Town Centre,E-bound
+"Maidenhead Town Centre, Library (o/s)",S,51.522487,-0.718141,036006005005,Maidenhead Town Centre,o/s
+"Maidenhead Town Centre, Bridge Avenue (Stop B)",N,51.521865,-0.716371,036006006008,Maidenhead Town Centre,Stop B
+"Maidenhead Town Centre, Sainsbury's (adj)",W,51.524557,-0.718983,036006140141,Maidenhead Town Centre,adj
+"Maidenhead, St Joseph's Church (opp)",N,51.526817,-0.72109,036006097097,Maidenhead,opp
+"Maidenhead, Australia Avenue (adj)",NW,51.530102,-0.723045,036006001464,Maidenhead,adj
+"Maidenhead, Moor Lane (opp)",N,51.532265,-0.725133,036006100100,Maidenhead,opp
+"Furze Platt, Furze Platt Station (opp)",W,51.532501,-0.729437,036006002014,Furze Platt,opp
+"Furze Platt, Kent Way (nr)",N,51.534662,-0.731438,036006106106,Furze Platt,nr
+"Furze Platt, Well House Road (Opp)",NE,51.536174,-0.729825,036006104104,Furze Platt,Opp
+"Furze Platt, Spencers Bridge (W-bound)",W,51.537284,-0.729419,036006108108,Furze Platt,W-bound
+"Furze Platt, Switchback Road Shops ()",N,51.538438,-0.731579,036006110111,Furze Platt,
+"Furze Platt, Kinghorn Park (nr)",N,51.539923,-0.732302,036006111111,Furze Platt,nr
+"Cookham Rise, Southwood Gardens (opp)",NE,51.550283,-0.727384,036006728728,Cookham Rise,opp
+"Cookham Rise, Hillcrest Avenue (opp)",W,51.551914,-0.726862,036006186187,Cookham Rise,opp
+"Cookham Rise, The Shaw (nr)",NW,51.552902,-0.730974,036006184185,Cookham Rise,nr
+"Cookham Rise, Broom Hill (opp)",N,51.554909,-0.731914,036006182182,Cookham Rise,opp
+"Cookham Rise, High Road (opp)",N,51.557226,-0.732527,036006180180,Cookham Rise,opp
+"Cookham Rise, St Elizabeth's Church (o/s)",SE,51.558504,-0.728482,036006193194,Cookham Rise,o/s
+"Cookham Rise, Medical Centre (o/s)",E,51.557983,-0.726044,036006191192,Cookham Rise,o/s
+"Cookham Rise, Cookham Rise Railway Station (opp)",E,51.557771,-0.720611,036006190190,Cookham Rise,opp
+"Cookham, Cookham Village Memorial (opp)",E,51.559913,-0.710886,036006195195,Cookham,opp
+"Bourne End, Riversdale South (adj)",N,51.566006,-0.706486,040000003924,Bourne End,adj
+"Bourne End, Ferry Lane (Northbound)",N,51.569672,-0.707897,040000003844,Bourne End,Northbound
+"Bourne End, Hedsor Road (Northbound)",N,51.572278,-0.709324,040000003842,Bourne End,Northbound
+"Flackwell Heath, Fennels Farm Road (o/s 35)",NW,51.604698,-0.710542,040000003885,Flackwell Heath,o/s 35
+"Flackwell Heath, Oakland Way (o/s 16)",SW,51.604674,-0.713258,040000003883,Flackwell Heath,o/s 16
+"Flackwell Heath, Highlands (adj)",S,51.596944,-0.705362,040000003852,Flackwell Heath,adj
+"Flackwell Heath, Green Dragon Lane (o/s 12)",E,51.594695,-0.701976,040000003854,Flackwell Heath,o/s 12
+"Flackwell Heath, Whitepit Lane (o/s 5)",SE,51.595083,-0.695612,040000003877,Flackwell Heath,o/s 5
+"Wooburn Green, Whitepit Lane Bottom ()",SE,51.58801,-0.684125,040000008002,Wooburn Green,
+"Wooburn Green, Whitepit Lane Bottom ()",NW,51.587954,-0.684167,040000008001,Wooburn Green,
+"Flackwell Heath, Whitepit Lane (o/s 18)",NW,51.59516,-0.696072,040000003926,Flackwell Heath,o/s 18
+"Flackwell Heath, Oakland Way (o/s 11)",NE,51.605093,-0.712885,040000003880,Flackwell Heath,o/s 11
+"Flackwell Heath, Fennels Farm Road (o/s 38)",SE,51.604761,-0.710483,040000003882,Flackwell Heath,o/s 38
+"High Wycombe, High Wycombe BusStn (Bay 8)",,51.631298,-0.756544,040000002958,High Wycombe,Bay 8
+"Widmer End, Western Dene (Opp 54)",NW,51.661072,-0.712514,040000003739,Widmer End,Opp 54
+"Widmer End, Primrose Hill (o/s 63)",NW,51.664851,-0.71514,040000003737,Widmer End,o/s 63
+"Widmer End, Honeysuckle Road (opp)",SW,51.664128,-0.717286,040000003093,Widmer End,opp
+"Widmer End, George's Hill (o/s 8)",W,51.663316,-0.720403,040000003091,Widmer End,o/s 8
+"Heath End, Copes Road (adj)",NW,51.673336,-0.719021,040000002013,Heath End,adj
+"Heath End, Spurlands End Road (Northbound)",NW,51.676896,-0.721394,040000002015,Heath End,Northbound
+"Heath End, Heath End Road (Southbound)",SW,51.678001,-0.722968,040000002017,Heath End,Southbound
+"Great Kingshill, Stag Lane (Opp 47)",W,51.67523,-0.727009,040000002019,Great Kingshill,Opp 47
+"Great Kingshill, The Common (adj)",W,51.675027,-0.733147,040000002021,Great Kingshill,adj
+"Great Kingshill, Cherry Tree Close (Opp)",N,51.677929,-0.734556,040000002027,Great Kingshill,Opp
+"Prestwood, Peterley Corner (Northbound)",N,51.68468,-0.734411,040000002029,Prestwood,Northbound
+"Prestwood, Holy Trinity Church (adj)",NW,51.689393,-0.736232,040000002031,Prestwood,adj
+"Prestwood, Hildreth Road (Opp)",NW,51.69291,-0.73965,040000002033,Prestwood,Opp
+"Prestwood, Sixty Acres Road (Opp)",NW,51.696586,-0.742905,040000002035,Prestwood,Opp
+"Prestwood, Village Hall (Opp)",N,51.698977,-0.742781,040000002037,Prestwood,Opp
+"Prestwood, Blacksmith Lane (opp)",E,51.699804,-0.737722,040000002039,Prestwood,opp
+"Prestwood, The Traveller's Rest PH (adj)",E,51.699713,-0.733427,040000002041,Prestwood,adj
+"Prestwood, The Green Man PH (adj)",NE,51.700285,-0.728998,040000002043,Prestwood,adj
+"Prestwood, Broomfield Hill (adj)",E,51.701723,-0.72479,040000002045,Prestwood,adj
+"Great Missenden, Martinsend Lane (Eastbound)",E,51.702416,-0.719054,040000002047,Great Missenden,Eastbound
+"Great Missenden, Railway Station (adj)",SW,51.703729,-0.709205,040000002048,Great Missenden,adj
+"Great Missenden, Martinsend Lane (Westbound)",W,51.70251,-0.717807,040000002046,Great Missenden,Westbound
+"Prestwood, Broomfield Hill (Opp)",W,51.701632,-0.724648,040000002044,Prestwood,Opp
+"Prestwood, The Green Man PH (opp)",SW,51.700177,-0.728986,040000002042,Prestwood,opp
+"Prestwood, The Traveller's Rest PH (opp)",W,51.699645,-0.733805,040000002040,Prestwood,opp
+"Prestwood, Blacksmith Lane (adj)",W,51.699711,-0.737436,040000002038,Prestwood,adj
+"Prestwood, Village Hall (Outside)",S,51.699108,-0.742488,040000002036,Prestwood,Outside
+"Prestwood, Sixty Acres Road (adj)",SE,51.695916,-0.742403,040000002034,Prestwood,adj
+"Prestwood, Hildreth Road (adj)",SE,51.693345,-0.739957,040000002032,Prestwood,adj
+"Prestwood, Holy Trinity Church (Opp)",SE,51.689655,-0.736283,040000002030,Prestwood,Opp
+"Prestwood, Peterley Corner (Southbound)",S,51.683911,-0.733955,040000002028,Prestwood,Southbound
+"Great Kingshill, Cherry Tree Close (adj)",S,51.677378,-0.734383,040000002026,Great Kingshill,adj
+"Great Kingshill, The Common (Opp)",E,51.675065,-0.733319,040000002020,Great Kingshill,Opp
+"Great Kingshill, Stag Lane (o/s 43)",E,51.675272,-0.727529,040000002011,Great Kingshill,o/s 43
+"Heath End, Fernside (adj)",NE,51.675608,-0.72616,040000002018,Heath End,adj
+"Heath End, Heath End Road (Northbound)",NE,51.678269,-0.722787,040000002016,Heath End,Northbound
+"Heath End, Spurlands End Road (Southbound)",SE,51.675617,-0.720345,040000002014,Heath End,Southbound
+"Heath End, Copes Road (Opp)",SE,51.673497,-0.71893,040000002012,Heath End,Opp
+"Widmer End, George's Hill (o/s 13)",E,51.663387,-0.720242,040000003082,Widmer End,o/s 13
+"Widmer End, Honeysuckle Road (adj)",NE,51.664493,-0.716972,040000003083,Widmer End,adj
+"Widmer End, Primrose Hill (opp 53)",SE,51.664676,-0.714769,040000003720,Widmer End,opp 53
+"Booker, Clayhill (adj)",S,51.609196,-0.798927,040000003545,Booker,adj
+"Lane End, Marlow Road (NW-bound)",NW,51.617159,-0.830638,040000003543,Lane End,NW-bound
+"Lane End, The Row (Southbound)",S,51.619588,-0.834346,040000003557,Lane End,Southbound
+"Lane End, Simmons Way (Eastbound)",E,51.618749,-0.828604,040000003563,Lane End,Eastbound
+"Lane End, Slayter Road (Opp)",W,51.620338,-0.827494,040000003561,Lane End,Opp
+"Lane End, Tapping Road (adj)",NW,51.621005,-0.829456,040000002913,Lane End,adj
+"Lane End, Archers Way (Northbound)",W,51.621082,-0.83178,040000003559,Lane End,Northbound
+"Lane End, Widdenton View (Opp)",E,51.623319,-0.830653,040000003554,Lane End,Opp
+"Lane End, Briars Hey (opp)",E,51.623158,-0.823507,040000003552,Lane End,opp
+"Lane End, Sandage Wood (adj)",E,51.622034,-0.816371,040000003550,Lane End,adj
+"Lane End, Grove Farm (adj)",E,51.621154,-0.806744,040000003548,Lane End,adj
+"Sands, Rydal Way (opp)",N,51.623226,-0.793934,040000003358,Sands,opp
+"Sands, Hillbottom Road (adj)",N,51.63051,-0.791328,040000003356,Sands,adj
+"Sands, Pinewood Road (adj)",E,51.631282,-0.787681,040000003354,Sands,adj
+"Sands, The Hour Glass PH (o/s)",N,51.632813,-0.784505,040000003352,Sands,o/s
+"Sands, Lane End Road (o/s 11)",SW,51.631693,-0.785763,040000003363,Sands,o/s 11
+"Sands, Pinewood Road (Opp)",W,51.63114,-0.787916,040000003365,Sands,Opp
+"Sands, Hillbottom Road (Opp)",W,51.630905,-0.790422,040000003367,Sands,Opp
+"Sands, Rydal Way (adj)",S,51.623279,-0.793774,040000003077,Sands,adj
+"Lane End, Grove Farm (opp)",W,51.621129,-0.806947,040000003547,Lane End,opp
+"Lane End, Sandage Wood (Opp)",W,51.621922,-0.816865,040000003549,Lane End,Opp
+"Lane End, Briars Hey (adj)",W,51.623316,-0.824066,040000003551,Lane End,adj
+"Lane End, Widdenton View (adj)",W,51.623177,-0.830816,040000003553,Lane End,adj
+"Lane End, Wrights Close (adj)",W,51.622728,-0.834525,040000003555,Lane End,adj
+"Lane End, Blackwell Road (Opp)",S,51.621878,-0.832222,040000003558,Lane End,Opp
+"Lane End, Tapping Road (opp)",S,51.621204,-0.829538,040000002914,Lane End,opp
+"Lane End, Slayter Road (adj)",E,51.620424,-0.827131,040000003562,Lane End,adj
+"Lane End, Simmons Way (Westbound)",W,51.618618,-0.829041,040000002980,Lane End,Westbound
+"Lane End, Marlow Road (SE-bound)",SE,51.617157,-0.830393,040000003544,Lane End,SE-bound
+"Booker, Clayhill (opp)",N,51.60884,-0.799269,040000003546,Booker,opp
+"Cressex, Marlow Road (o/s 73)",S,51.614968,-0.768473,040000003409,Cressex,o/s 73
+"Marlow Bottom, The Blacksmiths' Arms PH (opp)",S,51.608258,-0.770835,040000003755,Marlow Bottom,opp
+"Marlow Bottom, Burroughs Grove Hill (Opp)",S,51.600179,-0.769566,040000003757,Marlow Bottom,Opp
+"Marlow Bottom, The Three Horseshoes PH (adj)",S,51.593744,-0.766405,040000003759,Marlow Bottom,adj
+"Marlow Bottom, Wycombe Road (Southbound)",SE,51.585189,-0.766074,040000003761,Marlow Bottom,Southbound
+"Marlow, Churchill Drive (Opp)",SE,51.583729,-0.761509,040000003763,Marlow,Opp
+"Marlow, Wiltshire Road (o/s 60)",SW,51.581154,-0.761175,040000003765,Marlow,o/s 60
+"Marlow, Little Marlow Road (westbound)",W,51.580452,-0.760313,040000002438,Marlow,westbound
+"Marlow, Bobmore Lane (opp)",SW,51.578808,-0.765525,040000003767,Marlow,opp
+"Marlow, Foxes Piece (adj)",SW,51.575523,-0.771299,040000003769,Marlow,adj
+"Marlow, Spittal Street (o/s 16)",SW,51.573274,-0.775487,040000003771,Marlow,o/s 16
+"Marlow, West Street (Westbound)",SW,51.570527,-0.779385,040000003789,Marlow,Westbound
+"Marlow, Spinfield Lane (Opp)",SW,51.568418,-0.785847,040000003791,Marlow,Opp
+"Marlow, Pound Lane (adj)",SW,51.565842,-0.789754,040000003793,Marlow,adj
+"Marlow, Hook's Corner (Opp)",SW,51.564088,-0.801097,040000003795,Marlow,Opp
+"Danesfield, Harleyford Manor (adj)",SW,51.560954,-0.810311,040000003797,Danesfield,adj
+"Danesfield, Combined School (Opp)",SW,51.558318,-0.815515,040000003799,Danesfield,Opp
+"Danesfield, Thames Reach (Opp)",W,51.557079,-0.821967,040000003801,Danesfield,Opp
+"Danesfield, Danesfield House (adj)",SW,51.554099,-0.827034,040000003803,Danesfield,adj
+"Medmenham, Millbank Wood (opp)",W,51.552516,-0.829628,040000003805,Medmenham,opp
+"Medmenham, The Dog & Badger PH (Opp)",NW,51.553324,-0.839516,040000003807,Medmenham,Opp
+"Medmenham, Westfield Bungalows (adj)",W,51.555385,-0.849763,040000003886,Medmenham,adj
+"Hambleden, Mill End (adj)",NW,51.55874,-0.868374,040000003809,Hambleden,adj
+"Hambleden, Greenlands (adj)",W,51.563726,-0.883846,040000003811,Hambleden,adj
+"Fawley, Benhams Lane (Opp)",SW,51.561962,-0.894088,040000003813,Fawley,Opp
+"Fawley, Fawley Court Farm (Opp)",SW,51.560819,-0.897867,040000003815,Fawley,Opp
+"Fawley, Icehouse Lane (Opp)",S,51.555991,-0.901777,040000003817,Fawley,Opp
+"Henley-on-Thames, Swiss Farm (opp)",S,51.54542,-0.90355,340001663SOU,Henley-on-Thames,opp
+"Henley-on-Thames, Bell Street North (S-bound)",S,51.53983,-0.90432,340001512BLN,Henley-on-Thames,S-bound
+"Henley-on-Thames, Hart Street (Stop A)",W,51.53757,-0.90356,340000393TH,Henley-on-Thames,Stop A
+"Henley-on-Thames, Rail Station (nr)",SW,51.53473,-0.90105,340000270STN,Henley-on-Thames,nr
+"Henley-on-Thames, St Marks Road (opp)",SE,51.53239,-0.90155,340001521OPP,Henley-on-Thames,opp
+"Henley-on-Thames, Niagara Road (opp)",SE,51.52939,-0.89775,340001522OPP,Henley-on-Thames,opp
+"Henley-on-Thames, Newtown Road (adj)",SE,51.52788,-0.89601,340000736CNR,Henley-on-Thames,adj
+"Henley-on-Thames, Tesco Superstore (o/s)",S,51.52666,-0.8952,340003222TES,Henley-on-Thames,o/s
+"Henley-on-Thames, Allotments (opp)",S,51.52519,-0.89439,340000364TS,Henley-on-Thames,opp
+"Lower Shiplake, Bolney Lane (adj)",S,51.51454,-0.89234,340001670CNR,Lower Shiplake,adj
+"Lower Shiplake, Station Road (adj)",SW,51.51025,-0.8906,340001680SRD,Lower Shiplake,adj
+"Shiplake Cross, Mill Lane (adj)",S,51.50341,-0.89441,340001667OPP,Shiplake Cross,adj
+"Shiplake, Shiplake College (adj)",SW,51.49967,-0.89828,340001669SCA,Shiplake,adj
+"Shiplake, The Plowden Arms (o/s)",W,51.49912,-0.89963,340000651PH,Shiplake,o/s
+"Shiplake, Memorial Avenue (opp)",W,51.50057,-0.90589,340001668OPP,Shiplake,opp
+"Shiplake Row, The White Hart (o/s)",W,51.5008,-0.9112,340000094WHT,Shiplake Row,o/s
+"Binfield Heath, Heathfield Close (opp)",NW,51.50068,-0.92447,340001666OUT,Binfield Heath,opp
+"Binfield Heath, Gravel Road (opp)",S,51.49572,-0.93086,340000094OPP,Binfield Heath,opp
+"Dunsden Green, Bints Farm (SW-bound)",SW,51.49208,-0.93417,340001665OUT,Dunsden Green,SW-bound
+"Dunsden Green, The Green (opp)",SW,51.48831,-0.93696,340000269OPP,Dunsden Green,opp
+"Play Hatch, Play Hatch Roundabout W (E-bound)",E,51.47877,-0.93325,340001664OPP,Play Hatch,E-bound
+"Henley Road, Henley Road County Boundary (adj)",SW,51.47466,-0.94261,039026300003,Henley Road,adj
+"Henley Road, Micklands Road (opp 258)",SW,51.47319,-0.94679,039026670002,Henley Road,opp 258
+"Caversham, All Hallows Road (opp 206)",SW,51.47149,-0.95103,039025030002,Caversham,opp 206
+"Lower Caversham, Star Inn (adj)",S,51.46796,-0.95952,039027360001,Lower Caversham,adj
+"Lower Caversham, Montague Street (adj 11a)",S,51.46622,-0.95932,039026720002,Lower Caversham,adj 11a
+"Lower Caversham, St Johns Road (adj 341)",W,51.4655,-0.96277,039027300001,Lower Caversham,adj 341
+"Caversham, Elizabeth House (W-bound)",W,51.46613,-0.96738,039026000001,Caversham,W-bound
+"Caversham, Westfield Road (opp 64)",W,51.46679,-0.97065,039027770001,Caversham,opp 64
+"Caversham, Church Street (W-bound)",W,51.46748,-0.97353,039025600002,Caversham,W-bound
+"Caversham, Bridge Street Caversham (s-bound)",S,51.46687,-0.97672,039025290001,Caversham,s-bound
+"Reading, The Moderation (Opposite)",SE,51.46414,-0.9769,039027500001,Reading,Opposite
+"Reading, Swansea Road (Opposite)",SE,51.46265,-0.9753,039027410001,Reading,Opposite
+"Reading, Station North Interchange (stop ND)",S,51.46009,-0.9714,039028320004,Reading,stop ND
+"Reading Town Centre, Forbury Road (stop EN)",W,51.4579,-0.9701,039028160002,Reading Town Centre,stop EN
+"Reading Town Centre, Friar Street (stop FC)",W,51.45665,-0.97099,039028170001,Reading Town Centre,stop FC
+"Henley-on-Thames, Bell Street (Stop D)",N,51.53776,-0.90483,340000393BEL,Henley-on-Thames,Stop D
+"Henley-on-Thames, Bell Street North (N-bound)",N,51.54055,-0.90464,340001512OPP,Henley-on-Thames,N-bound
+"Henley-on-Thames, Swiss Farm (o/s)",N,51.54561,-0.9036,340001663NOR,Henley-on-Thames,o/s
+"Fawley, Icehouse Lane (adj)",N,51.556422,-0.901738,040000003796,Fawley,adj
+"Fawley, Fawley Court Farm (adj)",NE,51.561025,-0.897775,040000003956,Fawley,adj
+"Fawley, Benhams Lane (adj)",E,51.562051,-0.894043,040000003794,Fawley,adj
+"Hambleden, Greenlands (opp)",E,51.563696,-0.88451,040000003792,Hambleden,opp
+"Hambleden, Mill End (opp)",SE,51.558708,-0.867855,040000003790,Hambleden,opp
+"Medmenham, Westfield Bungalows (Opp)",E,51.555539,-0.849602,040000003888,Medmenham,Opp
+"Medmenham, The Dog & Badger PH (adj)",SE,51.553504,-0.839569,040000003788,Medmenham,adj
+"Medmenham, Millbank Wood (adj)",NE,51.552614,-0.829582,040000003786,Medmenham,adj
+"Danesfield, Danesfield House (Opp)",NE,51.554475,-0.826808,040000003784,Danesfield,Opp
+"Danesfield, Thames Reach (adj)",NE,51.557279,-0.820375,040000003782,Danesfield,adj
+"Danesfield, Combined School (adj)",NE,51.558223,-0.815907,040000003780,Danesfield,adj
+"Danesfield, Harleyford Manor (Opp)",NE,51.560946,-0.810484,040000003778,Danesfield,Opp
+"Marlow, Hook's Corner (adj)",NE,51.564117,-0.801284,040000003776,Marlow,adj
+"Marlow, Pound Lane (Opp)",NE,51.565552,-0.79044,040000003774,Marlow,Opp
+"Marlow, Spinfield Lane (adj)",NE,51.569223,-0.784571,040000003772,Marlow,adj
+"Marlow, West Street (adj)",NW,51.570965,-0.779099,040000003770,Marlow,adj
+"Marlow, Queens Road (opp 52)",NE,51.574948,-0.780753,040000003768,Marlow,opp 52
+"Marlow, Dean Street (o/s 48)",SE,51.575035,-0.778773,040000003766,Marlow,o/s 48
+"Marlow, Dean Street Car Park (adj)",SE,51.573848,-0.777016,040000003764,Marlow,adj
+"Marlow, Spittal Street (o/s 57)",NE,51.573875,-0.774504,040000003752,Marlow,o/s 57
+"Marlow, Foxes Piece (Opp)",NE,51.575721,-0.771309,040000003750,Marlow,Opp
+"Marlow, Bobmore Lane (adj)",NE,51.578553,-0.76696,040000003748,Marlow,adj
+"Marlow, Wiltshire Road (opp 62)",NE,51.581442,-0.761253,040000003744,Marlow,opp 62
+"Marlow, Churchill Drive (adj)",NW,51.583779,-0.762013,040000003742,Marlow,adj
+"Marlow Bottom, Wycombe Road (Northbound)",NW,51.585467,-0.766903,040000003740,Marlow Bottom,Northbound
+"Marlow Bottom, The Three Horseshoes PH (Opp)",N,51.594563,-0.766541,040000003738,Marlow Bottom,Opp
+"Marlow Bottom, The Blacksmiths' Arms PH (adj)",N,51.60881,-0.771109,040000003734,Marlow Bottom,adj
+"Cressex, Marlow Road (opp 61)",N,51.616034,-0.768097,040000003394,Cressex,opp 61
+"Reading Town Centre, Forbury Road (stop EL)",E,51.45798,-0.96985,039028160001,Reading Town Centre,stop EL
+"Reading, Swansea Road (Adjacent)",NW,51.46265,-0.9755,039027410002,Reading,Adjacent
+"Reading, The Moderation (Adjacent)",NW,51.46457,-0.97755,039027500002,Reading,Adjacent
+"Caversham, Bridge Street Caversham (n-bound)",N,51.46649,-0.97696,039025290002,Caversham,n-bound
+"Caversham, Church Street (E-bound)",E,51.46776,-0.97549,039025600001,Caversham,E-bound
+"Caversham, Westfield Road (adj)",E,51.46647,-0.96906,039027770002,Caversham,adj
+"Lower Caversham, Washington Road (adj)",E,51.46586,-0.96484,039027680001,Lower Caversham,adj
+"Lower Caversham, St Johns Road (adj)",E,51.46543,-0.96185,039027300002,Lower Caversham,adj
+"Lower Caversham, Montague Street (opp 87)",N,51.46589,-0.95938,039026720001,Lower Caversham,opp 87
+"Lower Caversham, Star Inn (opp)",N,51.46896,-0.95935,039027360002,Lower Caversham,opp
+"Henley Road, Chiltern Road (Adj 130)",E,51.47068,-0.95788,039025540001,Henley Road,Adj 130
+"Henley Road, Travellers Rest (adj)",E,51.47064,-0.95423,039027590001,Henley Road,adj
+"Caversham, All Hallows Road (adj 202)",NE,51.47146,-0.95158,039025030001,Caversham,adj 202
+"Henley Road, Micklands Road (adj 262)",NE,51.47334,-0.94676,039026670001,Henley Road,adj 262
+"Henley Road, Henley Road County Boundary (nr)",NE,51.47486,-0.94246,039026300002,Henley Road,nr
+"Play Hatch, Play Hatch Roundabout W (W-bound)",W,51.47865,-0.93333,340001664OUT,Play Hatch,W-bound
+"Dunsden Green, The Green (nr)",NE,51.48836,-0.93705,340000269WEL,Dunsden Green,nr
+"Dunsden Green, Bints Farm (NE-bound)",NE,51.49219,-0.93421,340001665OPP,Dunsden Green,NE-bound
+"Binfield Heath, Gravel Road (adj)",N,51.4956,-0.93097,340000094INN,Binfield Heath,adj
+"Binfield Heath, Heathfield Close (adj)",SE,51.50073,-0.92423,340001666OPP,Binfield Heath,adj
+"Shiplake Row, The White Hart (opp)",E,51.50099,-0.91092,340000094WHO,Shiplake Row,opp
+"Shiplake, Memorial Avenue (adj)",E,51.50067,-0.90592,340001668CNR,Shiplake,adj
+"Shiplake, The Plowden Arms (opp)",E,51.49921,-0.89977,340000658PA,Shiplake,opp
+"Shiplake, Shiplake College (opp)",NE,51.49967,-0.89851,340001669SCO,Shiplake,opp
+"Shiplake Cross, Mill Lane (opp)",N,51.50346,-0.89461,340001667OUT,Shiplake Cross,opp
+"Lower Shiplake, Station Road (opp)",NE,51.51,-0.89151,340001680OSR,Lower Shiplake,opp
+"Lower Shiplake, Bolney Lane (opp)",N,51.51449,-0.89244,340001670OPP,Lower Shiplake,opp
+"Henley-on-Thames, Allotments (o/s)",N,51.5254,-0.89467,340000364TN,Henley-on-Thames,o/s
+"Henley-on-Thames, Tesco Superstore (opp)",N,51.52728,-0.89577,340003222TEN,Henley-on-Thames,opp
+"Henley-on-Thames, Newtown Road (opp)",NW,51.52856,-0.89684,340000736OPP,Henley-on-Thames,opp
+"Henley-on-Thames, Niagara Road (adj)",NW,51.52992,-0.89884,340001522WAV,Henley-on-Thames,adj
+"Henley-on-Thames, St Marks Road (adj)",NW,51.53207,-0.90143,340001521CNR,Henley-on-Thames,adj
+"Henley-on-Thames, Christ Church (adj)",NW,51.53485,-0.90304,340003223CNR,Henley-on-Thames,adj
+"Marlow, Little Marlow Road (o/s 48)",NE,51.580534,-0.76034,040000003746,Marlow,o/s 48
+"Remenham, Two Brewers (S-bound)",S,51.53593,-0.89628,035090820002,Remenham,S-bound
+"Wargrave, Temple Combe (Adjacent)",S,51.52356,-0.87704,035090780002,Wargrave,Adjacent
+"Wargrave, Kenton's Lane (adj)",S,51.52082,-0.87361,035090760002,Wargrave,adj
+"Wargrave, White Cliff (Adj)",S,51.51525,-0.86937,035090740002,Wargrave,Adj
+"Wargrave, Summer Lodge (Opp)",S,51.51127,-0.86834,035090720002,Wargrave,Opp
+"Wargrave, Willow Lane (opp)",S,51.50848,-0.86824,035090700002,Wargrave,opp
+"Wargrave, Wargrave Hill (adj)",S,51.5026,-0.86923,035090680002,Wargrave,adj
+"Wargrave, Station Road (Opp)",S,51.49918,-0.87038,035090640002,Wargrave,Opp
+"Twyford, Piggott School (Adj 144)",S,51.48927,-0.87048,035090620002,Twyford,Adj 144
+"Twyford, Carliles Corner - New Bath Rd Roundabout (S-bound)",S,51.48753,-0.87051,035090600002,Twyford,S-bound
+"Twyford, Carlile Gardens (Adj 57)",E,51.48566,-0.86867,035091460002,Twyford,Adj 57
+"Northfields, Arnside Close (Adj)",E,51.48634,-0.86359,035091440002,Northfields,Adj
+"Twyford, Longfield Road (Adj 41)",S,51.48523,-0.8624,035091420002,Twyford,Adj 41
+"Twyford, Pennfields (Opp 1)",SE,51.48344,-0.85999,035091400002,Twyford,Opp 1
+"Twyford, Loddon Hall Road (opp)",SW,51.48152,-0.8615,035091300002,Twyford,opp
+"Twyford, Springfield Park (Adj 52)",SW,51.47889,-0.86377,035091200002,Twyford,Adj 52
+"Twyford, Waitrose (Opp)",W,51.47789,-0.86545,035091100003,Twyford,Opp
+"Twyford, Cross Roads (Adj)",W,51.47735,-0.86715,035091100002,Twyford,Adj
+"Twyford, Old Silk Mill (adj)",W,51.47777,-0.8706,035059870001,Twyford,adj
+"Twyford, Waggon and Horses (Adj)",W,51.47813,-0.8727,035091060002,Twyford,Adj
+"Charvil, Chiltern Drive (Opp 101)",SW,51.47731,-0.883,035091040002,Charvil,Opp 101
+"Charvil, Park View Drive South (Opp)",SW,51.4763,-0.88503,035091020002,Charvil,Opp
+"Charvil, Wee Waif (opp)",SW,51.47452,-0.88977,035090260004,Charvil,opp
+"Charvil, Milestone Avenue (opp)",SW,51.4738,-0.89216,035090260002,Charvil,opp
+"Sonning, Model Farm (Adj)",SW,51.47151,-0.89521,035090240002,Sonning,Adj
+"Sonning, Hawthorn Way (Adjacent)",SW,51.46836,-0.90331,035090220002,Sonning,Adjacent
+"Sonning, Holmemoor Drive (Adj)",W,51.46526,-0.90992,035090200002,Sonning,Adj
+"Sonning, Sonning Lane (opp)",W,51.4627,-0.91553,035090180002,Sonning,opp
+"North Earley, Shepherds Hill Top (W-bound)",W,51.45895,-0.92039,035090160002,North Earley,W-bound
+"North Earley, Earley Power Station (W-bound)",SW,51.45784,-0.92607,035090140002,North Earley,W-bound
+"North Earley, Shepherds House Lane (Opp)",SW,51.45678,-0.93093,035090120002,North Earley,Opp
+"North Earley, London Road - The Drive (Adj 240)",SW,51.45567,-0.93454,035090100004,North Earley,Adj 240
+"North Earley, London Road - The Drive (W-bound)",W,51.45542,-0.93629,035090100003,North Earley,W-bound
+"New Town, Liverpool Road (opp)",SW,51.45467,-0.94198,039026570002,New Town,opp
+"New Town, Cholmeley Road (opp)",SW,51.45396,-0.94516,039025550002,New Town,opp
+"Reading, Cemetery Junction (W-bound)",W,51.45306,-0.95122,039025480001,Reading,W-bound
+"Reading, Reading College (opp)",W,51.45354,-0.95586,039027450001,Reading,opp
+"Reading, Eldon Road (W-bound)",W,51.45387,-0.96001,039025980001,Reading,W-bound
+"Reading Town Centre, Huntley and Palmers (N-bound)",N,51.45532,-0.96295,039026050006,Reading Town Centre,N-bound
+"Reading Town Centre, Blagrave Street (Stop EO)",S,51.45763,-0.97038,039028150002,Reading Town Centre,Stop EO
+"Reading Town Centre, Kings Road (Stop MF)",E,51.45499,-0.96831,039025920003,Reading Town Centre,Stop MF
+"Reading Town Centre, Huntley and Palmers (Stop 5)",E,51.45506,-0.96144,039026410005,Reading Town Centre,Stop 5
+"Reading, Eldon Road (opp)",E,51.45385,-0.95725,039025980002,Reading,opp
+"Reading, Reading College (adj)",E,51.45345,-0.95346,039027450002,Reading,adj
+"Reading, Cemetery Junction (Stop E1)",E,51.45314,-0.95034,039025480002,Reading,Stop E1
+"Reading, Cemetery Junction (Stop E2)",E,51.4531,-0.94987,039025480003,Reading,Stop E2
+"New Town, Cholmeley Road (adj)",NE,51.4537,-0.94656,039025550001,New Town,adj
+"New Town, Liverpool Road (adj)",NE,51.45499,-0.9407,039026570001,New Town,adj
+"North Earley, London Road - The Drive (NE-bound)",NE,51.45613,-0.93463,035090100001,North Earley,NE-bound
+"North Earley, Shepherds House Lane (Adj)",E,51.45698,-0.93146,035090120001,North Earley,Adj
+"North Earley, Earley Power Station (E-bound)",E,51.45806,-0.92601,035090140001,North Earley,E-bound
+"North Earley, Shepherds Hill Top (Adj 25)",E,51.45937,-0.92164,035090160001,North Earley,Adj 25
+"Sonning, Sonning Lane (adj)",E,51.46371,-0.91362,035090180001,Sonning,adj
+"Sonning, Holmemoor Drive (Opp)",E,51.46558,-0.90953,035090200001,Sonning,Opp
+"Sonning, Hawthorn Way (opp)",NE,51.46869,-0.903,035090220001,Sonning,opp
+"Sonning, Model Farm (Opp)",NE,51.47166,-0.89548,035090240001,Sonning,Opp
+"Charvil, Wee Waif (adj)",E,51.47475,-0.88919,035090260003,Charvil,adj
+"Charvil, Park View Drive South (Adj)",NE,51.47611,-0.8855,035091020001,Charvil,Adj
+"Charvil, Chiltern Drive (Adj 103)",NE,51.4777,-0.88256,035091040001,Charvil,Adj 103
+"Twyford, Waggon and Horses (Opp)",E,51.47822,-0.8723,035091060001,Twyford,Opp
+"Twyford, Old Silk Mill (opp)",E,51.47782,-0.87038,035059870002,Twyford,opp
+"Twyford, Waitrose (Adj)",E,51.47804,-0.86548,035091100001,Twyford,Adj
+"Twyford, Springfield Park (Opp)",NE,51.47908,-0.86369,035091200001,Twyford,Opp
+"Twyford, Loddon Hall Road (adj)",NE,51.48184,-0.86144,035091300001,Twyford,adj
+"Twyford, Pennfields (Adj 1)",NW,51.48347,-0.86019,035091400001,Twyford,Adj 1
+"Twyford, Longfield Road (Adj 28)",N,51.48523,-0.86253,035091420001,Twyford,Adj 28
+"Northfields, Arnside Close (opp)",W,51.48594,-0.86482,035091440001,Northfields,opp
+"Twyford, Carlile Gardens (Adj 42)",W,51.48558,-0.86903,035091460001,Twyford,Adj 42
+"Twyford, Carliles Corner - New Bath Rd Roundabout (N-bound)",N,51.48764,-0.87078,035090600001,Twyford,N-bound
+"Wargrave, The Greyhound (N-bound)",N,51.50113,-0.86989,035090660001,Wargrave,N-bound
+"Wargrave, Willow Lane (adj)",N,51.50742,-0.86868,035090700001,Wargrave,adj
+"Wargrave, White Cliff (Opp)",N,51.51544,-0.86966,035090740001,Wargrave,Opp
+"Wargrave, Kenton's Lane (opp)",N,51.51904,-0.87246,035090760001,Wargrave,opp
+"Wargrave, Temple Combe (Opposite)",N,51.52383,-0.8775,035090780001,Wargrave,Opposite
+"Remenham, Marsh Mills (Adj)",NW,51.53133,-0.8887,035090800001,Remenham,Adj
+"Remenham, Two Brewers (Opp)",N,51.53627,-0.89672,035090820001,Remenham,Opp
+"Piddington, Main Road (Westbound)",W,51.641235,-0.831985,040000003459,Piddington,Westbound
+"Piddington, Main Road (Eastbound)",E,51.641221,-0.831508,040000003450,Piddington,Eastbound
+"Stokenchurch, Beech Close (Opp)",S,51.651682,-0.892195,040000003492,Stokenchurch,Opp
+"Stokenchurch, Penley Farm (Opp)",SE,51.644465,-0.890608,040000003494,Stokenchurch,Opp
+"Cadmore End, Chequers Lane (opp)",SE,51.634432,-0.881389,040000003496,Cadmore End,opp
+"Stokenchurch, Beech Close (adj)",N,51.651051,-0.892052,040000003497,Stokenchurch,adj
+"Cadmore End, Combined School (adj)",SE,51.628064,-0.869005,040000003498,Cadmore End,adj
+"Stokenchurch, Penley Farm (adj)",NW,51.644139,-0.890356,040000003499,Stokenchurch,adj
+"Cadmore End, Chequers Lane (adj)",NW,51.635214,-0.882309,040000003501,Cadmore End,adj
+"Cadmore End, Combined School (Opp)",NW,51.628197,-0.869681,040000003503,Cadmore End,Opp
+"High Wycombe, Kingsley Crescent (adj)",SE,51.62457,-0.760643,040000002946,High Wycombe,adj
+"High Wycombe, Shelley Road (Opp)",N,51.622677,-0.76354,040000003890,High Wycombe,Opp
+"High Wycombe, Deeds Grove (o/s 131)",N,51.624869,-0.769375,040000003891,High Wycombe,o/s 131
+"Marlow, Seymour Court Road (o/s 63)",N,51.578898,-0.781931,040000002921,Marlow,o/s 63
+"Marlow, Seymour Court Road (o/s 76)",S,51.578852,-0.781759,040000002922,Marlow,o/s 76
+"Lane End, Village Hall (Opp)",E,51.619187,-0.836494,040000003564,Lane End,Opp
+"Lane End, Village Hall (adj)",W,51.619115,-0.836481,040000003565,Lane End,adj
+"Cadmore End, Rackley's Farm (adj)",W,51.625563,-0.857697,040000003507,Cadmore End,adj
+"Bolter End, Finings Road (Southbound)",SE,51.621799,-0.847045,040000003506,Bolter End,Southbound
+"Bolter End, Fingest Lane (opp)",SE,51.623466,-0.850137,040000003504,Bolter End,opp
+"Cadmore End, The Old Ship PH (Opp)",NW,51.626164,-0.863981,040000003505,Cadmore End,Opp
+"Cadmore End, Rackley's Farm (Opp)",E,51.625579,-0.85748,040000003502,Cadmore End,Opp
+"Cadmore End, The Old Ship PH (adj)",SE,51.626938,-0.865898,040000003500,Cadmore End,adj
+"Booker, Limmer Lane (Opp)",SW,51.613646,-0.792686,040000003397,Booker,Opp
+"Booker, YMCA (opp)",N,51.613085,-0.779298,040000003389,Booker,opp
+"Booker, Alford Road (adj)",E,51.612927,-0.785772,040000003391,Booker,adj
+"Booker, Holmers Court (Opp)",SE,51.613796,-0.791555,040000003395,Booker,Opp
+"Booker, Limmer Lane (adj)",NE,51.613736,-0.792684,040000003376,Booker,adj
+"Bolter End, Finings Road (Northbound)",NW,51.6216,-0.846862,040000003511,Bolter End,Northbound
+"Bolter End, Fingest Lane (adj)",NW,51.623331,-0.850097,040000003509,Bolter End,adj
+"Stokenchurch, Mill Lane (adj)",N,51.659061,-0.914048,040000003470,Stokenchurch,adj
+"Stokenchurch, Mill Lane (Opp)",S,51.658836,-0.913981,040000003889,Stokenchurch,Opp
+"Stokenchurch, Mill Road (adj)",S,51.656138,-0.915853,040000003477,Stokenchurch,adj
+"Stokenchurch, Mill Road (Opp)",N,51.656769,-0.916055,040000003472,Stokenchurch,Opp
+"Stokenchurch, Studdridge Farm (Opp)",N,51.653326,-0.916108,040000003474,Stokenchurch,Opp
+"Stokenchurch, Studdridge Farm (adj)",S,51.653486,-0.915902,040000003479,Stokenchurch,adj
+"Ibstone, Commonhill Wood (Opp)",S,51.641448,-0.918039,040000003481,Ibstone,Opp
+"Ibstone, The Fox PH (o/s)",S,51.639239,-0.916473,040000003483,Ibstone,o/s
+"Ibstone, Grays Lane (Opp)",SE,51.636398,-0.912596,040000003485,Ibstone,Opp
+"Ibstone, Chiltern Cottages (adj)",S,51.633598,-0.910293,040000003487,Ibstone,adj
+"Ibstone, Parsonage Wood (Opp)",S,51.632289,-0.909746,040000003489,Ibstone,Opp
+"Ibstone, Infant School (Opp)",N,51.627533,-0.906942,040000003484,Ibstone,Opp
+"Ibstone, Commonhill Wood (adj)",N,51.64153,-0.918181,040000003476,Ibstone,adj
+"Ibstone, The Fox PH (opp)",N,51.63895,-0.916306,040000002901,Ibstone,opp
+"Ibstone, Grays Lane (adj)",NW,51.636547,-0.913184,040000003478,Ibstone,adj
+"Ibstone, Chiltern Cottages (opp)",N,51.6335,-0.910339,040000003480,Ibstone,opp
+"Ibstone, Parsonage Wood (adj)",N,51.632417,-0.909917,040000003482,Ibstone,adj
+"Marlow, Court Garden Leisure Centre (adj)",S,51.568394,-0.776599,040000003945,Marlow,adj
+"Marlow, High Street (o/s 46)",NW,51.570842,-0.775942,040000003029,Marlow,o/s 46
+"Marlow, Sandygate Road (westbound)",W,51.577657,-0.780189,040000002975,Marlow,westbound
+"Marlow, Sunnybank (o/s 12)",SW,51.581521,-0.77987,040000003708,Marlow,o/s 12
+"Marlow, Seymour Park Road (Eastbound)",NE,51.579351,-0.777936,040000002916,Marlow,Eastbound
+"Marlow, Hillside Road (eastbound)",E,51.581751,-0.770958,040000003314,Marlow,eastbound
+"Marlow Bottom, Hill Farm Road (Opp)",W,51.58621,-0.770001,040000002437,Marlow Bottom,Opp
+"Marlow Bottom, Patches Field (opp)",W,51.58629,-0.771615,040000002435,Marlow Bottom,opp
+"Marlow Bottom, Post Office (opp)",W,51.586639,-0.775792,040000003758,Marlow Bottom,opp
+"Marlow Bottom, High Heavens Wood (Opp)",SE,51.59897,-0.783012,040000003787,Marlow Bottom,Opp
+"Marlow Bottom, Badgers Way (adj)",SW,51.595378,-0.782545,040000003785,Marlow Bottom,adj
+"Marlow Bottom, Squirrel Rise (adj)",SE,51.590616,-0.782917,040000003783,Marlow Bottom,adj
+"Marlow Bottom, Burford School (Opp)",S,51.588061,-0.781022,040000003781,Marlow Bottom,Opp
+"Marlow Bottom, Post Office (o/s)",E,51.586809,-0.775715,040000003779,Marlow Bottom,o/s
+"Marlow Bottom, Patches Field (o/s)",E,51.586373,-0.771757,040000002436,Marlow Bottom,o/s
+"Marlow Bottom, Hill Farm Road (adj)",E,51.586235,-0.769769,040000003777,Marlow Bottom,adj
+"Marlow Bottom, Burroughs Grove Hill (adj)",N,51.60074,-0.769868,040000003736,Marlow Bottom,adj
+"Marlow, High Street (o/s 23)",SE,51.571103,-0.775978,040000003922,Marlow,o/s 23
+"Marlow, Maple Rise (adj)",SW,51.577369,-0.771509,040000003773,Marlow,adj
+"Marlow, Seymour Park Road (Westbound)",SW,51.579261,-0.777866,040000002917,Marlow,Westbound
+"Marlow, Hillside Road (westbound)",W,51.581643,-0.770918,040000003181,Marlow,westbound
+"Marlow, Gypsy Lane (opp)",SW,51.581257,-0.767508,040000003775,Marlow,opp

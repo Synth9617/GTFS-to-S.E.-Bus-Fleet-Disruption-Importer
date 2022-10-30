@@ -1,0 +1,8 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+CSLB,"Carousel Buses",https://www.CSLB.co.uk,Europe/London,en,,
+OXBC,"Oxford Bus Company",https://www.OXBC.co.uk,Europe/London,en,,
+FTVA,"FIRST BEELINE BUSES LTD",https://www.FTVA.co.uk,Europe/London,en,,
+RRTR,"Red Rose Travel",https://www.RRTR.co.uk,Europe/London,en,,
+RLNE,"Khan Wali Khan",https://www.RLNE.co.uk,Europe/London,en,,
+ASES,"ARRIVA The Shires Ltd",https://www.ASES.co.uk,Europe/London,en,,
+REDE,"Red Eagle Buses",https://www.REDE.co.uk,Europe/London,en,,
