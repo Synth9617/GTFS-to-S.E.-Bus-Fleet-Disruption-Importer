@@ -48,7 +48,7 @@ The Alternative NOC is the provided NOC, whereas the Canoncial NOC is the one th
 
 ### An Example is saved below!
 ``` json
-OPERATOR_ALIAS = {
+"OPERATOR_ALIAS"{
     "ASES":"ARBB",
     "REDL":"RLNE"
 }
