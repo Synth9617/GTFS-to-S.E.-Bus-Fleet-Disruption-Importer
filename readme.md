@@ -58,7 +58,7 @@ The Alternative NOC is the provided NOC, whereas the Canoncial NOC is the one th
 # Running The Scripts
 This section will be split into the 3 importers used on our admin portal.
 ## Bus Stop Import Tool
-### Python File: `GTFS_TO_IMPORTABLE_STOP_CSV`
+### Python File: `GTFS_TO_IMPORTABLE_STOP_CSV.py`
 ### Output File: `GTFS_to_CSV_Stops_Importable.csv`
 This script uses the GTFS dataset in conjuction with the [DfT's NaPTAN dataset](https://www.data.gov.uk/dataset/ff93ffc1-6656-47d8-9155-85ea0b8f2251/national-public-transport-access-nodes-naptan) to create a CSV file of the stops used, with the name of `GTFS_to_CSV_Stops_Importable.csv` in the Output folder.
 
