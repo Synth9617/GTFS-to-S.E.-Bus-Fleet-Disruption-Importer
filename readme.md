@@ -11,6 +11,19 @@ The datasets found on the Gov.UK Open Data system do not use GTFS, but instead u
 We do know of a tool for converting TransXChange to GTFS, but it only runs on Linux and uses NPM (Node.JS)
 It is NOT developed by us, but we do use it and do approve of it: https://www.npmjs.com/package/transxchange2gtfs
 
+# Usage
+## Dependancies
+Uses Python 3
+| Package ||
+|-|-|
+|pyproj|`pip install pyproj`|
+
+
+## Windows
+Simply download the repository using Git or from your browser, edit the `config.json` file (see below) and run the `Run_All_Scripts.bat` file.
+
+## Linux
+Simply download the repository using Git or from your browser, edit the `config.json` file (see below) and run the `Run_All_Scripts.sh` file.
 
 # Setting the config files
 ## GTFS_FILES_TO_UPDATE
