@@ -18,6 +18,25 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Lye Green, Deer Park Walk (opp)",E,51.720532,-0.592273,040000002803,Lye Green,opp
 "Lye Green, The Green (adj)",SE,51.720705,-0.584189,040000002727,Lye Green,adj
 "Orchard Leigh, Rushmere Lane (Eastbound)",E,51.719663,-0.569412,040000002596,Orchard Leigh,Eastbound
+"Bovingdon, Airfield (adj)",SE,51.72117573512758,-0.5502277648288649,210021403647,Bovingdon,adj
+"Bovingdon, Whitehart Cross (SE-bound)",SE,51.71808290308354,-0.5437109456749447,210021409300,Bovingdon,SE-bound
+"Bovingdon Green, The Grange (nr)",NE,51.71708558631509,-0.5372576819123202,210021403590,Bovingdon Green,nr
+"Bovingdon, Nye Way (adj)",NE,51.719733656972664,-0.532568563551899,210021403600,Bovingdon,adj
+"Bovingdon, Memorial Hall (opp)",NW,51.72273692142737,-0.5318487881493857,210021403940,Bovingdon,opp
+"Bovingdon, Hempstead Road (N-bound)",NW,51.72390515946884,-0.5339537372398292,210021403960,Bovingdon,N-bound
+"Bovingdon, Vicarage Lane (opp)",NE,51.725546022157815,-0.533582127883701,210021403980,Bovingdon,opp
+"Bovingdon, Bobsleigh Hotel (opp)",NE,51.72904648478803,-0.5266053638209024,210021404000,Bovingdon,opp
+"Bovingdon, Little Hay Golf Course (nr)",NE,51.73170801328969,-0.5223049080208229,210021404020,Bovingdon,nr
+"Bovingdon, Bury Rise (opp)",E,51.73449121478641,-0.5105708415088129,210021404040,Bovingdon,opp
+"Felden, Sheethanger Common (opp)",NE,51.73664778917107,-0.5040842333760144,210021404060,Felden,opp
+"Felden, Boxmoor House School (opp)",NE,51.73990974633997,-0.49968941038198234,210021404080,Felden,opp
+"Felden, Meadow Way (opp)",E,51.74252606539463,-0.4954457542320007,210021404400,Felden,opp
+"Boxmoor, Hemel Hempstead Railway Station (Stop F)",E,51.743260517520234,-0.4896130513159499,210021404420,Boxmoor,Stop F
+"Boxmoor, Roughdown Road (opp)",E,51.7431349202261,-0.4861409544003169,210021404460,Boxmoor,opp
+"Boxmoor, St Johns Church (adj)",E,51.744232730214115,-0.47923842765298513,210021404480,Boxmoor,adj
+"Hemel Hempstead, Riverside (Stop 27)",NW,51.746958374084855,-0.47446800076289825,210021407010,Hemel Hempstead,Stop 27
+"Hemel Hempstead, Waterhouse Street (Stop 18)",N,51.748414565218866,-0.4737380931829719,210021407005,Hemel Hempstead,Stop 18
+"Hemel Hempstead, Marlowes (Stop H)",S,51.7521356524355,-0.4722363608073832,210021413007,Hemel Hempstead,Stop H
 "High Wycombe, High Wycombe BusStn (Bay 3)",,51.631174,-0.756764,040000002953,High Wycombe,Bay 3
 "High Wycombe, Oxford Street (Stop J)",E,51.630941,-0.753404,040000003058,High Wycombe,Stop J
 "High Wycombe, Castle Street (Stop V)",E,51.629732,-0.74799,040000003052,High Wycombe,Stop V
@@ -53,6 +72,24 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Amersham, Leisure Centre (adj)",SW,51.676677,-0.602658,040000002602,Amersham,adj
 "Chesham, Eskdale Avenue (eastbound)",E,51.710595,-0.603437,040000002836,Chesham,eastbound
 "Chesham, Codmore Cross (Opp 129)",SE,51.709805,-0.599843,040000002743,Chesham,Opp 129
+"Hemel Hempstead, Waterhouse Street (Stop 19)",S,51.74865592195108,-0.47362855440349744,210021406005,Hemel Hempstead,Stop 19
+"Hemel Hempstead, Riverside (Stop 22)",SE,51.74713681636327,-0.47436058904698797,210021406020,Hemel Hempstead,Stop 22
+"Boxmoor, St Johns Church (opp)",W,51.74415968474026,-0.47776342417366097,210021408520,Boxmoor,opp
+"Boxmoor, Roughdown Road (adj)",W,51.742989095189955,-0.48529124408740887,210021408540,Boxmoor,adj
+"Boxmoor, Hemel Hempstead Railway Station (Stop E)",W,51.74292728262222,-0.49097121737359045,210021408560,Boxmoor,Stop E
+"Felden, Meadow Way (nr)",W,51.74234676758888,-0.49619040699024425,210021408660,Felden,nr
+"Felden, Boxmoor House School (adj)",SW,51.739543825079615,-0.4999042964715686,210021408720,Felden,adj
+"Felden, Sheethanger Common (adj)",SW,51.73622373249277,-0.5046775264966367,210021408740,Felden,adj
+"Bovingdon, Bury Rise (adj)",W,51.73437712161162,-0.5107918173660132,210021408760,Bovingdon,adj
+"Bovingdon, Little Hay Golf Course (opp)",SW,51.730443448762806,-0.5239969113514189,210021408780,Bovingdon,opp
+"Bovingdon, Bobsleigh Hotel (o/s)",SW,51.728886694372136,-0.5267698379557931,210021408800,Bovingdon,o/s
+"Bovingdon, Vicarage Lane (nr)",SW,51.72556074739918,-0.5333210324786615,210021408820,Bovingdon,nr
+"Bovingdon, Hempstead Road (S-bound)",SE,51.72387422240907,-0.533636215441298,210021408840,Bovingdon,S-bound
+"Bovingdon, Memorial Hall (adj)",SE,51.72246939270294,-0.531307295006755,210021408860,Bovingdon,adj
+"Bovingdon, Nye Way (opp)",SW,51.719253715976805,-0.5330184035867224,210021409330,Bovingdon,opp
+"Bovingdon Green, The Grange (opp)",SW,51.716966938400574,-0.537116749089025,210021409335,Bovingdon Green,opp
+"Bovingdon, Whitehart Cross (NW-bound)",NW,51.718012073285905,-0.5438000793080944,210021403640,Bovingdon,NW-bound
+"Bovingdon, Airfield (opp)",NW,51.72106067327438,-0.5503762184073987,210021403648,Bovingdon,opp
 "Orchard Leigh, Rushmere Lane (Westbound)",W,51.719523,-0.569749,040000002597,Orchard Leigh,Westbound
 "Chesham, Codmore Cross (adj 129)",NW,51.709651,-0.599732,040000002744,Chesham,adj 129
 "Chesham, Eskdale Avenue (Westbound)",W,51.710506,-0.60357,040000002825,Chesham,Westbound
@@ -283,6 +320,10 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Denham, Springbridge Nurseries (opp)",SE,51.566068,-0.500754,040000001305,Denham,opp
 "New Denham, Knighton Way Lane (Opp)",SE,51.556175,-0.490867,040000001303,New Denham,Opp
 "New Denham, Oakside (adj)",SE,51.552806,-0.487589,040000001301,New Denham,adj
+"Uxbridge, Belmont Road (Stop D)",E,51.547432076206704,-0.4797370037417263,490015585E,Uxbridge,Stop D
+"Uxbridge, York Road (UB8) (Stop V)",S,51.547252562816354,-0.4762960761773012,490005185V,Uxbridge,Stop V
+"Uxbridge, York Road (UB8) (Stop W)",S,51.54752838575518,-0.476762798657549,490005185N,Uxbridge,Stop W
+"Uxbridge, Uxbridge High Street (Stop A)",N,51.54809226787559,-0.48141685264462364,490013969A,Uxbridge,Stop A
 "New Denham, Oakside (Opp)",NW,51.553419,-0.488434,040000001302,New Denham,Opp
 "New Denham, Knighton Way Lane (adj)",NW,51.555741,-0.490679,040000001304,New Denham,adj
 "Denham, Springbridge Nurseries (adj)",NW,51.565948,-0.501249,040000001306,Denham,adj
@@ -322,6 +363,14 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Beaconsfield, Waller Road (Opp)",E,51.610879,-0.633737,040000001229,Beaconsfield,Opp
 "Beaconsfield Wilton Park, Wilton Park ()",S,51.603891,-0.623608,040000000331,Beaconsfield Wilton Park,
 "Gerrards Cross, Gaviots Close (opp)",E,51.577628,-0.549139,040000001331,Gerrards Cross,opp
+"Pield Heath, The Greenway (Stop BD)",SE,51.5374298593326,-0.47120251377340194,490013396E,Pield Heath,Stop BD
+"Hillingdon Heath, Lees Road (UB8) (Stop CC)",S,51.52517517105347,-0.4493990245417484,490009070S,Hillingdon Heath,Stop CC
+"Stockley Park, Stockley Road (->S)",S,51.50306523034362,-0.45089879129170546,490018251S,Stockley Park,->S
+"Heathrow Airport, Heathrow Central Bus Station (Stand 16)",SW,51.47167724677045,-0.45255244779971016,49000801616,Heathrow Airport,Stand 16
+"Heathrow Airport, Heathrow Central Bus Station (Stand 20)",W,51.471368668565226,-0.4537003539676086,4900801620,Heathrow Airport,Stand 20
+"Stockley Park, Stockley Road (->N)",N,51.50342071374799,-0.45126135635053516,490018251N,Stockley Park,->N
+"Hillingdon Heath, Lees Road (UB8) (Stop CF)",N,51.52596509331725,-0.45065517478682576,490007815N1,Hillingdon Heath,Stop CF
+"Pield Heath, The Greenway (Stop BE)",N,51.53657914571174,-0.47078403098796323,490013396N,Pield Heath,Stop BE
 "Beaconsfield Wilton Park, Wilton Park ()",N,51.603619,-0.624164,040000000347,Beaconsfield Wilton Park,
 "Beaconsfield, Candlemas Lane (adj)",SE,51.607099,-0.641143,040000001220,Beaconsfield,adj
 "Beaconsfield Old Town, Aylesbury End (Stop H)",S,51.602852,-0.637819,040000001218,Beaconsfield Old Town,Stop H
@@ -615,6 +664,11 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Iver, King's Church (Opp)",E,51.520735,-0.508283,040000001815,Iver,Opp
 "Iver, Chequers Orchard (Opp)",E,51.520621,-0.507119,040000001845,Iver,Opp
 "Iver, Iver Lane (Northbound)",NE,51.527007,-0.492494,040000001849,Iver,Northbound
+"Cowley, Station Road Cowley (Stop BS)",N,51.529765423398224,-0.48204109958765934,490012611N,Cowley,Stop BS
+"Cowley, Ferndale Crescent (Stop BT)",N,51.53485124585539,-0.4824486657286747,490006802N,Cowley,Stop BT
+"Uxbridge Moor, Cowley Mill Road (Stop BX)",N,51.5383568502022,-0.4823464964299575,490005688N,Uxbridge Moor,Stop BX
+"Uxbridge, Whitehall School (Stop J)",N,51.54109490878079,-0.48199585423744035,490014592N,Uxbridge,Stop J
+"Uxbridge, Crown Walk (Stop P)",N,51.545543676441646,-0.48251121350978593,490005845P,Uxbridge,Stop P
 "Iver Heath, The Black Horse PH (adj)",NW,51.537817,-0.515857,040000001838,Iver Heath,adj
 "Iver Heath, Trewarden Avenue (adj)",NW,51.540925,-0.518424,040000001836,Iver Heath,adj
 "Iver Heath, St David's Close (adj)",NW,51.542723,-0.519807,040000001834,Iver Heath,adj
@@ -622,6 +676,14 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Iver Heath, British Legion (adj)",SW,51.536879,-0.527725,040000001830,Iver Heath,adj
 "Iver, Langley Park Road (Eastbound)",E,51.519358,-0.521732,040000001809,Iver,Eastbound
 "Iver, Post Office (adj)",NE,51.520114,-0.516764,040000001811,Iver,adj
+"Uxbridge, Uxbridge High Street (Stop B)",N,51.54796475344963,-0.48129129599355625,490013969B,Uxbridge,Stop B
+"Uxbridge, Crown Walk (Stop Q)",S,51.545767077308476,-0.48240282964100895,490010686Q,Uxbridge,Stop Q
+"Uxbridge, Hinton Road (Stop V)",S,51.54296804201151,-0.48151532338394215,490008257S,Uxbridge,Stop V
+"Uxbridge, Whitehall School (Stop U)",S,51.54058839676345,-0.48176756476350985,490014592S,Uxbridge,Stop U
+"Uxbridge Moor, Cowley Mill Road (Stop BU)",S,51.5383167952563,-0.4820306021640825,490005688S,Uxbridge Moor,Stop BU
+"Cowley, Ferndale Crescent (Stop BV)",S,51.53340245907473,-0.48236708178296034,490006802S,Cowley,Stop BV
+"Cowley, Station Road Cowley (Stop BW)",S,51.529844080220094,-0.48186548315215444,490012611S,Cowley,Stop BW
+"Cowley, Iver Lane (Stop BQ)",W,51.52962618192906,-0.48379014373712725,490016045W,Cowley,Stop BQ
 "Iver, Iver Lane (Opp 30)",SW,51.526906,-0.492296,040000001800,Iver,Opp 30
 "Iver, King's Church (adj)",W,51.520605,-0.508676,040000001816,Iver,adj
 "Iver, The Fox & Pheasant PH (opp)",S,51.517281,-0.503322,040000001848,Iver,opp
@@ -673,8 +735,13 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Thornhill Park & Ride, Thornhill Park and Ride (Stop D)",N,51.76198,-1.18114,340000009PR4,Thornhill Park & Ride,Stop D
 "Lewknor, Lewknor Turn M40 J6 (Stop B)",NE,51.67327,-0.95874,340001811CHN,Lewknor,Stop B
 "High Wycombe, Coachway (Stand B)",,51.614148,-0.764003,040000000902,High Wycombe,Stand B
+"Heathrow Airport Terminal 5, Heathrow Terminal 5 (Stand 10)",S,51.47136871570557,-0.48958085970509985,49001643010,Heathrow Airport Terminal 5,Stand 10
+"Sipson, Newbury Road  Compass Centre (Stop BU)",E,51.4810970087968,-0.46592935587855644,490010197E,Sipson,Stop BU
+"Heathrow Airport, Heathrow Central Bus Station (Stand 15)",SW,51.471103575731135,-0.4540548733412102,49000801615,Heathrow Airport,Stand 15
 "Gatwick Airport, South Terminal Coach Station (Stand 2)",N,51.1568810,-0.1595530,4400CY0361,Gatwick Airport,Stand 2
 "Gatwick Airport, North Terminal Bus Station (Stop 4)",N,51.160485,-0.176657,4400CY0375,Gatwick Airport,Stop 4
+"Sipson, Newport Road (Stop BS)",N,51.48033031136206,-0.4595753859086686,490010245N,Sipson,Stop BS
+"Harmondsworth, Compass Centre (Stop BW)",W,51.48149419636875,-0.4694875947410497,490005530W,Harmondsworth,Stop BW
 "Lewknor, Lewknor Turn M40 J6 (Stop A)",NE,51.67149,-0.96348,340001811WAT,Lewknor,Stop A
 "Thornhill Park & Ride, Thornhill Park and Ride (Stop C)",N,51.76166,-1.18103,340000009PR3,Thornhill Park & Ride,Stop C
 "Headington, Gladstone Road (adj)",W,51.76197,-1.20325,340001308CNR,Headington,adj
@@ -686,6 +753,7 @@ name,direction,latitude,longitude,atco,locality,indicator
 "Slough Town Centre, Slough Bus Station (Bay 6)",,51.511399,-0.59286,03700526,Slough Town Centre,Bay 6
 "High Wycombe, High Wycombe BusStn (Bay 18)",,51.631527,-0.75609,040000002968,High Wycombe,Bay 18
 "Slough Town Centre, Slough Bus Station (Bay 8)",,51.511479,-0.592843,03700528,Slough Town Centre,Bay 8
+"Heathrow Airport Terminal 5, Heathrow Terminal 5 (Stand 8)",S,51.47184148672261,-0.4899828009406426,4900164309,Heathrow Airport Terminal 5,Stand 8
 "Studley Green, Dashwood Hill (Westbound)",W,51.648476,-0.856934,040000002904,Studley Green,Westbound
 "High Wycombe, High Wycombe BusStn (Bay 15)",,51.631456,-0.756222,040000002965,High Wycombe,Bay 15
 "High Wycombe, Downley Turn (adj)",SE,51.640128,-0.781477,040000003326,High Wycombe,adj

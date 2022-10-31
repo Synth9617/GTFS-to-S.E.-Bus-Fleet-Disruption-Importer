@@ -17,7 +17,7 @@
 #########################
 
 ##### DO NOT EDIT ANYTHING BELOW THIS!!!! #####
-import csv,config
+import csv,config, CoordConversion
 
 CONF = config.Config()
 
@@ -29,6 +29,14 @@ with open("NaPTAN Dataset Stops.csv",'r') as f: # CSV File downloaded from Gov.U
     NaPTAN = list(csv.DictReader(f))
     print(len(NaPTAN))
     for line in NaPTAN: # Cycles through the CSV and creates a dictionary of stops with the ATCO as the key.
+        if [line["Latitude"],line["Longitude"]] == ["",""]:
+            E = line['Easting']
+            N = line['Northing']
+            EN = CoordConversion.ENtoLL84(E,N)
+
+            line["Longitude"] = EN[0]
+            line["Latitude"] = EN[1]
+
         LINE_DATA = {
             "name":f"{line['LocalityName']}, {line['CommonName']} ({line['Indicator']})",
             "indicator":str(line['Indicator']),
@@ -52,7 +60,7 @@ for FILE in GTFS_FILES: # Supports multiple GTFS datasets
             else:
                 STOPS_DATA = STOPS[ATCO]
                 if STOPS_DATA not in STOPS_FOR_IMPORT:
-                    if "" not in [STOPS_DATA['latitude'],STOPS_DATA['longitude']]: # Will not include stops which have not location data on the NaPTAN dataset
+                    if "" not in [STOPS_DATA['latitude'],STOPS_DATA['longitude']]: # Will not include stops which have no location data on the NaPTAN dataset
                         print(STOPS_DATA['name'])
                         STOPS_FOR_IMPORT.append(STOPS_DATA)
 
