@@ -1,6 +1,9 @@
 {
+    "GTFS_FILES_TO_UPDATE":{
+        "CarouselBuses":"https://www.carouselbuses.co.uk/open-data/network/current?format=gtfs"
+    },
     "GTFS_FILES":[
-        "carouselbuses_1666701513"
+        "CarouselBuses"
     ],
     "OPERATOR_ALIAS":{
         "ASES":"ARBB",

@@ -1,8 +1,2 @@
-Input/carouselbuses_1666701513/agency.txt
-Input/carouselbuses_1666701513/calendar_dates.txt
-Input/carouselbuses_1666701513/calendar.txt
-Input/carouselbuses_1666701513/routes.txt
-Input/carouselbuses_1666701513/shapes.txt
-Input/carouselbuses_1666701513/stop_times.txt
-Input/carouselbuses_1666701513/stops.txt
-Input/carouselbuses_1666701513/trips.txt
+Input/*
+Output/*

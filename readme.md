@@ -13,6 +13,16 @@ It is NOT developed by us, but we do use it and do approve of it: https://www.np
 
 
 # Setting the config files
+## GTFS_FILES_TO_UPDATE
+This should be a list of links to GTFS datasets.
+### An example is saved below!
+``` json
+"GTFS_FILES_TO_UPDATE":[
+        "https://www.carouselbuses.co.uk/open-data/network/current?format=gtfs"
+    ]
+```
+This will download the latest GTFS data for Carousel Buses when the `Update_Datasets.py` script is run.
+
 ## GTFS_FILES
 This should be a list of the paths to the folder of GTFS files. 
 The folder listed in the GTFS_FILES listing MUST be a valid GTFS dataset with the following files.
